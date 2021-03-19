@@ -1,0 +1,27 @@
+# -- A C-PostgreSQL Demo -- #
+
+This is a program the uses C to interact with a PostgreSQL database. It's been a long time since I've had reason to write anything real in this language, and I have grown savvier since then, so I decided to write this demonstration peice for you. You will notice that there are three other files in the root of this folder. The first is a bash script labeled "setup.sh". This is an installation script that you can use (as sudo) if you would like to compile this project yourself. It checks for dependencies and installs them if needed, then compiles a binary that should work on any Linux system. Of course, I do recommend you read it before you run it: confident as I am in my own judgment, you know your own computer better than I do, and it wont be my fault if things go sideways because of some weird conflict with your specific system configuration.        -- Only YOU can prevent wildfires. -- 
+
+Next is the source code in cPsqlDemo.c. It's a C script that connects to a ProstgreSQL server and performs some operations on whatever database you point it at.
+
+Specifically, it does this list of things, in order:
+
+1. Prompts the user for a host IP address, port number, role/username, database name, and password with which to forge a connection to a running PostgreSQL server. (To get past this step, you will have to provide it with connection info to an actual database to mess with, but I trust you can manage that on your own if you haven't got one laying around already. Otherwise you can just take my word for it. It works.)
+
+2. Forges a connection with the provided credentials and prints out the server version as a proof of life.
+
+3. Drops any tables in the database with the name "gabe_demo_users" or "gabe_demo_cars" and recreates them with certain constraints on their columns. (If by some cosmic coincidence you actually do have tables named this in your database: Nice. Make a new db before running this program.) In particular, the car_id column of gabe_demo_users is referenced to the id column of gabe_demo_cars so that each user can be assigned at most one car from the cars table, and only those cars are allowed.
+
+4. Populates these tables with a load of mock data from the CSV files in the folder labeled accordingly. This is the most interesting part. I wanted to build this program like something I would actually want to use myself, so I ended up working in some more-than-basic functionality here. The way I've set things up, this program should be able to transmit tables of any size, so long as your device has the memory to store any one line of that table at once. This is because I've made use of some dynamic memory allocation to buffer through the table in arbitrarily large chunks of lines, keeping memory usage at an absolute minimum for the task, and being careful not to slow things down too much.
+
+5. After data transfer, I add a couple more constraints to these tables, just because I can, requiring each user have a unique email address, and a unique car_id, or none at all.
+
+6. Finally, I assign some random people random cars, clean up, and close the program.
+
+All this is done with a lot of error checking along the way to make sure everything goes smoothly.
+
+Besides these files there is also a binary named cPsqlDemo.bin. This is just a precompiled version of the source code for your convenience. It should be reasonably portable, especially across Linux systems.
+
+Just a simple demonstration of working with Postgres in C. I hope you like it!
+
+-Gabe M. LaFond

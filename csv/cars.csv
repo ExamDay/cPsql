@@ -1,0 +1,2001 @@
+id,make,model,model_year,country_of_manufacture,price
+3fae1e2f-781f-424f-b7f9-b3f64f4266ce,GMC,Savana 3500,2001,Peru,545652.22
+00ebdc21-62ec-4509-a416-186d16a457b8,Pontiac,Firebird,2001,Dominican Republic,761018.01
+42eb23ad-b599-460a-b98d-29c4505e1620,Subaru,Legacy,1996,Oman,858932.97
+7181013a-2bf1-42fc-b2a0-411ac82d5c69,Chrysler,300,2006,Bangladesh,339665.19
+9ff1fb63-007b-4c83-b2e3-d5789f989409,Mercedes-Benz,E-Class,2002,Sweden,966630.73
+40112637-a1a4-424f-a657-1577f0ebcd37,Nissan,Frontier,2011,China,402727
+49f5be34-77c8-4e33-af10-c622488b2f90,Mazda,B-Series,1992,Vietnam,442271.29
+98cbae2f-7478-4c86-b4f1-0acef52ef6f1,Mazda,MX-6,1992,Sweden,511782.54
+921577ef-22ee-4db8-9dbb-9656b8be1621,Chevrolet,Astro,1992,United States,593920.1
+ef56cf1e-39dd-4d04-938d-e46609f5b43c,Mazda,B-Series,1995,China,229654.1
+392b525d-7e87-4fcc-ac1a-d37cfb65d3b1,Mazda,MPV,1989,Indonesia,80932.07
+b9b8449d-d435-4c4c-b358-e3c2c5b7019e,Ford,Econoline E350,1992,Nigeria,62693.95
+1414f4b6-a254-435a-bdf0-21adf0e213e2,Volkswagen,GTI,2006,Ethiopia,416419.47
+91668d7e-5825-4765-9ee1-a08747f22cef,Oldsmobile,Cutlass Cruiser,1993,Cameroon,297629.01
+beb020ab-970d-408d-a9f5-cf73803e1923,BMW,M3,1997,Indonesia,372992.18
+794901f5-588f-45ac-9627-6dfec8f94a97,Chevrolet,Express 3500,2003,Argentina,159125.17
+e62e8207-5f04-43b2-b30d-0076e8964c6e,Buick,Skylark,1987,Portugal,270474.62
+d6ed6fb3-bf29-4836-9d51-790475f23919,Chevrolet,Avalanche 2500,2006,Portugal,848695.97
+1312448e-9550-4118-929a-c3d58e3e7161,Volkswagen,Jetta,2000,China,278936.52
+3ab5496f-b1db-4cd5-a672-efdb7b2e2892,Lamborghini,Gallardo,2004,South Africa,940946.86
+bf3de90e-7943-49bd-b7cc-54f7283dd4fb,Lexus,RX Hybrid,2012,China,459177.16
+d851e086-f975-4f15-8c2e-5df9fcf92404,BMW,M5,2006,Indonesia,919566.83
+e4950683-202b-4b08-9edc-764afd5f27c4,Lincoln,Continental Mark VII,1986,Armenia,108258.66
+d8fc3faf-7155-4445-ae90-4c5cd0c818b0,Ford,F150,2010,Japan,758563.68
+afe09d2b-43a8-4585-a4fa-f7a1e90d9f48,Volkswagen,Scirocco,1984,Pitcairn,139323.13
+bf6067b5-81fe-4ee2-b73a-1b193e6e2231,Ferrari,458 Italia,2012,Russia,991210.5
+51315dab-2245-4f94-8f9c-c72d29acedd2,Kia,Spectra,2003,Sweden,634482.36
+e70e00d8-3f4f-428d-b8cc-256e84b8e9d0,Dodge,Stratus,2000,China,138193.62
+4429d30f-1025-4d18-9fce-5272432527e6,Mercedes-Benz,E-Class,2004,Russia,204705.95
+5ee741b5-ab7b-4bc5-b4b5-05896f0d65a9,Jaguar,XK Series,2005,United States,249783.35
+f66ad5af-caef-4b08-b81e-63ec236b65a6,Mercedes-Benz,SL-Class,1988,Russia,672355.42
+be0f3f1f-ad6b-4ce1-abc8-beb165f163fd,Subaru,Loyale,1990,Czech Republic,444938.49
+5ba1fdc6-99ee-4d22-ac8c-b8a54d313428,Pontiac,Bonneville,1995,Albania,490403.37
+8cea6500-b461-4d86-821d-9681b5ed61cc,Mercury,Tracer,1992,Hungary,578726.33
+3969d375-71e6-48c3-a5a5-a0d877e5e87f,Volkswagen,Jetta,1984,Greece,261171.6
+a7859948-0251-40ec-b883-812c7dec65b9,Ford,Focus,2006,Portugal,758431.94
+0f491c44-5f5b-440e-9fe9-a88b1f2c2348,Ford,E150,2011,China,33095.82
+3227e83f-8f60-470d-9999-631bd2091320,Chevrolet,G-Series G10,1995,China,492777.23
+d4a3df04-873d-44b2-a298-05ecb441bab4,Chevrolet,Silverado 2500,2003,United Kingdom,489826.96
+8a85c592-ee25-4315-b60c-4faa0b410f20,Spyker,C8,2007,China,431671.94
+c08189e8-1b09-4b07-bdd4-38141be3734a,Toyota,Tundra,2010,Indonesia,956660.11
+76051f68-f4c0-4cfa-afb2-7c4846c550b3,Hummer,H1,1993,Argentina,382360.71
+07cc3ec8-35bf-43a3-a2a3-f03b3068052a,Buick,Riviera,1990,Indonesia,187827.55
+e5de0c95-a303-49be-a05b-9c0d37ee4edc,Hyundai,Sonata,1993,Japan,558440.29
+d1d8fd27-5c3d-4392-963c-16ad1a8d11d2,Chevrolet,Avalanche 2500,2005,Malaysia,571099
+a6ff5f00-ab7b-465b-8200-6310da790337,Lincoln,Navigator L,2007,Myanmar,783550.06
+8b4db47f-aa9b-409d-bf8c-cef6443f9fd4,Mercury,Grand Marquis,1999,Brazil,636463.9
+bad8863d-f993-4691-aa84-9f27854cdde1,Ford,Thunderbird,2006,Canada,332640.73
+cff8d763-575e-4181-a5c5-1e568308cf53,Kia,Spectra,2001,China,963174.02
+412e6204-65c3-485d-be40-518689feaff7,Honda,Passport,1999,Vietnam,9960.53
+51c9e363-7e67-4a9c-816c-65cd6af0271b,Buick,Riviera,1986,Mayotte,36642.42
+73a3880f-db3c-476c-9a11-a6b5febf152b,Ford,Thunderbird,1965,Georgia,316909.01
+cc8f5438-1d01-411f-93a2-324ba5c26e06,Dodge,Grand Caravan,2000,China,627099.76
+42b3d3fe-8439-44ed-aea0-d152cb2903a6,Lincoln,MKX,2008,Ukraine,333383.83
+b1e9ae86-2765-47be-b0b2-3a2f528f6404,BMW,7 Series,1996,Indonesia,612377.01
+c5606b93-3ba4-4ee7-b0f8-bef556d235a8,Mazda,Mazda6,2012,Guatemala,821453.76
+852a10d0-7457-4443-8467-70f2831d79ac,Toyota,Corolla,2006,Greece,804861.32
+9aa7fce5-732d-4985-84cf-8099a15a6117,Dodge,D350,1992,Russia,548357.92
+f5292e2c-b50d-4b22-aeb9-953895ba0b64,Pontiac,G6,2010,Russia,940704.53
+50836f09-0b7e-4b23-a3e4-355070ce8435,Infiniti,J,1997,Japan,753488.01
+ecdd0b91-40a9-44fe-86db-78831d730f87,Chevrolet,Corvette,1963,Mongolia,411495.88
+58b52f7e-067f-4ac3-911b-8bf65a267a98,Chevrolet,Silverado 2500,2012,Czech Republic,426510.89
+84f41fd2-f184-483e-886c-2d2bed93432f,Chevrolet,Sportvan G20,1992,Russia,881475.17
+cdd970dd-bd54-4657-b455-429aec0d6f7c,BMW,7 Series,1999,Malaysia,960413
+1f76d5ad-5963-494c-844c-a8d5396c8d3c,Mercedes-Benz,S-Class,2007,Peru,355461.95
+f3707250-c246-4eef-8be6-4517054d954a,Mercedes-Benz,E-Class,1993,Peru,331875
+da75e20f-c18e-4ec6-92df-c25496906174,Maybach,Landaulet,2010,China,476071.5
+26e3cb75-b8f6-4089-805b-620f2772c3eb,Lotus,Exige,2008,Indonesia,559335.85
+58bd9e56-c77d-4e07-8e22-3aa3b58e86cf,Pontiac,LeMans,1964,China,565336.15
+d3c77b4d-529a-4065-bd05-e8fc1eb1c671,Buick,Century,1999,Honduras,209042.11
+d57ee3c3-37b8-4c69-a69e-f545cdfeceac,Mercury,Lynx,1987,Indonesia,482336.57
+cd9e3d6b-a8ca-44fc-ad8c-55a001d9c9fc,BMW,530,2005,Thailand,448089.43
+7a3b2aba-6f7d-4c54-8c35-1133aa35ebdd,Chrysler,Cirrus,1999,Malawi,498948.53
+11025a40-fd77-4fd8-9df7-bc1e7fd92756,Toyota,Sequoia,2004,Ukraine,977158.74
+5e9bc6f3-8df0-452b-a840-fd3d1a2eded9,Ford,F350,2011,China,828290.33
+01269dad-fb8a-4085-8c5e-0df4f4490258,Chrysler,Town & Country,1994,China,727726.22
+f0883640-a060-4cb9-96c3-a450d8fc47c5,Mitsubishi,GTO,1990,Malaysia,218937.57
+ba5c7231-fa58-40f9-a5bc-9160f2a64eb5,Chevrolet,Silverado,2011,Russia,11561.54
+912e11a1-ded7-497f-ba96-720ec59aef5e,Dodge,Dakota,1993,Portugal,729119.38
+c6c60923-f9e3-4dcf-935c-304bdd12ad43,Ford,Expedition EL,2009,Armenia,964249.4
+85e38b1e-ac57-440e-9a75-b2e860c66753,Subaru,SVX,1997,Armenia,79216.3
+e9db7236-01d9-4fb0-b32e-7f07c3d18300,Land Rover,Freelander,2010,China,550376
+709c03eb-6f5e-442a-bb71-b0ac60991713,Audi,Q7,2007,Afghanistan,621126.74
+26826640-ea67-44f8-8740-029f8e246304,Volvo,S80,2008,Peru,273594.03
+78557490-5718-4a69-b4b1-000ff66087d1,Ford,Explorer,2012,Portugal,741307.59
+51a920dc-2796-4b74-ae6b-1e35cee15a1a,Mercedes-Benz,E-Class,1998,Indonesia,974816.05
+3fb7aae4-f0ea-4f9c-ba3c-768e3d1a3839,Mercury,Sable,2002,China,270827.8
+05c35f75-bdc2-4407-a57a-e1861452b714,Volvo,V70,2009,Croatia,750792
+85cf898b-3dcd-4934-979a-036a675bcd21,Dodge,Grand Caravan,1996,Indonesia,531803.63
+03bc2875-8d6e-4b70-a583-0d707eaa7298,Bentley,Azure,2006,Philippines,770490.22
+a0f1aa1e-c516-43b6-8d85-7396f47a55bd,Audi,TT,2012,Croatia,590639.47
+801b1fd9-7a77-4394-8847-1291a3919a9c,Mitsubishi,L300,1987,Indonesia,934553.44
+c2f6fc0b-1172-43c8-ad28-cc3bd99d23b3,Nissan,280ZX,1979,China,64738.97
+bc825c30-59fe-41aa-96c9-8ee2919b501a,Mazda,CX-9,2012,Ecuador,223537.73
+541af42d-2413-4554-8a1c-fa9781b8236e,Cadillac,Escalade,2010,United States,180540.33
+833cff93-cc07-446a-b500-e817bcfe4fa4,Ford,E150,2010,South Africa,15928.65
+70147334-e9b5-4c1f-86b6-6eb67e29e4d4,Mitsubishi,Lancer,2004,Sweden,578116.4
+6973bc43-c950-47c5-aa06-f8f34d3aa162,Dodge,Colt,1994,Indonesia,422884.58
+e59bf2c0-72e2-4ff1-bfc0-f914662f7a2c,Suzuki,Esteem,1995,Czech Republic,289032.87
+a35dd91f-e1c1-4b60-9ea0-524210fa03f2,Audi,Q7,2011,Palestinian Territory,332782.9
+a2bd1161-fc06-4d32-9ba0-14fbdaaa5703,Ford,E-Series,1986,Colombia,282083.6
+6102129d-b1ea-40a8-8b31-5e289b2b08ce,Mitsubishi,Outlander Sport,2012,China,673979.1
+8f2f1622-f607-4c00-8ebc-9fa0bd239df0,Nissan,JUKE,2012,Afghanistan,528384.75
+e45763e8-b366-49e5-863d-8be684920948,Mercedes-Benz,E-Class,1990,Bulgaria,530266
+59749cc9-8210-4363-aca9-32fd6c98802f,BMW,Z4,2011,Portugal,107131.76
+1faa5bd1-bc99-4b90-a5dc-e320b61b376a,Mercedes-Benz,500SEC,1993,Brazil,465912.44
+a94993a8-c852-49e5-90ae-6ea66ff515ec,Volvo,V70,2007,Sweden,573514.55
+e9f204c1-4e40-4f1a-99ce-b18d655ebdd9,Chevrolet,Aveo,2006,United States,905571.07
+3b1d763b-00c2-49ff-96cc-515f51410d75,Porsche,911,1995,Indonesia,28440.07
+26f03703-f492-4853-a99b-6b69f34e70a1,Hummer,H1,2003,United States,548342
+965a2bb1-c937-42ae-8c94-b8e472b152e3,Studebaker,Avanti,1964,Philippines,669539.27
+318ca0ba-8b98-49d1-94fd-d778d53a1653,Toyota,Sienna,1998,Sweden,161847.82
+e889b268-7434-488e-88b8-eb874a6cb580,Maserati,Karif,1990,Portugal,164329.63
+32fd0607-e576-4a8c-a1ca-aff22fe4f1a2,Pontiac,G6,2009,China,665749.23
+85a39d0f-1c31-4a17-9218-3a9fc5041526,Buick,Lucerne,2010,United States,168797.14
+a06817a3-d7fd-44eb-8a0e-e219870012fa,Oldsmobile,Bravada,1992,Philippines,362160.59
+fc9e7304-2183-455b-af07-80ce514eef3c,Dodge,Dakota Club,1992,China,283769.71
+2def48c5-a26b-49fd-966a-0640f87edefa,Dodge,Stratus,1997,Palestinian Territory,329458.95
+4022642c-7a0b-4d67-8a4d-08d1798439ee,Chevrolet,Suburban 2500,2004,Colombia,667412.37
+d1538015-e415-442b-8e0c-df7447ea252d,Dodge,Ram Wagon B350,1992,Nigeria,231056.96
+7df9a11d-ed76-4006-9c3d-bf39001e1121,Chrysler,PT Cruiser,2007,Brazil,768278.3
+67d2fb0b-da3c-453b-8a03-4b66e27411a5,Audi,S8,2003,Czech Republic,400498.88
+265bb572-6749-4805-b770-b2236c00e9e0,Ford,Thunderbird,1992,Honduras,123434.56
+8c0806d0-ea14-483b-8366-29f56c862510,Mazda,B-Series,2005,Poland,385609.59
+581b6b67-52db-4dde-b631-95ee5f63d41e,Ford,Galaxie,1966,China,239743.03
+ef15ebcf-93ce-4368-aaa5-8e9d01682d33,Mercedes-Benz,SLK55 AMG,2009,Russia,369852.37
+52136bc1-51ee-4264-a0a6-0dd4ef4112f8,Mitsubishi,Eclipse,2011,Brazil,814167.29
+597bc2a9-2793-4889-b920-02964c9b44b5,Buick,Skylark,1990,Ukraine,759630.13
+954dad18-e09c-4649-897a-e1eb89d952fa,Volvo,V50,2010,United States,841823.95
+da14654f-6ee4-4bf5-ad67-2c6c5dab00e3,Pontiac,Grand Am,1987,Sweden,205919.76
+fdac3710-9a23-401d-85c7-dc9afa16c172,Volvo,XC90,2012,Venezuela,882963.81
+0f004708-8572-4bfe-8c1e-fe8d6a8e3597,GMC,Sonoma,2001,Indonesia,565935.63
+6d3f2e1b-e06d-4c13-939f-430c707998e6,Dodge,Viper,2009,Kazakhstan,597031.48
+c4de1728-26ca-49d6-8000-62de3c8f0b6f,Toyota,Camry,1995,China,403393.15
+cadd175d-2ad0-4fe8-b2e4-52269312fca5,Mazda,MX-6,1995,France,697236.44
+d87d4e5b-e604-4a8f-8164-e55b85a762c1,GMC,Yukon Denali,2000,Iran,405289.17
+32a7da34-b710-46be-8342-fbc0e0224f41,Buick,Skylark,1995,Macedonia,436500.65
+46f83ab3-de5c-4b1e-a4ef-f0110d557366,Toyota,4Runner,2012,China,226159.32
+45b80cac-afde-45db-9006-13dcc1a1e9c5,Nissan,Quest,1993,Poland,423488.64
+46c985b9-2f30-4e1f-94bf-8304093ee99d,Pontiac,Torrent,2007,Democratic Republic of the Congo,492107.39
+de77f0fa-2658-41c8-9990-137c24c165b8,Mitsubishi,Mighty Max Macro,1992,Iceland,379990.58
+5be28eb5-01be-4cb3-ac8e-99acedb96aad,Mazda,MPV,2003,Luxembourg,791933.16
+ba6e5a8f-ae4f-4790-a788-95b16be46559,Mercury,Grand Marquis,2000,France,816905.58
+2e908017-d049-4bbd-9645-0056075fffca,Volvo,C70,2006,China,552661.81
+7a394b94-01fe-402f-bfdc-bdceebfe14ad,Lexus,LS,1993,Brazil,587611.8
+7c4dc56f-e5a7-4b0c-b44a-3755a60cf870,Lincoln,MKS,2012,Yemen,51400.53
+8317fa4b-740a-486c-ac05-37596bf26eb3,Honda,Accord,2010,United States,212316.79
+e55b80ca-87bd-40e1-a90b-baeba27fceee,GMC,Savana 1500,2008,Ukraine,174705.47
+1427c185-0688-4cdd-811d-44627a458884,Chevrolet,Silverado 2500,2001,Thailand,482833.02
+cad986e8-0f8b-4b0a-adc6-b758ec99c697,Ford,Country,1967,China,942901.71
+f938e361-2f0e-4c07-8264-e85456bbd353,Chevrolet,Lumina,1996,Ethiopia,454234.2
+3dff67de-6247-4d83-95e0-e5565fd3ec92,Subaru,Justy,1992,Colombia,991119.65
+c7ff1e0d-a000-4a27-b5ef-ca5859b518af,Kia,Sportage,2007,France,415645.76
+ec202b24-9af9-4799-b3fc-a2b3dc8255da,Ford,Mustang,1983,Colombia,361541.07
+5f6051d7-d938-4b81-a67e-7e8aa16b851c,Nissan,Maxima,2012,Ukraine,100775.65
+0d95d86b-21ae-463e-ab8f-983bb24e4a52,Ram,2500,2012,Spain,849375.17
+a8606814-23ee-483d-9f3f-df89a818ae03,Ford,F-Series Super Duty,2007,China,873327.31
+060493a3-d361-4b50-90a7-d85f9f88e4b8,GMC,Savana,2007,Indonesia,900827.85
+6714a5bc-1c01-40af-9423-8991b8161217,Volkswagen,Jetta,1998,Sweden,314937.38
+e5ef0241-343a-4c1c-ad20-d00f274b68c7,Oldsmobile,Bravada,2002,Cyprus,378947.21
+53cfd5c3-2a3d-4a27-982c-95703b892bcb,Dodge,Ram Van 1500,1995,Yemen,56357.65
+cc1994c8-e8be-4df9-87e2-651175269599,Saab,9000,1998,Poland,810430.61
+614a1b4b-b3e0-440a-9f17-71a51d3d0d7c,Ford,F350,1994,Russia,87736
+6095c435-de92-4577-91c2-a143fba64636,Mercedes-Benz,300SE,1993,Argentina,872182
+a2c43584-6a5e-48e5-a969-83f99fee59c2,Ford,E-Series,1992,Poland,194201.81
+b694fe43-2dae-418d-b56f-479f0a699dc3,Chrysler,Cirrus,1997,Poland,221407.5
+06d821be-30b2-404b-b072-07b7e5e1475d,Buick,Park Avenue,1998,China,199170.89
+ce71f1db-5351-46ba-8a76-30ac378990b4,Mitsubishi,Diamante,1992,China,737535.02
+b9e65e34-5ac5-46c7-a035-b8b51e4805a8,Audi,A6,2001,China,27371.39
+d1e45936-4145-42ca-b168-3f49836655ef,BMW,760,2005,China,580977.55
+770a6c59-a8d5-4d21-a87a-f5fd6255e7f7,Volkswagen,Tiguan,2011,Russia,893708.03
+cad96514-a02d-4502-a14f-d8f12b2fd1d9,BMW,7 Series,1998,South Africa,167508.41
+3b9336ce-51db-4301-bdea-112c218b8bca,Cadillac,Escalade,2006,Ghana,638275.81
+2b4b980a-4626-4c32-b90e-a47feea4ca5f,Ford,EXP,1988,Kyrgyzstan,373705.23
+9baeed51-1b58-499c-a011-dd4217919a7a,Spyker,C8,2005,Cuba,218651.92
+d48774dd-f2d5-4fd6-80ad-3e94c9b9ddcd,Saturn,VUE,2002,Mexico,978010.35
+02e45a1d-27e6-4cbb-a596-44dbcee55dfe,Dodge,Shadow,1992,Dominican Republic,803565.33
+1e9702f4-9e67-4944-b565-9c5356035a22,Audi,RS 4,2007,Japan,919125.89
+59a530c4-1eb7-4220-bcba-f071c232335f,Pontiac,Sunfire,1998,Brazil,999128.15
+7b38aab0-7f9a-4d46-9495-32e84ad3014c,Oldsmobile,Bravada,1992,Thailand,300426.76
+09b72fde-d5a7-4010-8260-fdc74234648d,Maybach,Landaulet,2009,Russia,75484.24
+65e23558-365f-4531-8b48-35a376c8dd5e,Maserati,GranTurismo,2008,Canada,431581.29
+b2a5b5e1-5e9c-4d6f-b0cc-ed3526858fdf,Land Rover,Defender,1997,Honduras,168871.39
+373a815b-a48c-4fac-99b1-57766ca326d6,Ford,Taurus,2009,Peru,477261.26
+ec13b04c-3f97-49a2-8205-fbcf292e7328,Toyota,Echo,2005,China,115180.03
+ddd1cc00-085d-423c-a3fe-d3ebfbdf2eb9,Chevrolet,Camaro,1995,Nigeria,117461.14
+f1a8186b-35bf-4d28-b3fb-6696d58a31cf,Nissan,Quest,2001,China,916471.68
+35c3221a-83f2-46a2-acfd-7e1effe77591,Ford,E350,2012,Ukraine,974665.34
+face845d-73a2-47be-b239-9c879e35cb87,Ford,Focus,2005,Portugal,732258.06
+357adecf-912a-4b02-ae89-10343537088f,Infiniti,QX,1998,Indonesia,380030.07
+220a301c-ca10-4228-ac49-dbc9d4da36cd,Mazda,626,1987,Albania,353959.27
+a861e2a9-e2e7-43b1-8d26-25911209fd18,BMW,X5,2007,Afghanistan,512418.96
+2f0c0ef1-0bee-4d2b-8588-b9cbc9939946,Ford,F350,2002,China,679450.59
+ba0ac33b-cae0-4d52-bca9-c627311b166a,Lincoln,Town Car,1991,Indonesia,677758.19
+bc781ca4-99e9-4396-ba5b-83e4a2217d70,Volvo,V70,1998,China,582974.27
+09879618-a930-48d9-8eb2-4b9afaa8ca15,Chevrolet,Venture,1999,Indonesia,362080.18
+a2933a28-9e59-40a3-933f-836e5762169d,Chevrolet,Cavalier,1996,France,620290.82
+f5fef947-0ba0-4aef-8c80-b8e7a5bc09ac,Ford,Crown Victoria,1997,Philippines,285973.48
+7a6181a3-0d65-48a3-a6e1-326123bf5661,Ford,Expedition,2009,Brazil,351779.95
+457d2f81-3a21-4460-8da0-478ce7e64ee6,Dodge,Caravan,1998,United States,410615.7
+2e9fae75-7410-422e-b555-887cff7bf248,Jaguar,X-Type,2007,Philippines,38352.32
+df7d906b-01ed-4781-bb80-e461af99d351,Ford,Mustang,1983,New Zealand,757699.07
+0ff6dc15-0d60-466a-a1a0-c97aa6e015a7,Saab,9-5,2002,Panama,339220.16
+cc07ddcd-7b12-478c-8dd9-80e61d74a0d6,Subaru,Outback,2005,China,477743.63
+d2a17979-3cbc-41a7-bdf6-9facf30f50e8,Cadillac,DeVille,1993,New Zealand,546580.91
+a1e0dbc6-837b-49c9-89f7-dbb69e5c79ec,Honda,Fit,2010,Portugal,94936.34
+f1680e4c-5898-4517-9941-ef2556f2835d,Volvo,V50,2011,Indonesia,654915.73
+9db798f5-caa6-42d9-8116-2d001a10a789,Land Rover,Range Rover Evoque,2012,Portugal,498814.68
+18d63152-4fe6-4741-86f1-aefac24de5b5,Chevrolet,3500,1992,Tunisia,803375.03
+3938e66f-0bcc-41a0-9d9d-9a76d1108060,GMC,Yukon XL 2500,2009,Netherlands,92189.58
+5cd020f9-edf4-4095-8d50-c4e61514072b,Isuzu,Trooper,1995,Norway,451730.66
+52623fbc-c3dc-4daa-8720-18d74454be12,Toyota,Celica,1992,Greece,10844.03
+8c505bee-6c3d-458b-a53c-f8e7830ae0a2,Dodge,Ramcharger,1992,France,603122.05
+278465cc-2469-4085-8b2c-a74e4213b753,Hummer,H1,1997,China,954162.77
+8bc159bb-186e-4183-8fad-4fb414c7f5cc,Audi,A4,1996,Ireland,647124.3
+2e294e36-3425-4616-a25c-22161a32dc4f,Lotus,Esprit,2002,France,798988.02
+6d746f83-4664-46d4-a9c3-f7d4b56c6879,Jeep,Grand Cherokee,2006,China,353499.07
+ed8fbdf4-6b93-432f-818c-4cdc798cc530,Dodge,Grand Caravan,2003,Philippines,655908.2
+eee74f66-f118-48bf-abf6-ec9e619ccb41,GMC,2500 Club Coupe,1995,China,225846.33
+93e9a354-2489-42f7-b730-a4f58a4102ee,Jeep,Wrangler,2012,Zambia,961939.27
+05b1184b-2e5b-4914-b0b7-4f6211a636e2,Ford,Mustang,1999,Ethiopia,869118
+329f12ce-15f4-45ee-b266-1e7eccc72ce8,Ford,F150,1984,Macedonia,974670.81
+65c4d514-b323-4935-87c3-9607b3bf4bc5,Lincoln,Continental,1985,Poland,730973.34
+4e0a634c-f16b-4faa-83d6-cf5bbeb9f4de,Chevrolet,Avalanche,2012,Portugal,513249.06
+ffe032af-0d43-4a25-bc3f-e3880555e046,Chevrolet,Silverado 2500,2009,China,856649.78
+2e601d30-762d-4628-a9eb-957ef65e0642,Ford,F250,2007,Philippines,660136.61
+d5ded0de-7db8-477c-9252-08b13ec6cf78,Ford,Mustang,2012,Colombia,986130.99
+da188afd-3406-4973-a72e-724e6cf89e80,Lexus,IS-F,2011,China,170082.84
+0fc36fee-0aba-4eff-a8fd-1443f982d3b2,Mitsubishi,Galant,2004,Indonesia,285899.71
+7fcde8b4-c44e-4245-8b71-7ab3bdd9135f,Subaru,Forester,2011,Indonesia,133418.7
+1897e499-d652-468b-b5e6-e3fedac87f76,Hyundai,Tiburon,2003,Peru,249591.01
+8fbbb72d-40b9-47a2-809b-97ad3d318cdd,Volkswagen,Passat,1999,Philippines,114118.6
+cc3b6c00-881e-4da2-bc60-7af35e2b3c89,Ford,F150,1993,Nigeria,659194.09
+9657124a-c52e-4ac3-8332-a3472ab792da,Plymouth,Voyager,1998,China,565941.95
+baac5428-56e9-4e3d-9819-f5273734c82b,Saturn,Ion,2007,Burkina Faso,464966.28
+aad936a7-ed26-4f24-a3e1-66962723ad79,Plymouth,Prowler,2000,Azerbaijan,956974
+7a47c6f0-321a-48bd-8d2f-513b35d7c830,Chevrolet,Monte Carlo,1995,Japan,487625.17
+4cc685cc-a27e-482e-94a9-1411cf720aa7,Mercury,Mystique,1997,Mongolia,278155.46
+814ef300-bc32-4dad-970e-063fc139c3a4,Ford,Laser,1985,Indonesia,633402.69
+f224b080-1403-4926-bdfb-20075ce057fb,Audi,S4,2009,Bosnia and Herzegovina,560716.25
+36548e8b-c990-4e30-bc30-5d19210a9d78,Subaru,Forester,2002,Tajikistan,978104.58
+adb7f766-bc98-46b8-8fb6-47ce1d9ad2ee,Ford,Taurus,1993,Peru,32423.63
+a8fc81f1-b99a-474e-bf36-0a48b4c93ce1,Subaru,Legacy,1997,Nigeria,498060.1
+30b89a51-f205-4a7f-8ec0-9e4c74662e78,Infiniti,J,1994,Russia,470315.51
+ef483ded-6d4a-409d-a2c6-8f308ed5ec36,Honda,Odyssey,2002,Poland,668016.94
+20b97698-1eb2-4344-99a7-0368b9a263d2,Mitsubishi,Mirage,2002,South Africa,992921.74
+8a28e4e0-038f-4643-a76b-fb1fcf0a0cde,Volvo,XC70,2004,Poland,298865.72
+038b848d-c474-4a1c-9e24-625e901170ae,Volkswagen,Jetta,1991,China,447724.58
+88f96c93-d5f6-4245-8a5d-348d36830420,Subaru,Loyale,1993,Venezuela,736499.37
+69c6fa6b-e8b5-4633-916b-4a95e2869792,Honda,Passport,1996,Greece,24755.94
+d58303e2-369c-4841-854c-c04cde8c2ab3,Toyota,Tacoma,1995,China,719999.43
+be799ba0-3e70-4bc9-adf1-f2452ea9a375,Dodge,Daytona,1993,Indonesia,346469.95
+b302abb0-18d2-469c-aaa8-872a90eb9cf6,Jaguar,XJ Series,1992,France,345028.97
+6972fd2a-e639-4702-a745-2cf1851d2820,Oldsmobile,Intrigue,1998,Philippines,663972.63
+d30b84be-6b1e-425f-a445-90d8c154149c,Volkswagen,Cabriolet,1987,Indonesia,981522.25
+a1dd817e-b6c8-4bd7-bd86-3938f4b38ed0,Dodge,Ram 1500,2007,Russia,482558.95
+b8a552de-77ee-4ecc-9120-19622250f9ef,Suzuki,XL-7,2008,China,530685.51
+3cd6169b-eee9-4a97-87dd-bad8d82c526d,Hyundai,Elantra,1999,Indonesia,527846.21
+ec9f3e4b-705b-4b0e-bceb-4a3bbd8cac36,Chevrolet,Beretta,1992,Portugal,786578
+4f81fd89-ea74-4cc5-8079-24f63954653f,Toyota,Tacoma Xtra,2002,Kosovo,541180.67
+07881f19-6191-4920-9f2a-46472dd4cba7,Saab,9000,1997,South Africa,471414.15
+6100213f-db08-452a-a244-7965d5701e8b,Porsche,Cayenne,2003,Croatia,381.1
+83a7b8f1-c511-41e1-9dea-50729a0b670f,Toyota,FJ Cruiser,2007,Indonesia,503339.16
+594b40b2-393d-4cdc-af8c-463c238389ad,Porsche,911,2005,Lithuania,795577.56
+86dec809-4ff9-4702-9af5-57f6396d35c5,Ford,ZX2,2002,Serbia,925531.42
+e168ac3d-067f-41dd-97a2-4a83d5cc24b2,Toyota,Tacoma,2008,Norway,277436.31
+e17465a1-9c2c-4b14-858b-2bce599224f9,Ford,EXP,1986,Portugal,985554.58
+7e16b2f0-d5cc-4fdd-9d72-f3de7085b1cf,Honda,Accord,2006,China,749370.19
+405b2875-5051-495f-8e82-66bfc17f26e6,Ford,Windstar,1995,Portugal,235583.73
+353b9dcc-de5d-477b-8a5e-aa5ea3744211,Volkswagen,Passat,2012,China,372316.87
+75169dfb-1d40-476f-95ed-2200443012a7,Toyota,Tacoma,2000,Indonesia,871576.23
+f61dd26a-807a-4dc6-b751-477bc7cb59eb,Ford,F350,1996,Nicaragua,538378.24
+8a55afdf-f9ee-4550-abc0-7e136aad413c,Ford,E250,2008,France,915493.35
+0169dd2b-d0df-4215-95c0-962ac39ab1ad,Land Rover,LR2,2009,Russia,172115.49
+5c830b5a-a4e5-46e8-86de-3a6efbb685ae,Nissan,300ZX,1996,Ukraine,512553.99
+59562923-9d6f-4e9b-b36a-c494d994b2f0,Chevrolet,HHR,2009,China,16491.69
+1e5b0ad6-18e9-4eb7-af60-09e088476785,BMW,X5 M,2012,Spain,22751.06
+1fcde3db-f9c9-41b9-8f43-13ff26bc7378,Plymouth,Neon,1998,Russia,633610
+57acc6f7-cf28-4ca8-b47b-791420fa043d,Audi,S5,2010,Nicaragua,310485.03
+865778d9-a80f-43e4-b98d-edf785aeefa7,Chevrolet,Camaro,1996,Indonesia,72257.9
+04c15059-2d9d-4093-b7fa-5bcfc570f660,Acura,SLX,1997,Philippines,897893.09
+62dff791-9c37-4009-ae9b-12e0bdd62097,Jaguar,XJ Series,2004,Argentina,762005.8
+2de1bd86-c61f-4a04-b878-1ceb15edb9b6,Chevrolet,Express 2500,1996,Japan,80461.57
+125cfa43-d033-4796-b0dc-dfd11b384eac,Lexus,LX,1998,Afghanistan,919271.73
+6cc88058-1119-400f-a53d-ced9914e0ef0,Bentley,Continental Flying Spur,2012,Malaysia,563101.69
+c83726ff-7fb7-47c6-8490-c2a817d97cb7,Cadillac,Escalade ESV,2004,Thailand,495833.93
+46222723-b967-41b0-b354-dc512a54ca17,Kia,Sorento,2013,Portugal,558551.45
+72fb69fc-fe84-4d90-9d57-31945be483ae,Mercedes-Benz,SL65 AMG,2006,Guatemala,842123.72
+a5c2a935-1846-42a1-a706-28bccf58940b,Suzuki,Aerio,2006,United States,5156.18
+2924dad4-d66f-48ee-87a7-de6ddc8a49ce,Cadillac,STS-V,2009,Mexico,124020.63
+5d8d48fb-52c3-4101-8703-5cf341a5b771,Chevrolet,Corvette,2003,Indonesia,103900.68
+53575ae4-01ea-4834-a700-8ec599989d0c,Honda,Fit,2007,China,361166.81
+30ce9cce-ee2f-4405-b895-65ae8b61035e,Suzuki,Swift,1992,Jamaica,180169.17
+7a2ce16a-de5f-47a8-aa33-351b61a47275,Mitsubishi,Challenger,2004,Burkina Faso,981080.93
+548e1b91-239d-418f-b6d0-19a16ea1af83,Ferrari,F430,2008,Indonesia,173481.97
+968a2432-ca9e-46fa-be9c-5f7700476b73,Audi,A6,2003,Tanzania,375074.15
+a6344cac-6cad-492b-a4d1-58fa64814787,Chevrolet,Silverado 1500,2011,Sweden,383564.24
+a6c647a0-8b8b-4cd3-8a42-478d0fd61956,Mitsubishi,3000GT,1995,China,193726.83
+3d44b13a-87b3-455e-8bec-5be895d2ab7e,Bentley,Arnage,2007,Indonesia,587592.48
+8002e3f8-dfb3-4d02-ad2e-ca14d70bd020,Infiniti,G,2008,Argentina,175664
+d761a358-63f2-4e94-b30c-0093444cd8cb,Cadillac,Eldorado,1997,China,756218.6
+2ce0fdf3-789e-464f-b87a-1e2d68f642c3,Volkswagen,Jetta,2003,Saint Kitts and Nevis,133318.17
+36617efb-f0aa-47b3-9f22-daa2e8be16d8,Lincoln,MKX,2011,Philippines,651509.67
+94259b83-7954-4927-8fe7-6f36be12f120,Lincoln,Mark VII,1992,United States,395661.85
+87dce962-766f-40c5-a42d-32041219efa8,GMC,Suburban 2500,1995,United States,824040.14
+032ce656-a037-4941-82a0-a2a584c6e9a1,Scion,FR-S,2013,Finland,959357
+51ae6b0f-b7c3-4b77-b366-64753e62aaa2,Mercury,Mountaineer,2004,Brazil,244229.65
+8e19cedd-c756-40c2-a664-96dc0bb41a39,Toyota,Highlander,2005,Turkmenistan,376520.48
+fcdb0d63-d525-4944-bc2b-ff9d4f2ae671,BMW,8 Series,1994,Ukraine,315411.56
+e386d541-7d1f-4d28-ba24-65a1f1e943e9,Hyundai,Accent,2007,Indonesia,84033.58
+dd986e7d-ea2f-4e15-87cd-79956feb33bb,Pontiac,Firefly,1984,Russia,436631.64
+5f6ee6b4-89ca-40ab-a148-38ee307d5734,Nissan,Pathfinder,1999,Indonesia,42073.94
+e84a2f71-82a1-4f1a-a341-79003f07225d,Dodge,Grand Caravan,1996,Portugal,457375.83
+43715726-ced7-4e3f-a5ae-ca36cbc63bd1,Ford,LTD Crown Victoria,1988,Indonesia,280150.57
+1477b75b-be25-48d6-92a2-eda4e438ccce,Alfa Romeo,Spider,1992,China,340052.79
+2c542bc3-3f69-4e9e-b66a-5731935464c3,Lexus,SC,1999,Thailand,461051.94
+26c52afc-8041-46c3-ae1e-f663acd99ec0,Mitsubishi,Endeavor,2009,Russia,755602.41
+1d2965a1-d48c-4f50-931f-be0255c73a50,Volkswagen,Corrado,1991,Indonesia,874323.9
+eefffa4d-07d3-4cef-8e9d-639806ced0c1,Jeep,Wrangler,1999,Russia,767578.2
+b78f927d-b712-42f6-9876-a38e8d8c61dd,Kia,Sportage,1998,Poland,188843.12
+a06e8669-48fc-47bb-8620-04d8ba0442ff,Mercedes-Benz,CL-Class,2010,Belarus,894066.41
+a5e30c39-fae3-47a4-8ab3-9eed65bb5fdb,Mazda,626,1992,Bulgaria,432967.36
+91fa7cdd-e216-4415-b1db-6e80c51afcf4,GMC,Rally Wagon 3500,1992,Venezuela,997992.88
+e25ab298-a2d9-43c6-a2b6-76f378ce632d,Mercedes-Benz,S-Class,2004,Russia,158435
+ef4f697e-dc64-4224-a054-d1d7fcdd54eb,Pontiac,6000,1984,Thailand,552479.67
+eaebcb14-d2ba-4722-b542-aa263e513f33,Mercedes-Benz,E-Class,2004,Colombia,452663.23
+2882441e-260f-4473-84c5-d644e6404d10,Mazda,Mazda2,2011,Japan,305970.34
+aee65840-43bc-4624-ae1b-1b2aa48e6281,Kia,Rio,2008,Jordan,85190.68
+14a5365c-8f2a-4db2-961d-293a47f78a48,Lamborghini,Diablo,1992,Mauritius,722254.84
+8b0e59bd-70ec-46aa-a27b-c42482d13541,Hillman,Minx Magnificent,1950,Ukraine,293136.68
+e98da450-5706-4ff3-8930-1f93db4ad8c5,Chevrolet,TrailBlazer,2002,Peru,539376.1
+6edabf99-292f-47d3-91bc-7c97122df625,Subaru,Impreza WRX,2011,Niger,873420.87
+74afb789-01be-4087-8b46-f1ce87d64052,Mazda,Mazda5,2007,China,484660.31
+a615af80-901f-40ca-af36-f55494d589cf,Jeep,Grand Cherokee,1993,China,713292.08
+332e3f8b-bded-4bde-baf9-4de50a9e9f2b,Dodge,Grand Caravan,2004,Indonesia,421552.08
+8a1094c8-d5f8-44d5-b4ad-1c65fbcc0c32,Volkswagen,Touareg,2006,China,223126.7
+ec0610ed-8b95-427f-8e56-c7fd9f54b3a6,Daewoo,Lanos,2000,China,267214.54
+844af04a-37d4-43a8-95a0-a8fa14a134f8,Bentley,Continental GTC,2012,Turkmenistan,506540.92
+9f194b00-ee63-49e9-b22f-b802ae10b2db,BMW,Z4,2006,Iraq,471452.76
+5f6b5f93-c53d-40a1-8212-6cdf1c659334,Mercury,Lynx,1987,Russia,895434.84
+4ef51639-1376-4cca-b6b8-18af64cb6579,Land Rover,Range Rover,1999,Ukraine,416664.6
+cdab5c82-070a-4b2f-9d17-56d2b0d8e8d1,Toyota,4Runner,1995,China,413371.66
+0d99b2a3-cabe-481f-83f9-204900508d58,Ford,Club Wagon,1998,China,85511.37
+edc6375e-56fb-4c18-a0e4-502fb998197a,Mitsubishi,Sigma,1989,Indonesia,935944.87
+ef0b9d66-a0e3-4bd4-9c8e-59d56a180ba7,BMW,5 Series,2004,Latvia,695520.69
+eabd5f2d-bf49-4d72-b7a3-5c1581190f40,Nissan,Sentra,1996,Thailand,641835.35
+ad4ccebc-14f9-4bcf-99df-edd9d0107b3a,BMW,8 Series,1992,Palestinian Territory,686948.94
+1be3c104-6423-451a-adaa-f29a86d76798,Mercedes-Benz,Sprinter 3500,2011,Azerbaijan,709717.39
+f139bc4f-032d-4613-8219-8635ed4f418d,Volkswagen,Eurovan,1994,Netherlands,918473.97
+544898f9-20dd-45a1-bdfc-e6b931be804d,Ford,Tempo,1989,Niger,57009.33
+871c6dce-1c31-4ba1-be25-857c8f7d7741,Toyota,Camry Solara,2008,Russia,485358.54
+87a63f57-9245-4ec8-a76f-461cb5a9c4fb,Mercedes-Benz,S-Class,1990,China,975944.49
+59be16f1-9079-430f-8640-33deebced778,GMC,Savana 1500,2004,China,50918
+488c7b13-8368-4e4b-a9d9-8cc349fe72d4,BMW,8 Series,1994,Mongolia,471621.4
+cd6bf257-2fd3-42f3-9382-6444a83e6757,Audi,V8,1991,Albania,401819.67
+c6447641-df33-48bd-9bba-cf6436048b51,Suzuki,SX4,2008,Indonesia,839237.39
+e6a585bb-9b54-4464-ac08-8d4fd85a5d5a,Mercury,Mariner,2007,Russia,374480.31
+a53369c9-6406-4197-924c-27297f3eec51,Volvo,C30,2012,Nigeria,801584.77
+31c53a8b-3dd2-43d9-ac0c-d91bc14d75e6,Toyota,Celica,1993,Thailand,687847.9
+6c900392-dbdb-4543-ac3e-33060d9d0853,Jeep,Grand Cherokee,1998,Bosnia and Herzegovina,972491.92
+0f4d0fcc-406a-40a8-a0ed-6c6978f94508,Honda,Accord,2002,France,127186.92
+995ed4d8-6552-4104-94e9-f678a484088f,BMW,745,2005,Cameroon,348779.46
+ff23edfd-b441-4e2d-a867-cfef155558ad,Ferrari,599 GTB Fiorano,2009,Ukraine,490057.77
+c65509d9-42b5-47db-825c-486f691b4c07,Chevrolet,HHR,2008,Portugal,816272.79
+dba90249-ea01-4821-924b-ceb6adc10a22,Volvo,XC70,2012,United States,557317.69
+490d2139-bd2d-4af1-8bf4-96f31ade40e3,Mitsubishi,Outlander Sport,2011,Philippines,54152.9
+7ed901d9-f1eb-4760-a560-f4344c2a9ed3,Suzuki,SJ,1991,Greece,684320.26
+76781706-a366-4233-9d07-980f31ab64f6,Buick,Regal,1992,Brazil,659846.38
+c510e0cd-438d-4a00-b83b-1c7ad03d3d6d,Ford,Bronco,1989,Kiribati,252103.96
+73669975-2be3-4bd3-9297-e95da2a3d528,Chevrolet,S10,1996,Pakistan,615780.87
+0bb1319f-1582-4827-b483-00a026398de0,Isuzu,Axiom,2003,Czech Republic,131650.51
+ebd3605a-2099-4e78-b29d-702e723db193,Volvo,S40,2010,Sweden,919571.84
+f1ce4488-0501-418c-bb9d-5bb643bde07d,Dodge,Monaco,1992,Indonesia,947647.04
+64df95d1-9eed-4eaf-95cd-c6d5dc1cba60,Audi,A5,2008,South Africa,648419.51
+c96f7e4a-2679-4573-8d76-24a2b354f357,Cadillac,DeVille,1992,Saint Lucia,677838.18
+d17b9f8f-4db7-430e-974d-3734e716bf9a,Cadillac,STS,2008,Brazil,616276.27
+47bc88c8-1032-4d52-9a23-0e140b8b1a8a,Subaru,Legacy,1997,Philippines,914252.98
+fa523ed5-9a55-440f-9850-10600fa9a425,Audi,A4,2012,Czech Republic,340321.18
+e218e72b-bb71-4e35-bc66-596a0e6fdf44,Chevrolet,S10,1997,Poland,259454.95
+ff258932-643b-43d3-9e7e-4e8a6145427a,Dodge,Neon,2000,Indonesia,747801.19
+1ebb0031-5d4e-4638-94c6-0eb4d71fb565,Mitsubishi,Endeavor,2006,China,796368.73
+b07bf45a-c076-48f4-b067-b1798a68e258,Volvo,V70,2007,France,232227.85
+2e30e437-9a2a-4827-a93b-b3784ecb7770,Ford,Explorer,1991,China,6121.44
+80ba741e-54de-4909-84cc-ace4c11df2da,Ford,Ranger,1994,China,967946.79
+6efea5b3-1659-48e6-af9f-b131a58e2aa3,Chevrolet,Monte Carlo,2000,Czech Republic,988863.51
+c2d40491-f542-4fbc-8bcf-dbb32ecf30d8,Audi,TT,2006,China,469707.26
+73ed4ed2-ee4e-4cba-9b5c-6bd341e22469,Infiniti,G37,2012,France,360298.99
+a46259c0-2cc5-43c7-9649-856a0ff9004a,Hyundai,Elantra,2002,Libya,536415.97
+74167ef8-0c00-45af-9cad-a1deccf3b024,Honda,Pilot,2008,Mexico,695259.85
+6fd97df0-d03c-4562-9ddf-9c1e41c91f70,Porsche,911,1998,Indonesia,976420.4
+d0129e28-0cb8-4f60-a0a2-8dd5f71c359d,Saab,9-3,2011,France,967898.56
+d124b942-01df-46d4-bb6b-3fe9c998089c,Mitsubishi,Montero Sport,1998,Russia,360345.04
+fc8b1398-028f-46cf-99ed-ca4d5b7c9867,Pontiac,Grand Prix,2000,Philippines,548000.86
+819bc696-fe71-47f3-bac4-c7eb08d588cd,Buick,Riviera,1985,Sweden,840125.46
+871896be-43f8-4181-8c68-41f33052d502,Audi,5000CS,1987,Thailand,433803.49
+e27d08cc-a36a-4137-b335-e75f4892c824,Ford,Econoline E250,1998,Morocco,491848.62
+35e9d5ec-ce38-4231-85b2-bb10d2aa667a,Volvo,XC90,2011,Luxembourg,67046.3
+545117d9-ed99-43af-b493-eeb161e86bcf,Daihatsu,Charade,1992,Portugal,135134
+aa74f360-155a-48fd-bdb1-aed9df3744f5,Mazda,929,1992,Sweden,224432.68
+3b5aeb9a-3bb7-42d4-9f01-d084200816e0,Mazda,Millenia,1995,China,37770.46
+849213aa-9c0b-4f85-b145-0a57e624b809,Buick,Century,2004,France,34579.57
+5231ee0c-63bc-4d2e-bf3c-9c148801a231,Toyota,Celica,1992,Macedonia,583680.6
+9c436fe8-636a-4a83-be78-df46b5c5105d,Dodge,Durango,2000,Sweden,517572.52
+5f340269-af54-43a4-8b9e-3465393a8b0e,Infiniti,G25,2011,China,408389
+638d6e67-c271-460d-9dc9-4bf92eaa14b3,Mazda,Miata MX-5,2006,Russia,623399.18
+e0076939-50ba-41f9-a49d-c4d128ef3a15,Acura,MDX,2004,United States,393654.49
+5e8fe10b-dc71-4afd-8fa6-e5c14eaf5fd9,Lexus,ES,1990,Ethiopia,797230.29
+5c11e05b-3b7b-4763-9526-6d2209e13561,Dodge,Avenger,1997,China,355138.88
+7d173af4-a6d9-4541-a50a-caf96a3328cc,GMC,Savana 3500,1998,Brazil,596950.65
+65cb1832-1a9d-4636-8110-17b42762f872,Toyota,Highlander,2007,Japan,940291.97
+05790b31-88b8-44d7-bd14-55e82f82d304,Hyundai,Genesis,2010,China,813196.03
+eba48ab7-e104-47b1-927f-4e14b50946c7,Acura,Vigor,1994,Burkina Faso,10577.63
+536fb8f1-7f6c-4bed-991d-768478084a2e,Dodge,Ram 1500 Club,1996,Thailand,380211.03
+e1641caa-efa2-4a94-aef3-67ea59fe10f1,Lincoln,Navigator,2007,France,115867.73
+5ee92dac-1e91-40cf-80a8-4a568ad447c9,Mercury,Mountaineer,1997,Sweden,771545.38
+684cddef-fd4e-4d4b-9de0-b3ada877109f,Mercedes-Benz,E-Class,2004,Tunisia,622327.16
+ce617e9d-f9d6-419c-a6e1-a378f2e36db4,Aston Martin,DB9,2008,Laos,722352.72
+25c6e6de-c52b-484a-b7cf-6d3f45524f87,BMW,X5,2000,Jamaica,928605.89
+6ddb7b91-15d6-42f5-87e2-491f468a395a,Chevrolet,Express 3500,1997,Russia,708575.99
+a965f539-64ce-48dc-a59b-fc6660d64854,Chrysler,New Yorker,1996,Portugal,495849.6
+82053245-28f8-4d76-8df6-b1c657042fd0,Chevrolet,Camaro,1975,China,198688.39
+7a397dbc-18f4-4387-b28d-a9dfbcd0cd85,Lamborghini,Gallardo,2007,Honduras,654529.52
+929e6f4a-d270-4454-b2c9-c595b70fa875,Saab,900,1989,China,381325.33
+f9e40b7e-f440-4154-af7a-ba1960de54b0,Mercedes-Benz,C-Class,2004,Japan,400695.4
+03afe669-aa6c-43ba-be02-55ac411d03f2,Ferrari,F430,2009,Philippines,275035.33
+a9525976-98d3-49db-9e12-e0f604c306c6,Pontiac,1000,1985,Thailand,676066.7
+ea15e3e4-bf8c-4786-9ae9-f7006d1f0bfa,Isuzu,i-290,2008,China,587849.88
+bd783c53-1ce4-40c9-a5ed-69fb7e4d4655,Subaru,Legacy,2002,Russia,638713.51
+94499b42-a1ec-4bd7-87da-471e55673680,Acura,NSX,2000,Ukraine,112368.73
+6a0e215c-bb30-4a9c-9b6a-2b231c79400f,Chevrolet,Cavalier,1996,Netherlands,938274.94
+de1e5d63-113f-4f1f-b358-5f142ed143aa,Buick,LeSabre,1991,Nigeria,102679.64
+e784d5b5-1e25-49ab-afba-132144ab2a6b,Chrysler,PT Cruiser,2005,Panama,975874.12
+d87ea322-fbc3-42b3-8c30-dbe8c6e4c3f9,Subaru,Brat,1984,Hungary,218717.79
+ce92dc8f-1b35-455d-868e-ae4e74de813e,Acura,TL,2006,Democratic Republic of the Congo,394705.06
+da670757-9368-403c-8150-42834498b61a,GMC,Acadia,2007,United States,422549.49
+b5eff1ad-1bd6-4273-888b-48e4f6006ba1,Nissan,Pathfinder,1993,Bangladesh,264169.05
+23050a41-060c-4ef6-96cc-bb10c02afa21,Toyota,Avalon,2000,China,448869.98
+e7f2b9c5-b82c-4bdd-8487-221df18e1eb4,Isuzu,Trooper,1994,Venezuela,772691.21
+7d07630a-4845-4b57-80c9-92c3e8544730,Pontiac,Firebird,1993,Colombia,143938.75
+b7d18716-a8f6-47ee-9e22-c505fdf9236f,Toyota,4Runner,1996,Latvia,616946.73
+9e8a9a17-2c9c-4846-92ea-c8797796e105,Volvo,XC90,2012,Portugal,478105.89
+958e3a5d-42fa-446e-a0f9-2e36712cfd09,Toyota,Tercel,1993,Serbia,859544.59
+1f925201-c6d4-488c-94d6-f1136a7a7d99,Ford,F-Series,1995,China,108083.66
+32232999-3a4c-4f19-9215-a9b016c7543c,Nissan,Frontier,2004,Vietnam,503873.41
+9beba308-b128-4f09-a561-7c42799a9e31,Scion,tC,2008,Poland,570993.54
+b3ef1f78-e67e-4b90-8caa-679246665bd0,Honda,CR-V,2008,Russia,788388.28
+44d393e4-b8c9-4e72-b9d2-386a77c6adda,Subaru,Baja,2006,Portugal,80524.07
+f4634597-798b-4695-b1ed-8cda84f5333d,Volvo,S70,1998,Poland,485628.69
+ea973e26-902c-4075-a9e1-2ed4df2157aa,Ford,Edge,2010,China,162806.32
+8ed913a8-df3d-40ff-b1ca-188c1bb9fba6,Isuzu,Trooper,1996,Ecuador,167840.15
+bf0060ac-66f6-4d63-8267-cfb00e817a33,Mercedes-Benz,E-Class,1989,China,353815.2
+f61ae0d3-de0a-4461-b704-2e2671c8b5f2,Honda,S2000,2003,China,958848.02
+1e0dc1b5-a482-42b1-bd73-4839c3a35f74,GMC,Savana Cargo Van,2006,China,289818.19
+54264774-30b2-4956-a3bf-fa77ff95b221,Mitsubishi,Eclipse,2005,Philippines,734168.7
+9c5a543e-b4ba-401b-a230-e971563d4ec3,Bentley,Continental GTC,2009,China,280823.38
+2a22827a-b00a-486a-95d8-ec16dad44ccf,BMW,M3,1997,United Kingdom,676723.07
+5b0e5b88-ffc8-4ade-a28e-5713f76429ef,Isuzu,i-370,2007,Chile,21810.57
+08c9838a-b2ee-47fd-a00f-d117f27d6c09,Mitsubishi,Raider,2009,China,479848.24
+b6e72cdc-452e-43a0-abda-c8c5446b3237,Toyota,Yaris,2009,China,295607.61
+022939d8-1908-4db6-9212-609ba6363f49,Isuzu,Rodeo,1992,Nigeria,261229.06
+2ac08f3a-af9d-4ea5-99e7-3420f163ef37,Chrysler,Crossfire,2007,Georgia,12702.29
+69f0b9dc-9fdf-4c7f-bca2-9f327be70375,BMW,Z3,1997,Ecuador,242973.39
+d14ace19-c815-42ca-bc2b-13e68ed66120,Hyundai,Tiburon,2005,Philippines,987105.66
+c50c44e1-f72a-46f1-a810-959ecb8ab8bb,Mercury,Grand Marquis,1988,Serbia,65620.47
+94484cba-356e-44bf-84f2-d99437b68ed6,Hyundai,Elantra,1997,Costa Rica,829198.31
+36470735-1b68-404b-8a5d-1d2e47b9ef1f,Porsche,928,1985,Brazil,25664.7
+f59a07a3-3aef-4f9d-85d0-ec59fb707ada,Dodge,Ram 3500,2002,Indonesia,117889.39
+9a12bcf3-93e8-4f89-b21f-141651cfbe71,MINI,Cooper,2004,Finland,71201.39
+b6360f40-dfeb-4b39-874b-ae5f444fca5c,Kia,Sorento,2004,Moldova,127577.6
+d55d881b-bb64-401f-a4ac-4dc3ff2954fe,Volvo,XC90,2006,Canada,949575.51
+9c63ae1e-d568-48a3-afb3-86f75ff5621d,Jeep,Grand Cherokee,2012,Peru,490031.36
+549f5b85-59d5-48ed-946a-5ced76db0d05,BMW,M Roadster,2007,China,858490.78
+8207de6f-f4ec-42b8-912a-0386c5746ee3,Mercury,Capri,1986,China,341401.23
+763b09ff-88aa-46b8-bde1-beaa954bf875,Nissan,350Z,2006,Brazil,443569.72
+693c374f-4ca1-437a-ae4d-c72ba35b4a34,Mazda,Mazda6,2011,Mexico,237104.13
+e1738b16-5a4b-4966-950b-9c53852bbd09,Toyota,Yaris,2009,Sweden,260995.98
+85d0c45d-7e99-4893-b5b8-c30330afb40b,Lexus,LS,2011,Thailand,147836.45
+b5e3e7c7-c642-4312-b83a-7b8f9953067e,Mitsubishi,Diamante,1995,Russia,799077.06
+7e504879-85e9-4044-aa44-b07f0c926fd5,Lincoln,Continental Mark VII,1987,China,867677.52
+c52887f9-6141-42f8-9b29-ead67bbd0198,Mercedes-Benz,S-Class,2008,Poland,823785.66
+e3e58afa-9edf-430b-ad51-81eff18a5178,Mercury,Milan,2007,Mauritius,113155.57
+f49adf1a-7fd2-4db4-a9b0-e9915e1ad507,Chevrolet,Express 2500,2011,Indonesia,154337.02
+2647b30d-a1fa-450f-8d53-4e782dac162e,Mercedes-Benz,SLK-Class,2001,France,482289.84
+27d9995a-6c2a-482a-94dd-025be945a4ad,Volvo,V70,2009,Indonesia,949918.06
+a7cc79cc-1834-41d9-a44b-396a90dbef9c,Buick,Roadmaster,1993,China,910982.72
+4b25dae2-6795-40e5-ae21-6f311cf10b49,Buick,Skylark,1998,Poland,59239.07
+5e3184e7-3f6c-4133-9caf-84ac76179060,Ford,GT500,2008,Colombia,930595.81
+70ec9312-8bc6-4b81-8a79-d7edbfc63e34,Porsche,Boxster,2002,Canada,410490.79
+09fc9719-0ea6-4390-8be9-ee2fc01026af,Honda,Odyssey,2003,China,383767
+001f9fdf-f6f7-464e-8feb-4150002b1454,Maserati,GranTurismo,2009,China,485389.77
+8004f2ec-6960-4280-9e7b-ea4116043529,Land Rover,Discovery,1994,Indonesia,678475.21
+dd18d806-4a20-4204-97b5-3df0ec3e43b3,Lexus,GS,2000,Portugal,865131.65
+3484a678-a887-4b8d-a4fd-0d355b1f85b0,Infiniti,Q,2002,China,416233.66
+38a30470-447e-4448-a0f4-027151092d25,Volkswagen,GTI,2012,China,973191.23
+20d8aadd-2548-4f28-af1c-0f7502d95407,Volkswagen,rio,2002,Ukraine,947239.2
+952c4f90-7524-421f-b5d8-79fc4de76db4,Buick,Enclave,2009,Reunion,248518.08
+ecddb1d7-109b-447b-8a32-c68e8e3071c8,Chevrolet,Tahoe,1999,China,246660.29
+8aabe7b7-a6a4-4cea-9db2-a39f9d414d0c,Mitsubishi,Chariot,1994,China,506094.28
+06bce38f-27e0-47c0-975a-736fc74c4c9b,Eagle,Talon,1997,Poland,273906.89
+c013f883-1914-4caf-82ef-2bd8d262e7ed,Plymouth,Grand Voyager,1999,Tunisia,809018.52
+056c0717-93f2-492c-97ad-5cf7fea4ece6,Toyota,Sequoia,2003,Finland,979551.05
+11d27ad9-e39a-4d0a-a318-cb219524f4ba,Ford,Ranger,1987,China,109847.95
+269a72bc-3642-4856-825a-a09b88ea2dda,Nissan,300ZX,1993,Indonesia,174806.61
+c10b1d4d-ec9b-43fe-9496-8ac42e92e91f,Rolls-Royce,Phantom,2013,Philippines,705389.37
+da002402-ec93-4650-becb-e353b5f1145c,Ford,Thunderbird,1991,Mexico,238377.04
+fe0c7871-2276-48fc-81f7-95ea76f1aad7,Chrysler,Aspen,2009,Indonesia,683271.19
+87b89670-08ec-41d9-8322-62ed2edff14b,Porsche,Cayenne,2010,Philippines,556758.97
+7c54501b-4599-467c-8620-25d938c8161d,Chevrolet,Avalanche 2500,2004,Uganda,539598.78
+57f63350-0550-4064-9dd9-6cecb16b9ef2,Chrysler,Sebring,2006,Canada,869205.6
+fc3867b8-a8c2-459c-aefd-f6d1969c3550,Mazda,B-Series Plus,1998,Brazil,688215.95
+8203dff0-ea55-47c0-b6a1-62486021d10c,Nissan,200SX,1997,Cameroon,560283.3
+1de5000d-55a8-43ee-a9a2-fa20210498de,Mercury,Monterey,2005,Poland,262913.44
+2283591e-53a5-4e38-aae4-79025365ca6b,Mercedes-Benz,E-Class,1996,Russia,562616.92
+28f72059-7e85-4d66-ac56-1b8246831846,Mitsubishi,Galant,1990,Paraguay,842658.81
+039d576f-1aa9-468d-ad9e-b297fb5724b7,Lexus,GS,2010,Palestinian Territory,480114.75
+8cfa642f-20c5-41ad-a2c5-0b7fcfe5b186,Mazda,MX-5,2007,Angola,615298.3
+9b20e561-ecf7-4a8b-83b5-5cd4a72e2530,Nissan,Leaf,2011,Netherlands,433793.09
+8ef853e9-d494-4075-8a7e-105c5a9e75a7,Volvo,C30,2008,China,897127.5
+584a5c2e-2e52-4abb-8c8f-2c4590d501ea,Buick,Special,1962,Vietnam,871920.04
+c116f0c1-eee6-449c-a569-f611b0a62ac2,Mitsubishi,Eclipse,1997,Brazil,500784.02
+d23051bc-c0a5-47df-b235-5bb20a4efbdb,Chevrolet,Impala,2011,Malaysia,29713.45
+ebd57612-ddaa-4a27-9840-36fd5d3ae858,Kia,Sportage,1995,China,562343.7
+f38077b4-6e34-4340-a171-49388382df5a,Kia,Rio,2006,Myanmar,198578.05
+01793f44-c9a1-4853-a69d-655a0adc3bfa,Plymouth,Voyager,1997,Greece,600341.98
+34ddd677-acc0-4f64-aabc-af1ef9f6480a,Cadillac,Seville,1994,Norway,724974
+62601ced-69b0-4bfe-a1df-0550074ab956,Mitsubishi,Mirage,2001,Sweden,137058.26
+5999635c-0498-4fa0-b44f-b4cb9673097a,Audi,V8,1994,Chile,259035.05
+b819ae8b-b102-4389-a2f2-9e43c07e2432,Toyota,TundraMax,2007,Serbia,725976.87
+3d38280c-f0ba-468e-8bb6-5b6234be569a,MINI,Cooper,2011,Brazil,434039.97
+9eeaafdb-3f8e-4876-8bc4-71bec522559e,Scion,xA,2005,Poland,785274.91
+9f6399c0-344a-4e3a-a2c2-287d3297c231,Eagle,Talon,1995,China,711048.25
+9a7cc533-0e23-4cab-8c33-43c1da603e80,Plymouth,Neon,1999,Thailand,190447.97
+b7ad0c7b-0ab3-4e4d-9b6c-9efc184c2c1e,Infiniti,IPL G,2011,Mexico,305227.55
+5b2d0357-ef5e-4194-9c70-15d8a29269aa,Hyundai,Santa Fe,2004,Indonesia,632490.85
+57c2209e-3ef3-4790-b1f4-42d76c949ce1,Chevrolet,S10 Blazer,1994,Indonesia,355526.81
+564b0f37-8f0d-4690-981d-f3dbd42a3db4,Ford,E150,2003,Philippines,743619.67
+4ffca304-3897-4913-9bcb-e44f7c30ae54,Acura,TL,1995,Russia,180227.66
+3b3184db-436c-4596-b83e-bd75ea471e66,Ford,Explorer Sport Trac,2002,Kenya,664068.06
+8a4c227e-003b-4b1b-b973-3593a0f1647e,Isuzu,Axiom,2003,Philippines,410115.43
+d8f047d3-213b-4b11-9d46-2ddc91e82167,Volkswagen,Jetta,1990,Russia,49134.57
+52e845da-9169-4e6c-8ec9-f386f6ee874d,Chevrolet,Tahoe,2010,Philippines,834762.86
+aec22985-6dd6-4f04-919f-74643fdd36ca,Subaru,Legacy,2002,Jordan,536404.39
+a84971a7-908c-4042-bc80-c860b0c1c7be,Bentley,Continental Flying Spur,2009,China,738643.37
+96e5f6c1-531d-4557-bdf5-4a524efac35e,Lexus,SC,2009,Russia,438714.76
+42604262-7408-48db-8eca-8becef24bd6c,Nissan,Cube,2012,Japan,14241.9
+c1e58753-1c3a-4423-ad39-57acc70a5997,Mercedes-Benz,600SL,1993,Philippines,92687.86
+288048b1-73c2-4d80-9821-875b3a675f03,Pontiac,Montana,2001,Czech Republic,656799.03
+1961b3d1-acd7-4a25-846d-bbb4a6ed4f66,Ford,Thunderbird,1987,Poland,892313.16
+f7dd7660-d763-448b-bcf8-7e59e4006afd,Honda,S2000,2009,Brazil,686772.98
+7e0c1453-a4f4-4593-9324-b46024d3f3d3,Volkswagen,Golf,1996,United States,529537.19
+1f1acdfb-0c4f-470b-a53a-b8a05e193c1c,Volkswagen,Jetta,1990,Czech Republic,904158.81
+3582bdd1-3ce8-451d-aa91-cd116d631e23,Hyundai,Excel,1994,Philippines,480983.82
+ea955751-cc04-4ab3-9e99-5675c08238d3,GMC,Sonoma,1993,China,78052.04
+9f71d040-56e2-4432-9137-e539b096194a,Chrysler,Crossfire,2004,China,753281.1
+2413f89d-5848-4a52-a50b-f2a2e315e804,Subaru,SVX,1997,Brazil,954159.41
+bc5fb1c7-b334-41a9-905f-d46ff27915b2,Mitsubishi,Endeavor,2009,Indonesia,884828.52
+fef0a1e8-3491-49f5-a5c0-bf30d2677118,Chevrolet,Tahoe,1997,Greece,395998
+e583566e-120a-4e52-bf02-ae3b4adc60cc,Toyota,Avalon,1995,Portugal,346649.48
+1c45f47b-a289-4e2c-8fd0-b2672dbc0a75,Pontiac,G6,2010,Indonesia,410808.31
+3ee0d520-736b-4325-8ad0-aa941d7e6db2,Toyota,Sequoia,2007,China,573348
+e1e39942-bbee-40e9-ba34-48bcdd19dff4,Volvo,V70,1999,Finland,47464.77
+91696f97-7580-47dd-974a-a1e627335eb6,Oldsmobile,Aurora,1999,Brazil,430548
+03daa6bd-c02e-4437-8851-d60553280b7d,Chevrolet,Venture,2004,Nicaragua,479157.84
+d66986e9-fb4d-4f10-bbd6-ab9f9483c569,Lexus,ES,2009,Philippines,310670.35
+dd8c6d59-3c38-437d-8192-5aa76304e84c,Chrysler,Cirrus,1999,Indonesia,905846.58
+e745291b-99ad-4894-b750-f829f6c8e11c,Nissan,Maxima,2002,Portugal,44318.49
+11c915a3-d867-46c7-9ae1-14c84ff00dcd,Chevrolet,Express 2500,2001,United Kingdom,512600.79
+950f928b-b0a5-4626-9e66-13f3ac7f737b,Subaru,Tribeca,2012,Tanzania,661427.89
+95af7b93-40bd-499a-aaf1-297f1c10cbbf,Ford,Explorer,2005,Philippines,715516.84
+6f279b84-893f-48b9-bb6f-026a76b557e3,Oldsmobile,88,1994,Indonesia,489637.68
+742cc886-fa85-4732-8ffc-27d8a3f0afff,Buick,Rendezvous,2006,Russia,830628.87
+851494f3-3405-4af6-b5bc-d707b36559cb,Porsche,928,1991,Malaysia,100105.98
+7d0d8d72-1422-4e21-bc82-1c12dd5ddd6f,Nissan,300ZX,1994,Poland,942075.07
+ab46ae1f-06ae-4ace-9770-7e04a094269d,Mercedes-Benz,SLS-Class,2012,Sweden,632080.96
+4b16ce40-5b37-4a4d-8381-a92ef7c7bb69,Volvo,240,1993,Sweden,289102.96
+85969974-1b34-48b9-bde8-94f3e5d2c217,Kia,Sorento,2011,Poland,413551.15
+06e26fcf-029f-4927-b174-858e1b6368e2,Dodge,Intrepid,2000,Philippines,713052.72
+9cbd734a-944f-4372-8473-ba2c2c531fc8,Ford,Escape,2001,Indonesia,378846.3
+1b2ead67-b6c1-4a83-afeb-75a8cbc696e7,Ford,Expedition EL,2010,Philippines,765925.91
+454a22ec-a4f2-4e10-b9fe-c5e5e3c42654,Volvo,XC70,2011,Malaysia,666534.48
+bb985a3a-e230-4737-a19f-769fc3c1010e,Toyota,MR2,2003,Czech Republic,66914.97
+b6127726-4089-4560-b045-cd8b924e536d,Chevrolet,SSR,2005,Portugal,34133.55
+0c951938-ff53-415a-9273-2520262a556b,Ford,Aerostar,1996,United States,535844.05
+e2aacb8c-a331-49b6-8c75-b2e326d7ddd4,Subaru,SVX,1992,Poland,793218.1
+41db7269-d931-4738-b939-631bd33a7ac7,Volkswagen,rio,2000,Indonesia,301677.8
+a636ae3f-ee28-47b3-9b9f-8be54d253d9a,Dodge,Dakota Club,2003,Libya,437188.27
+e6056e28-b730-4032-9ed4-361b42d1fb9c,Mazda,MX-6,1992,China,727660.54
+fa2dceed-40f6-421d-b49b-8faab454d226,Volkswagen,New Beetle,1999,Israel,426900
+310e91fa-b399-418f-8bf8-53b5cd74d240,Mercury,Capri,1994,Portugal,875849.27
+2650bfbf-eb7f-4beb-b3f8-f06e9c74fbd5,Pontiac,Grand Am,1995,Portugal,666275.46
+8a3e984f-d4a9-4e36-aac5-38df16f53ada,Jeep,Cherokee,1995,Spain,51326.36
+2a2ffd20-05b9-4f65-8adf-f5e09a0355dd,Toyota,Venza,2012,United States,165040.67
+647b3902-dce3-4dd5-9d60-cc93d4190e92,Mazda,Millenia,1998,Japan,458223.92
+61bafd1b-d947-460c-97d4-68b3418f3269,Oldsmobile,Aurora,1996,Portugal,781665
+8933d19d-6ee6-484d-9d3f-f380305fce1a,Chevrolet,Astro,2004,Germany,543377.77
+45630939-08f1-439d-b741-d33846a58b2d,Dodge,Ram 1500,2003,China,13814.26
+3798cd5e-f8e4-41e4-9b12-08ed96ed55c3,Maybach,57,2008,France,782678.51
+432db27a-7458-4963-8dd2-b2dbfdd1a5d4,Mazda,MX-5,2000,Vietnam,222499.52
+7047c5d7-f3fa-4b96-affb-1c780db13762,Mitsubishi,Montero,1996,Brazil,253911.14
+2e433c21-6e21-4f4c-b519-cc80e8691552,Porsche,Boxster,1997,Indonesia,842101.7
+3f64e113-e2d3-451f-b560-f80817dce7b9,Mercedes-Benz,E-Class,2012,Canada,421996.93
+8522e774-2976-4223-98ef-8d8579fc36ad,Suzuki,X-90,1996,Colombia,836096.13
+43671fed-aec9-4f58-8952-f0cdd2f2094c,Mazda,MX-6,1995,Greece,247617.43
+b8050d81-24f7-41e7-826b-6d4ddd463e51,Audi,Q7,2010,Indonesia,94845.39
+e0dc6c8b-9a65-459f-a332-060a9d62f3dd,Buick,Terraza,2006,South Africa,507332.07
+5257790c-65b2-459a-a0e2-b75dc09507fd,Jaguar,X-Type,2005,Peru,403830.2
+57cc6ac0-c3d5-48e2-ab4f-c9adc85a5987,Mazda,Miata MX-5,2011,Japan,492699.45
+e20f3b6f-5236-4648-964b-09e2d79c926e,Infiniti,Q,1995,Morocco,280166.46
+ec6613ef-cea9-481c-9cdd-17b817e7db80,Aston Martin,Virage,2012,China,464791.72
+953c5ec5-5ab4-4b26-8f16-2df84da769c0,Dodge,Viper,1995,Thailand,964978.56
+75abff4d-913f-452b-9a79-2ccd67c1b4eb,Pontiac,Grand Prix,1962,China,172654.17
+49d24f2e-8385-4e41-b088-48b63f93134d,Cadillac,XLR-V,2008,China,420132.22
+13e63ce9-2dbf-4f9b-ab7e-6dca0ef1c21b,Audi,5000S,1987,North Korea,861314.76
+81155e15-7830-4377-84ab-ec0953e61571,Volkswagen,Golf,1992,South Africa,212859.75
+f381b453-ce59-4798-aea9-e39ab669d31f,Toyota,Paseo,1996,Pakistan,566453.97
+a653afb3-cf85-48a0-a6f1-0b43e3cf949c,Pontiac,Grand Prix,1997,China,367740.19
+07ffcadb-83b4-41f1-834b-f6795760a2a8,Toyota,RAV4,2007,Russia,973970.04
+17f88202-5511-4816-97b2-8de14554b03a,Land Rover,LR2,2012,Italy,244600.06
+71bdb570-5311-486d-b08b-0b8c6794bb95,Mercedes-Benz,S-Class,1992,Portugal,839628.19
+cb7ee00a-19ce-4275-9a9a-812aae979d9a,Lexus,GX,2009,Macedonia,914008.36
+7ac25157-0496-4f33-b773-6d18a68e49af,Chevrolet,Colorado,2006,Kiribati,569388.24
+73f4cd71-0a2c-4909-8479-c521f89be453,Chevrolet,Suburban 1500,1994,Russia,876963.08
+559907e8-6b9e-4200-9671-cf27c61c71ca,Infiniti,G,2007,France,146583.75
+99d0fb50-1972-4fbb-be73-2b15b425b1de,Volkswagen,Golf,1988,China,526798.87
+4b9dffbb-2a9f-4eee-bdf8-d275cc6e4c82,Holden,Monaro,2004,Vietnam,106382.91
+07712270-a241-4949-8c03-bbd6decc3eae,Nissan,350Z,2008,Ukraine,762577.51
+124bd219-78c0-4e41-be3b-533dbe152871,Dodge,Grand Caravan,2006,China,561952.15
+0f297757-915e-46b5-baab-d855f5aee0c1,Toyota,Highlander,2009,Russia,273943.73
+0a89ee23-1e11-4412-8cc3-b7e3f4f634a5,Porsche,911,2010,Ukraine,883094.15
+8ca36e60-c8fc-499a-a8d2-88792ac9e201,Toyota,Camry,2003,Philippines,389282.95
+8d951220-801d-4656-ba9b-576a439e104d,Mazda,RX-7,1991,Bulgaria,550731.58
+1b96a978-cedd-43eb-9be7-9e221fcb3376,Ford,Bronco,1996,China,818394.96
+41d993ee-d224-4e05-9aca-a3dcfe2056eb,Mercury,Sable,1986,Panama,865565.5
+de70d3dc-d5b1-4668-9e15-a6177b25562c,Ford,F250,1995,Japan,279609.96
+8d99ddbb-4ccb-40d6-ba72-d4e7c84b7234,BMW,8 Series,1992,China,262912.23
+eba5010d-03e2-4aca-afb7-4bd81a8619d1,Pontiac,LeMans,1964,Russia,921016.85
+0d849700-7b88-46a8-a9ca-3755b0a53da0,Mazda,626,1985,Indonesia,628806.21
+d3a0ab86-9659-4590-8556-608a528ef87a,Lincoln,Continental Mark VII,1988,Poland,753343.87
+df643eda-a8c1-4341-8e51-ecfe49563107,Toyota,MR2,2001,Indonesia,176160.55
+ce4a7ea8-7ed5-4358-a689-e9c2287db24c,Pontiac,Turbo Firefly,1990,Russia,878163.86
+a2464d72-1a86-468a-8786-5a5e209589b2,Ford,Taurus,2004,Poland,819583.11
+cbd22913-2f59-44f8-a819-5c1f004b9f2b,Hyundai,Azera,2006,Jordan,671246.62
+25c84230-5fe9-49cd-8da2-c741f701621c,Lexus,LS,1992,Poland,335312.23
+459e117a-9f6a-445b-99f8-c4fc25ac29d9,Chrysler,Sebring,2002,Poland,245360.04
+5be734bd-c457-4a18-8547-c2b100c30648,Porsche,924 S,1987,Greece,272557.76
+a7113be7-59ee-46b1-8792-97a003084fce,Chevrolet,Monza,1975,China,389758
+49f8f696-c7ce-4941-bd5a-00338ec0520b,Lexus,GX,2011,United States,528774.74
+bda14311-09c4-49e2-8b39-c86a6e87d9b0,Pontiac,GTO,1965,Democratic Republic of the Congo,438195.65
+838b9205-16b9-4894-9bc9-d8a9116b1050,Ford,F-Series Super Duty,2009,United States,276821.91
+081668db-564c-4926-a80c-cc86ebd53a87,Nissan,300ZX,1996,Russia,213888.79
+89415d90-de96-4dbe-aa5c-e65f81226029,Toyota,Celica,1994,France,462793.9
+e5df4f11-109b-4f9d-a0b6-bbb10575c46a,Land Rover,Freelander,2009,Indonesia,383022.36
+64548592-c287-4e0f-994b-96aabc1aa272,GMC,Vandura G1500,1995,Indonesia,292252.11
+a3f64cbe-ab1a-4691-90f0-83ecfab8dd79,Mercedes-Benz,CLK-Class,2008,Indonesia,160837.68
+6e40c366-0bcd-4bec-8e8d-942df98d33b0,Ford,Freestyle,2006,Peru,583105.6
+6e61af7c-9583-4097-97e8-2d9b3d41a3ac,Volvo,S60,2001,Greece,615615.4
+9b517101-eb71-4fb9-84dc-2823a0dea305,Lexus,LX,2002,Indonesia,374229.37
+74954d69-7e20-4834-9687-72cd7c164814,Ford,F-Series Super Duty,2010,South Korea,732894.27
+3186718a-1089-4263-bf43-c4a070489f91,Mercury,Mountaineer,2005,Philippines,167156.83
+58930dfc-4527-4f02-9e53-fa839f2a2b1a,Dodge,Dakota,1993,Afghanistan,438145.72
+b138f18b-8861-4f7b-a569-bb389f9a428a,Mercedes-Benz,W126,1981,Azerbaijan,116609.36
+c861a9d0-e90a-4cc5-95fe-c1135a14fd43,Toyota,Yaris,2006,Indonesia,511286.96
+114f59e0-91d8-480a-b6b4-a49b5b8a5f53,Dodge,Viper RT/10,1993,Russia,33194.52
+9fa3a886-c8b0-4139-a854-e9297e0b03d4,Pontiac,Bonneville,1997,Japan,362002.14
+00683702-a535-4649-8374-a884e63161a8,Lincoln,MKX,2011,China,124665.59
+bb8d3910-4d14-4d46-9f2a-e93122d61ba8,Audi,A3,2010,Benin,546135.67
+8ba81a66-50d9-4bad-8cca-72ccb26135be,Volvo,S40,2010,China,465081.8
+e5350f06-8c74-499f-8409-f3b16eaae8d9,Chevrolet,SSR,2004,Iceland,342976.77
+429cbd1c-4cc9-464a-9b9f-6c1b1b62b6ec,Nissan,370Z,2012,Thailand,993218.86
+bd0f7768-b2be-4640-8533-c1a207303af8,Porsche,Panamera,2013,China,678258.1
+b9fe037c-ade2-41e2-bd2d-e38fba0ed285,Audi,Q5,2012,Philippines,176632.03
+d75079fe-581e-443f-8447-d46d5921778e,Chevrolet,SSR,2005,China,70366.18
+0ca16640-e28b-4823-bd4c-c130bede8c61,Lexus,SC,2008,Albania,276719.09
+a88724df-9c0d-4ad4-9848-2686862ed690,Mercury,Grand Marquis,2007,Botswana,277847.6
+deccc3de-78a4-4a3a-afb8-8c2b9503588a,Toyota,Tacoma,2007,Ukraine,521265.06
+73c896d3-a3be-4862-a679-5a01a0ae3ab1,Ford,Escort,1995,Sweden,176800.08
+c40ff333-6948-4a4e-9a69-1a02797fec25,Oldsmobile,Aurora,1998,China,452629.91
+d7178935-b799-40cc-b826-6807d0b8ff3f,Mazda,MX-3,1994,Mongolia,247796.82
+ce05db5d-4025-4462-b0d9-241852172393,Mitsubishi,Chariot,1991,Colombia,168299.58
+1674f9af-7741-4abc-9751-fd3a1fbcd369,Pontiac,Firebird,1996,China,564854.27
+05225fbc-dced-4ca6-a4a4-941b495fa861,Lamborghini,Diablo,1999,Indonesia,895488.84
+fa1083f2-9d04-4e3b-9850-ac25190473a5,Hyundai,Tiburon,1999,France,206283.44
+9d44b85c-31c8-49f1-8acf-7175c09ed064,Lexus,GS,2010,Indonesia,228732.13
+133301c0-7cb4-4dfc-a115-67aacac672b9,Ford,Mustang,1995,United States,952004.48
+24c93e9e-9acc-4cc7-a234-5aa6d223980e,Land Rover,Range Rover,2011,Japan,7774.54
+5b6ca90a-0f7f-4620-a7e5-d4168554b6ce,BMW,X5,2013,Chad,655381.3
+63717701-3ad2-473a-aa11-1398573f9256,Buick,Rendezvous,2007,Dominican Republic,80624.41
+587959e5-2c1a-441f-b25a-bed250723dcc,Honda,Passport,1994,France,630440.17
+9687a2c9-6e9b-45cd-ba3b-6c12d584944d,GMC,Yukon XL 2500,2007,Poland,39692.7
+e8742517-ec4a-4816-9b6f-80a58bdda672,Plymouth,Laser,1992,Poland,250750.2
+6a83ac77-e2e3-4c4a-b2f7-3e7f1b5e061d,Oldsmobile,Ciera,1992,China,699820.13
+49d81d76-d5a0-4309-b9f2-1e8e32b04dac,Buick,Coachbuilder,1991,Armenia,523494.35
+1b7e75e8-8c1d-41f3-b134-37034e3f1e19,Audi,S4,2011,Cameroon,595658.27
+53ab3c62-c1ec-4991-b59b-262a2814e20f,Lexus,SC,2010,Croatia,216303
+37a3b901-a645-4e01-a1ac-74dd5cfe84f0,Chevrolet,K5 Blazer,1995,Greece,436622.26
+0f8f8507-9336-4ea2-ab7f-c9c137dc9267,Pontiac,Grand Prix,2007,Japan,670323.39
+e24f690d-f7a8-489f-9253-203c400f5e55,Chevrolet,Express 2500,2007,China,341223.4
+ea1c738c-16c5-4253-a9dc-19d46b0cdc9e,Lincoln,LS,2003,Thailand,331785.65
+3ba8dd2b-fadc-42d1-bccb-2a6be88f2c3a,Ford,Bronco,1993,Indonesia,826418.46
+020cb92e-40ed-4c78-ba8a-d28b944772ac,Dodge,Charger,1999,Fiji,793343.18
+de15971a-20dc-4edc-aa81-68b8d92af2d8,Honda,Odyssey,2007,Indonesia,373546.96
+7c8a8806-8663-4af4-be36-3d566aa2a16b,Cadillac,SRX,2008,Argentina,228590.5
+a88bd719-ff88-41a6-838c-8a3ace23428e,Ford,Econoline E350,1996,Ukraine,834615.08
+83982b1f-5d88-49b2-b4cb-f7ef801d8e02,Lexus,GX,2010,United Kingdom,961457.68
+adc9ca0c-30ce-45dc-9ee3-a63cb191e8dc,Pontiac,Bonneville,2002,Argentina,840099.16
+115ac4a0-8300-4b9f-be00-7d1e6e27c2f5,Chevrolet,3500,1992,Brazil,127391.14
+035e9757-31bb-4f30-9423-9e59b894ef0a,Holden,VS Commodore,1995,Liberia,635185.21
+efab122c-ca75-4c68-a84d-f988074dea11,Nissan,240SX,1997,Argentina,553854.64
+0795bbee-64a0-4d72-b472-e4a994a17ea1,Chevrolet,Aveo,2004,Serbia,780370.44
+6b7b5c05-f48e-4c86-a6b8-18481479873d,Toyota,4Runner,1993,Brazil,477397.06
+1aed65b5-0a4d-4316-8cb8-18ed33cec6fc,Cadillac,STS-V,2009,Sweden,757419.99
+dd09f497-a9d2-4f3c-90c2-c5c85560e461,Ford,Aerostar,1996,Thailand,326839.14
+72f3a0c6-04da-40f5-9f95-254981dfd619,Ford,E-Series,1989,Portugal,278013.19
+b84966fe-0e7c-4fe1-b249-8a3efe93138b,Toyota,4Runner,2000,Philippines,479440.36
+3a464739-b2d5-4e9b-a4da-8307bba32ddc,Subaru,Impreza WRX,2011,Philippines,886361.84
+da2674d6-fbc2-47e8-a913-52305c059ebf,Toyota,Celica,2000,United States,36411
+41fad116-96fa-4901-8c81-bd776b0f20e6,Mitsubishi,RVR,1994,China,345283.36
+98acb6e8-94be-480e-8b1c-bc04ac267be6,Toyota,Sienna,2003,France,331192.16
+ddd111b1-a9ac-49fd-afff-50a618186f3b,Kia,Sephia,1998,Russia,256665.83
+62640f61-840d-4c2e-aea7-684afafad064,Chevrolet,Avalanche 1500,2002,Philippines,974614.9
+10a89053-b01d-4d93-a8bf-140444944e67,Dodge,Ram 2500,2003,Sweden,635732.17
+f67a6236-efbc-42cd-8349-0bd93c2bfb9b,GMC,Savana 1500,2001,South Korea,427930
+5e16b830-e9d6-4aa8-9e96-679c54e7352a,Cadillac,Escalade,2004,Sri Lanka,731117.84
+0bbd2b4a-302a-46a6-84f9-a06e177338ba,GMC,Savana 2500,2003,Czech Republic,676526.91
+fce570dc-3889-40c3-a5d8-f76e7fe60985,Ford,Thunderbird,1996,Belarus,545513.26
+b288040e-742e-4f73-938e-58781f626eb2,Toyota,RAV4,2003,China,744451.73
+f75a7a06-89c1-4830-a7e0-9a05ddd638ac,Subaru,Leone,1986,Ukraine,930238.7
+cd3c98b4-6f34-4666-aa22-fed5787e9b6b,Ford,Econoline E250,1996,Indonesia,939529.46
+b1ca418d-df3f-42f2-955a-61ce7995c482,GMC,Yukon,2008,Indonesia,137209.03
+195380c3-c940-407b-961e-24330b463431,BMW,7 Series,2009,Iran,506688.36
+7c0b2d59-3023-44e5-8709-e6997559deb7,Chevrolet,Uplander,2007,Mexico,473650.01
+b14301ff-2793-4534-b28c-2b7155629221,Mazda,MX-6,1997,Armenia,918775.56
+929c917e-e933-4659-87c3-f28c4aca10d4,Audi,A6,2004,Vietnam,807747.1
+93b33dae-5873-40a2-a0db-025b95148f97,GMC,Sonoma,2004,Samoa,915945.46
+e31a858d-35ff-4395-bd41-8b628f0bcaf1,BMW,530,2004,Costa Rica,386999.64
+1b606a35-2872-421f-9ff0-f3f615812d89,Mercedes-Benz,C-Class,2005,Malta,947649.35
+0c0de6e5-7bf1-46fb-a0b7-4632e192434a,Buick,Lucerne,2008,China,947129.29
+14d026db-08ba-4452-aa62-7ba28b933c4a,Bentley,Azure,2008,Cameroon,265873.52
+7a3fd3ac-1e8d-437f-9974-c65eccbddca2,BMW,X5,2000,Russia,715920.71
+572eb02c-ee5b-4595-b80c-dd30c28da69b,Chrysler,LHS,1995,Indonesia,949252.96
+08624f84-cbb7-41b8-a0aa-d22716e2e632,Pontiac,Grand Prix,1990,Brazil,487545.7
+7b6752bb-6370-4727-b02f-ef2519e83fe0,Dodge,Ram 3500 Club,1995,Belgium,41914.03
+8edd2da4-7967-4b2b-9af5-535366a9d624,Mitsubishi,Challenger,2000,Indonesia,957156.74
+bb7bfccb-a9ee-4645-b2c7-0523fc78c86e,Mazda,Miata MX-5,1994,China,864286
+4301224c-1709-4951-9c72-1d2c5888cca7,Chevrolet,Corvette,1988,Botswana,944915.5
+e16e137c-625b-498a-8d23-b4b58df27dbb,Pontiac,Firebird,1990,Pakistan,166007.56
+c19a5e1f-567b-4dc3-b027-0887e10e6a44,Bentley,Continental Super,2012,Poland,45724.62
+b4ea3778-1f9b-40b8-9d01-0efc598225c7,Volkswagen,Phaeton,2006,France,263072.51
+bd103566-3348-46a1-ae63-6fec99dbc5d0,Cadillac,CTS,2011,Poland,281277.85
+0b8f2dcc-ca11-4be8-9318-890c35a8cfa0,Subaru,Impreza,2009,Slovenia,304888.61
+9e8ece68-62db-465d-b224-71f81ca8246e,Dodge,Ram 1500,2007,Sweden,544069.96
+a4d6e4aa-fab1-4452-bc0d-01fedf7f1436,Subaru,Leone,1986,Ireland,748590.77
+651fd794-d8f3-413a-96f6-99210eeead21,Mazda,929,1995,Mongolia,769183.58
+0e94c35f-15df-4676-9645-81dc84f9b17c,Acura,RL,2007,Spain,37150.22
+414b1368-cb32-4222-b4cf-e2fa1512799b,Ford,E150,2012,Peru,641492.1
+c0cf908a-99b6-4b12-8fce-7b214da73c18,Chevrolet,Uplander,2005,Luxembourg,860094.16
+734de8cf-4560-4315-9c15-54b930a42440,Mitsubishi,Pajero,2003,France,144580.39
+b900bb12-826a-4269-8732-446c30753166,Mitsubishi,L300,1987,South Africa,695273.05
+699cc8d5-969d-4298-ac8c-10fc4285101a,Fiat,500,2012,China,609229.94
+a20b82ed-4e95-4fb6-aec9-3d6c29f89e06,Jaguar,S-Type,2001,Indonesia,905974.26
+9ea7fc36-fe04-402b-a4eb-6b469e5a0dd5,Honda,Insight,2006,China,279060.33
+ce068193-722c-4543-b66e-c985994dee19,Lincoln,Navigator L,2008,Indonesia,648826.09
+d47a550b-cdd6-4bb5-b9c4-141caf619ed7,Bentley,Continental GT,2009,Colombia,250511.52
+ea766a2a-c3cd-4b6e-963e-5e26faab535d,Nissan,Frontier,1998,United States,418009.15
+80142977-e303-4314-89c5-0a2c2e8a9789,Dodge,Durango,2000,China,51990.67
+a5214c30-3247-4296-852a-f50b911fcbe5,Subaru,Impreza,2011,Philippines,870480.76
+790a8b2c-4475-4ab3-ac11-e36db6e7dfc0,Ford,Tempo,1991,Poland,175399.17
+0ce7071c-ad44-44c5-b4db-f6c78749bf0b,Volvo,C70,2006,France,520685.1
+57f01242-c7fa-4c2d-94fd-c93a6d26542e,BMW,X5 M,2012,Poland,693376.15
+4ced3bb9-d8f4-45bd-899d-5cfda92fc0e0,Mitsubishi,Mirage,1993,Indonesia,405885.36
+e66f85ce-dff7-4224-93bf-edf742b7fb7b,Mercedes-Benz,SL-Class,1986,China,92262.6
+299883f8-7c6a-47e8-b475-9f276744231c,Audi,RS4,2007,China,556403.8
+55871090-c2c1-4b7f-a23c-ea151264b38e,Volkswagen,Jetta,2010,China,553486
+d42fa0d7-1eb3-49c6-a001-68101e141640,Chevrolet,Camaro,1998,Mexico,278249.01
+95c45d65-cb41-4a07-aa26-a97c26c01aca,Subaru,Legacy,1997,Indonesia,494343.38
+301ef697-642f-49f7-9edb-f7d5f7e5f4b0,GMC,Envoy XL,2003,China,462921.7
+ff6e5079-e757-4660-ae8e-b14a5fe697d3,Mazda,Mazda6,2012,Indonesia,364507.62
+f15a67da-b506-4513-b44b-294de60a10b1,Audi,TT,2001,Russia,872748.39
+d70ec956-1e4c-4494-b979-e8e765215777,Ford,Contour,1999,Russia,330315.46
+af56fccd-ede2-44df-b4c4-f0f6d5f591a5,Buick,Enclave,2009,China,641503.27
+8b849f11-d395-47bf-a76e-b9b2e74fbe0f,Ford,LTD Crown Victoria,1987,Micronesia,324873.19
+b12b1ed6-85f8-4c3d-a4c4-152696cf74e4,Dodge,Dakota Club,2000,Ukraine,733245.13
+d53f92de-c34f-48a1-b7f5-4902c9b3ea09,Pontiac,Sunfire,1996,United States,299825.02
+34c8d0a5-b212-45e5-a94e-0ece57767bab,Buick,Skylark,1991,China,554446.17
+60158899-e6b7-47aa-805e-63ddf0aee866,Toyota,Prius,2010,Philippines,398316.14
+ce3a9515-456c-4c3f-bf83-33ca32591fb6,Audi,S8,2009,Philippines,333025.59
+b8ff62d3-4dfd-4f24-b91e-4acf51584630,Kia,Forte,2011,Russia,954676.11
+0a313071-2cbd-4e75-8861-a734da779c26,Land Rover,Discovery,2011,China,610209.01
+b0db81a3-a70f-4f51-befb-c8dd718c18d2,Mitsubishi,Montero,1996,Sudan,153506.92
+a3514ea0-ec23-404e-86b4-7ee406e3b5a7,Hyundai,Azera,2006,Russia,221258.59
+72817367-8816-46ae-9212-00ba1f523200,Volvo,V70,2006,Russia,990398.84
+f4802048-8012-457b-96d0-028fb166206a,Audi,S6,2009,United States,411176.78
+3448064a-3b59-441f-9095-810589fe6e77,Ford,Courier,1989,Brazil,215825.06
+d2f00252-203e-45ce-b20c-98fe53cd34ef,Volkswagen,Passat,1990,Niger,523151.52
+e63e541a-d9b4-4b79-9c7b-5775188823e5,Mercedes-Benz,600SEL,1993,China,131845.35
+b6c52598-fc73-4e18-b0bc-1e7e3a5e21f4,Eagle,Talon,1990,France,888004.91
+2a67af20-883c-4931-8fe8-9343660f4ab1,Toyota,MR2,1985,China,796792.42
+29f1e31e-bdde-443b-808c-b47ad2482c62,Land Rover,Range Rover Sport,2011,Nigeria,355713.97
+85603352-25c9-4590-af26-9f1264afd94f,Volkswagen,CC,2013,Israel,177447.75
+30389062-8019-4165-9173-bd5a6f9b56d8,Lotus,Esprit Turbo,1984,Philippines,656180.09
+9684c659-48cf-4e16-a42d-0a96eaed53d4,Pontiac,Montana,1999,China,627597.05
+687ac9cb-7123-4ac7-9b07-02d26203f533,Lexus,SC,1999,Malaysia,299063.01
+f2720d74-a24d-4ef5-8a31-9e68800b7d6e,Pontiac,Grand Am,1992,China,43423.63
+12176b29-308c-43da-935d-f500a7e4a2b3,Lincoln,Continental,1992,Indonesia,656519.42
+e3166212-5643-4cc1-a7de-37dfa62208a9,Mitsubishi,L300,1990,Mexico,460057.53
+64139ede-0744-4dc7-b0ed-a81f460ceb38,Toyota,Avalon,2006,Ivory Coast,870007.36
+60a59188-108c-4fa7-a990-71c94eb00e11,Toyota,MR2,1986,Russia,175116.79
+9123d3bf-ae80-4330-a29a-06eaa4994bd8,Hyundai,Elantra,2003,Ecuador,478187.94
+951a265b-67b6-46fa-b559-a668c977aff5,Mercedes-Benz,S-Class,2012,Uganda,820129.6
+bcd2b2cd-c69d-4599-bd9c-7a6734200990,Porsche,911,1986,Iran,942539.75
+61cd27fe-b0b2-49be-b082-9148836eece4,Chevrolet,HHR,2011,Peru,598821.92
+c107b2d1-3fa5-489a-9455-41809497f7d4,Mazda,929,1987,Guatemala,929541.79
+83f432b8-ec5b-448b-b077-ba31e950011b,Pontiac,Gemini,1987,South Africa,709422.62
+f3b01caa-9cd4-404a-a0b6-af45d5a6d489,Mitsubishi,Starion,1987,Guadeloupe,307334.89
+1786535a-b627-48d2-b21c-a3ec125b21eb,Acura,MDX,2010,Vietnam,324873.52
+c8d5f847-10c7-4446-901b-a36b3fc2ec55,Pontiac,Firebird,1990,China,905927
+48b9a025-f56e-44a4-9e56-c3702ed5a454,Ford,E-Series,1994,Madagascar,689838.58
+f7696df6-1c38-4eb8-9988-e2921e99c012,Chevrolet,Blazer,1999,Philippines,445933.56
+986fcb76-1307-486f-8b3a-400454298720,Dodge,D350,1993,Ukraine,467859.95
+2a07e975-dc99-4a46-b2e0-ff0e3593f68a,Mazda,RX-8,2005,China,628583.94
+f8ad6d51-e223-42f8-b746-cf1484be6799,Dodge,Stratus,2001,Sweden,71239.33
+15a339ed-1ad8-4af1-a396-e071f9c2d311,Saab,9000,1991,Russia,38627.64
+d70a6c99-1700-4264-acdd-b0b736cdc448,Buick,Coachbuilder,1994,United Arab Emirates,725114.39
+d959f48d-7e7e-422b-b84f-181f7f75e62f,Kia,Sorento,2012,Ukraine,155066.12
+46801a3c-c506-4cff-bfe3-314631e6fc47,BMW,3 Series,2002,China,991173.4
+b5c3c181-14f1-45be-81f8-7c8b85e7190e,Audi,A8,2012,Mexico,448929.71
+93c4f7f2-ed6d-4263-882c-712fad641ef5,Toyota,Corolla,1999,Syria,840657.29
+5fa4c026-1e87-47e0-81b3-1bf39a11d682,Ford,Ranger,2004,Russia,328883.25
+3aa3c303-c67b-4d4b-aa4c-2eae65b84bbf,Toyota,Sequoia,2004,Sweden,114831.83
+a554de93-cce2-453c-a726-45182b5ee42b,Porsche,Cayenne,2003,Ghana,115288.42
+69760d32-3299-4de4-8419-4c273d32ed5d,Chevrolet,Cruze,2011,China,34852.84
+97ee577b-07ab-4678-a99a-d51414782eae,Mercury,Cougar,1984,Indonesia,555916.13
+1bd9cc43-80f5-4e89-845c-cbb95c460f51,Lotus,Esprit,2000,United Kingdom,207136.98
+0a591f63-a287-436a-8523-c8a3cb021f10,Subaru,BRZ,2013,Portugal,468990.47
+fc4269e9-8530-42a3-813c-44a1b17b680c,Saab,9000,1997,Russia,739511.63
+dee3187a-3b62-4525-8dba-39df45e6a0a1,Audi,A8,2007,United States,858138.53
+031cb288-c638-4e2b-952c-ed1c0b4930d0,Volvo,S40,2010,South Africa,767162.24
+6ba147c1-de6f-4910-ad2f-583828e5b1ed,Mercedes-Benz,W201,1989,Peru,642605.65
+72057534-814e-4e79-a448-a861afa8b159,BMW,5 Series,2007,United Kingdom,589847.5
+8bf86415-d388-49ec-bd50-8c6c123f8d11,Chrysler,Town & Country,1997,Greece,196012.37
+0801b0e4-e323-4744-b967-ec0edfda93b4,Pontiac,G6,2006,Indonesia,641413.42
+0e583db7-d63c-4820-9a93-dfbf7fd6233c,Ford,Taurus,1995,Indonesia,49219.01
+1f40b9b7-644a-4a18-b685-6c536079b49e,Pontiac,Parisienne,1985,Ivory Coast,548246
+f5e3ded7-3f78-4448-9e94-775685e53e73,Mazda,RX-8,2011,Colombia,662673.84
+42fe47f0-37c0-433d-8120-4f7c5775098f,Mitsubishi,Lancer Evolution,2006,Tunisia,124564.36
+2707d21b-c3d6-45be-8aa6-dafd5dd1a2d8,BMW,525,2005,Morocco,190418.1
+446856cc-c4b0-4c23-9f9f-454f4315b53a,Pontiac,Sunfire,2003,Australia,833898.53
+29e83c4a-b0c7-4505-b0c0-a6aa1395bb3d,Ford,Fairlane,1966,Mexico,186011.72
+059e3e6d-6736-4a16-90a2-464e4f855601,Ford,Expedition,2000,Japan,641960.71
+08c0363d-391a-4539-bdf9-dead69463eb6,Mitsubishi,Raider,2006,Sweden,905580.87
+cff83d39-485a-4025-b0c9-756f1a4d11d2,Volvo,S60,2005,South Africa,194858.52
+28a17a58-f1a3-48d8-85cd-3ab95444c534,Suzuki,SX4,2009,Yemen,240931.98
+42ce054e-f821-4f34-9a24-92997ce9a17b,GMC,Rally Wagon G3500,1996,China,890671.82
+6867fe7f-6326-4c08-8098-d06a8796190a,Mercedes-Benz,S-Class,1992,Russia,107888.34
+7156e3b3-9aa4-4921-827a-97bbbdcfe6c4,Toyota,Land Cruiser,2004,South Africa,21610.56
+5c0d2f68-719e-4c16-8ed4-cd79b926179a,GMC,3500 Club Coupe,1998,Poland,179757.39
+7c1b0207-c6d7-4c08-a354-a398cd78a597,Saab,900,1985,France,13916.34
+8947d336-71fc-4663-b6e3-be27188bcbec,Jeep,Grand Cherokee,2008,Guatemala,944633.52
+02c98920-24e7-42fd-90f6-f91de4afbb77,Subaru,SVX,1993,Panama,763578.38
+bf16467a-b9f2-4489-9633-9d50af451b98,Mitsubishi,Chariot,1987,Indonesia,942562.54
+ce0b7c0c-c162-4c3f-b927-7ddaa80b74fb,Maserati,GranSport,2005,Japan,735972.12
+bb9a0f62-4c7c-428d-9c38-a510f6b2b1d1,Maybach,57S,2005,Portugal,935740.28
+408606cc-e8b1-43a7-b031-b3ffa80909cd,Honda,Ridgeline,2010,Portugal,181008.7
+ae7b1783-5327-43c1-8550-3b61371c2e66,Lexus,IS,2004,China,919102.51
+482c553d-cd5f-468a-947a-7900ea31c361,Mazda,RX-7,1994,China,878223.54
+4015cd62-225b-4b37-8be7-6b6a4f40845c,Saturn,Sky,2009,Curacao,356483.61
+59a65873-16c1-4295-922f-14f7c4c6c991,Oldsmobile,Silhouette,2001,Poland,728960.5
+0523b210-7dc7-4c9b-8f60-897f399f8888,Jaguar,XJ Series,1996,Venezuela,758462.98
+e6e91af8-639a-4dfb-b185-877d7a422db5,Subaru,BRZ,2013,Slovenia,660692.62
+2d74c8ae-12b1-4919-b6c4-96fbe692c1e8,Volvo,XC90,2008,Palestinian Territory,161755.04
+58e1942a-af84-4d1e-b15a-8fde8713180e,Hummer,H3,2008,Mongolia,363528.29
+1e007528-f207-4281-91a0-b7254f81632f,Chevrolet,Silverado 2500,2012,Portugal,717477.98
+175b5dc5-4e27-43e8-aca3-4d1bbc4bac88,Maybach,Landaulet,2010,China,726722.83
+f3428723-cd8f-400b-b811-7621fb7a3530,Honda,CR-X,1988,China,867159.42
+bba39a34-11c0-43e9-b163-d40df61d9edd,Oldsmobile,Alero,1999,Czech Republic,903941.44
+6aa55316-b87f-4a62-becf-84798fe289c2,Pontiac,Aztek,2003,Panama,750085.25
+88281142-81f4-4444-ab17-4217acf329eb,Chrysler,Pacifica,2005,Tajikistan,411001.19
+3bba9003-c55b-4425-8d4a-4c292cd015c3,Kia,Rio,2008,Syria,35844.74
+4ee96465-b19e-4ac0-9c07-740885152ab7,Volkswagen,Rabbit,2006,Poland,524281.18
+7d9adbd2-b35a-408a-aa85-88e720f435c8,Isuzu,i-370,2008,Indonesia,384948.39
+968eba83-b5c8-4949-9659-dd07b2f2997d,Mitsubishi,Truck,1985,Venezuela,416019.68
+324506fb-d617-4c29-90c2-905d74ee2e27,Pontiac,Fiero,1987,Croatia,999736.27
+7481be24-dc73-4722-9b6e-4150857b095b,BMW,X5 M,2012,China,380414.11
+4d8e5ac6-68bc-42ed-a103-cf5f832e6f36,Toyota,Land Cruiser,2008,China,159303.4
+f6b2db6f-0fa0-410d-8242-285b60603c8c,Lexus,IS F,2010,China,3641.59
+ff7ad083-11b4-462c-9fd1-51cbf9b47684,Volkswagen,rio,1997,Indonesia,146786
+b5802166-4283-4b1d-8d82-41c947dffe87,Saturn,L-Series,2002,China,862694.36
+5e6fdb9d-95a0-41d6-9d16-2aca752bc62a,Lexus,SC,2000,Philippines,62093.79
+9b99cdfd-88f3-4a7d-adb8-2a2c9988e93a,Mitsubishi,Eclipse,2005,China,630128.73
+a602d839-f4c9-47d8-92ae-140b8cf24025,Bugatti,Veyron,2011,Ivory Coast,987840.54
+0249d25f-a575-4d6a-b6ba-eaea54cd3356,Nissan,350Z,2007,Philippines,557716.7
+4a9f94ee-5768-437d-a033-de8cee0069f8,Lexus,GX,2004,Tunisia,607585.84
+63a7cfa6-6e0b-452e-81d5-d2466a259617,Plymouth,Colt,1993,Poland,922180.66
+68b64f7e-b9f9-4f2f-bf1e-8dc0066122df,Cadillac,Escalade,1999,China,24753.5
+e2771777-2510-46b5-8af3-810fc060223a,Ford,Windstar,2000,Qatar,892667.79
+f2dec734-6e45-47d2-8eb1-ede45a9a2f84,Toyota,Echo,2002,Pakistan,370413.23
+4af3dd4f-5ba6-44e1-b7a4-6919239838a3,Land Rover,Range Rover,1986,China,919881.43
+bf3a7251-cf6c-4790-89b7-d6cd362961fc,BMW,600,1958,Czech Republic,527261
+019b3ce3-5884-43a5-b0c5-63a4dd5a15cf,Lexus,SC,1995,Indonesia,833722.22
+3dea2147-a669-4152-a213-eb5f4195ae3b,Dodge,Avenger,2010,Peru,994867.07
+5d7baf42-b742-4d8b-884d-7193891a9056,Nissan,Versa,2010,France,649968.69
+cc3681fb-ab3b-48a4-b161-4272f62919b5,Toyota,Celica,1984,Brazil,265118.22
+a4fbaf11-5330-431c-b67b-d9ea41faa993,Chevrolet,3500,1998,Poland,310142.13
+c5e69abf-5edf-479c-a3bd-bccc7e680aa9,Mercedes-Benz,SLS AMG,2012,Madagascar,31668.25
+e332a0e2-7af6-4439-80af-86556d432444,Ford,F350,1996,China,880721.21
+849baad9-b48d-4f8d-a4f9-9610dbf2475d,GMC,Yukon,2003,United States,890169.51
+ec362a8c-b384-4be1-aca8-64c28b6d7548,Infiniti,G,2010,Armenia,282199.66
+34072b35-614e-4eae-a946-53896f784cd1,Mercedes-Benz,CLS-Class,2012,Philippines,54305.26
+402cd5cc-e946-42b7-ba66-ad1da60627fa,Lincoln,Continental,1987,China,502207.6
+fac99b1b-35d6-4c06-a8e7-45beb97f680c,Volkswagen,Beetle,1967,Czech Republic,942685.21
+31c7e775-b5f5-43b8-a672-653cfb02b0c8,Toyota,4Runner,1998,Indonesia,529097.87
+b6b5907f-1d7f-48eb-8003-7f43715563cb,Dodge,Viper,2005,Vietnam,872223.03
+c382ee61-326e-464f-8c23-d1fd895b791c,Pontiac,Firebird,2002,China,921125.71
+08fba3cb-66b9-461b-9a22-de164df47792,Mitsubishi,Montero,1996,Denmark,707346.13
+945c3016-2a1a-4395-b4f0-1571b3964007,Chrysler,Aspen,2008,Chile,868580.34
+43ab4ce6-1d15-4d06-8ecf-9243fde32fec,Chevrolet,Beretta,1996,Afghanistan,466187
+c8aaf58a-0be4-4119-b695-054c8038e083,Ford,Tempo,1987,China,457120.13
+07dae673-1f76-40c6-9945-ff50ee3d90ce,GMC,Sierra,2008,Japan,454622.12
+0f97dba5-15d7-4e8c-ac3a-550b3955163e,Chevrolet,Suburban 1500,2005,Poland,654610.23
+4aca416b-b499-4683-a957-86469b1e606c,Toyota,Prius,2008,Taiwan,817157.69
+8839db69-eeb8-43cb-aaf6-1729987cf8b9,Volkswagen,Golf,1987,Russia,187448.84
+42c6f072-a192-4a89-b639-0acaa8d94b3a,Geo,Storm,1993,China,245929.84
+3bf8a218-8a73-4f14-9c20-c4ce7935407d,Mercedes-Benz,CLK-Class,2000,Brazil,265801.67
+478132c5-411d-40f1-9759-1075c4810b16,Mitsubishi,Truck,1987,Nigeria,114426.25
+5ee5ae34-0076-4f56-b4cc-179aa2125640,GMC,Sierra 1500,2010,China,267159
+dd37f0a4-3e7b-43b9-868e-70f5ac3ac5e4,Maserati,Coupe,2005,Portugal,786662.09
+16546aa9-fdb7-402b-b5d1-e74bf2ebc868,Mazda,Tribute,2006,Indonesia,412001.03
+7b19fa36-4721-418d-97c9-a5d07ed61353,Maserati,Biturbo,1987,China,219496.55
+59576241-0a62-4aee-97eb-fb2c167e8561,Toyota,Tacoma,2000,Malaysia,183203.66
+1446c415-22ee-432d-bc8e-2dd5786165f3,Volkswagen,Fox,1989,Canada,348628.74
+1d58a937-cf7e-4104-9c95-0194ae454faf,Scion,tC,2006,Ethiopia,680377.45
+85edf702-0827-418f-a464-2ccb2b781950,Ford,Aerostar,1989,France,795759.08
+ef5a24fc-cf2b-40ed-b087-20299b759ffa,Honda,Civic,2002,Japan,797767.91
+9bc1f16e-7be0-4ebd-8a94-4bfde90d155b,Chrysler,LeBaron,1995,Greece,406058.62
+b5499c90-4bf5-4334-9221-9b3096901fa9,GMC,Safari,2004,South Africa,660373.44
+5945b4d0-080c-45c1-95b4-d4c5d8abaa1e,BMW,3 Series,2006,Sweden,788821
+f385ff90-f9a4-4aa9-b457-e303eccf3918,Dodge,Ram 2500 Club,1995,Vietnam,666191.24
+de3c2b18-3a81-456f-9efe-e49679f35da9,Saturn,Ion,2003,Philippines,732971.09
+e498b886-2632-4a20-b36b-8bf5b4557155,Mitsubishi,Precis,1990,Sweden,63209.36
+89997d77-513d-482d-8c99-839321161735,Lotus,Esprit,2000,Vietnam,84770.12
+820e02f4-336e-4c12-874f-7de55b95151e,Hyundai,Elantra,1998,China,264001.3
+1dfbd7ef-8b8e-4266-b630-e5320c13f2ea,Toyota,Tundra,2010,Indonesia,322513.71
+f5b5da33-222c-4464-acb8-b24126bbddbc,GMC,Sierra 2500,2010,Peru,79792.22
+3cb82bcc-3fe6-4eef-a7eb-234b418f3fff,Audi,80,1990,China,327348.39
+5a27fe23-98e8-4aec-8ac6-c880762fceda,Mercedes-Benz,E-Class,1997,China,130352.04
+3b40f2ef-b8bf-431a-9ded-96fe40828071,Ford,Econoline E150,1997,Japan,736358
+7591cb7a-63e3-4563-8a4e-6f8e9ed01de6,Subaru,Impreza,1996,Iran,768496.5
+a45dfe36-3f39-4ce3-b865-03164472991f,Infiniti,QX,2006,Malawi,110695.73
+adaccfe8-a929-402f-a55e-7388e9277f37,Ford,Aerostar,1991,Japan,856089.7
+75b3955b-cc6f-4678-b407-436bd0141b0a,Subaru,Alcyone SVX,1992,Mozambique,440110.1
+a558b08c-c491-4577-a73c-5ca8c5dc3547,Nissan,Frontier,1999,China,303992.01
+e1623171-c752-484b-8d2c-9260cdd4e441,Ford,F350,2005,Philippines,221000.46
+4c94a596-2ebf-4a9a-a72a-f88a53778cab,Mazda,MX-5,1990,Mexico,260651.69
+122fc59f-357f-42fc-9e99-518765934b4e,Ford,Bronco,1990,Vietnam,893702.53
+b2270d42-11fc-4e9c-b186-236fe3992b5e,Toyota,Celica,2001,Thailand,615508.38
+9b84bc54-5705-4e9c-8ff5-4333377d949d,Volkswagen,Golf,2011,Argentina,678966.45
+ebcc1329-4af9-4fdc-82a3-e541fcfc829f,Land Rover,Freelander,2001,Cyprus,179504.11
+fe0d54e4-6bcf-4a1f-9280-bce40c7429e9,Mazda,Mazda2,2011,United Kingdom,610046.79
+ec8d4c81-3735-4c26-8558-9b849e66f8fe,Chevrolet,Express 3500,2009,France,325584.8
+e765c0fa-378e-456c-b558-e5303323a5ca,Acura,CL,2003,Poland,370989.77
+3f80c19b-8a82-455d-8209-e7e8e762d7a8,Chevrolet,Blazer,2001,Spain,59693.08
+5e6de0d1-b975-4cb5-b3c0-fc13653ac30d,Maserati,Spyder,1991,Russia,677903.94
+79578b01-6afd-434a-b88f-0f83c187b679,Toyota,Matrix,2007,Indonesia,542436.63
+c03355b8-7434-4101-a304-6aadd9db0707,Mazda,Tribute,2001,Philippines,145032.84
+882b7925-65ed-4bc8-ab32-c7a8e8dc11e9,Eagle,Vision,1994,Russia,145327.16
+77c1cec5-a0f1-4a4b-88e5-1f67ed66334c,Saab,900,1996,Mexico,291976.8
+835b3574-3376-4bf6-8233-fb1fea0442d0,Honda,del Sol,1997,Indonesia,849780.57
+df43653c-5a40-4d54-b15c-e4c348b313af,Mazda,RX-8,2005,Indonesia,254020.07
+a6c0410f-6962-42d0-816b-1780c9af7036,Acura,TL,1995,Indonesia,995394.67
+a4997d7f-cbbc-44ac-a2ec-b8207bb6c74d,Chevrolet,Caprice,1977,Moldova,148600.02
+53af8401-dea2-4b88-9b5e-7863bbebbe32,Dodge,Stratus,2005,Iran,488549.58
+f8232436-14fc-4dce-b91f-da8c1b2e2c0b,Isuzu,Ascender,2004,Russia,863599.57
+823ad06a-6426-4f7a-abbd-56bd0d0dce58,Volkswagen,Jetta,1998,China,471785.42
+840797c4-94bf-4b16-91fa-3fa22763af2f,Nissan,200SX,1996,Vietnam,927524.52
+53c53181-e1c5-4a6f-9cbe-baa20c4bb109,Chevrolet,Corvette,1993,Poland,440009.14
+b58e6ef1-9e3a-4195-a4a6-6de29cf43f33,Nissan,NV1500,2012,Guatemala,347636.23
+b22a9d91-1666-4439-9891-9a7c5cff3ea3,Buick,Riviera,1988,China,401477.76
+6a5980bd-34a4-4230-baec-5b188fc0c5dd,Chevrolet,Cavalier,1992,Portugal,860373.06
+3e2063d5-c38d-4e1a-9153-a62e8782a26f,BMW,3 Series,1996,Argentina,453696.81
+ab4aa09a-4e23-46c3-9163-7acaa2984c8e,Land Rover,Discovery,1994,United States,624494.16
+18b48f35-f5dc-4da8-aacb-c2ea037cbc33,Lotus,Exige,2007,China,229301.76
+a46fa86b-d0c7-47fb-adb8-bb2f03ca8e49,Chrysler,300M,2000,Indonesia,918088.49
+6a55fb0a-59bd-4ea7-b3cb-ee3f47982860,Lincoln,Continental,1997,Vietnam,381961.85
+9e127197-9ec7-402a-95d5-0bfec611addb,Infiniti,Q,1996,France,161726.35
+ac37d4f9-c6ea-4e29-87db-cc0a33177e16,Toyota,Camry,2004,Poland,54103.25
+f15ad28f-9a5c-432e-b516-224d45a99683,Ford,Laser,1984,Indonesia,621023
+22f28d73-1aa3-46b8-9c67-1d9548fb3f71,Pontiac,Grand Prix,1965,China,895713.68
+51cd6487-1fb4-4de5-9ab3-b60f0f1ad537,Lamborghini,Diablo,2000,Indonesia,606108.01
+d04ab7af-a0ad-47c4-95bf-b8a849461815,Volkswagen,Jetta,2010,Portugal,89806.99
+86da8e4d-bdd2-4ee7-84c1-cc28cbef094c,Chevrolet,Corsica,1995,Philippines,969063.62
+18c70ccb-96f4-445f-b08d-5ff7d858af2d,Lexus,LX,1998,Japan,884214
+3cf59ced-2064-41ab-ae58-9298005c5d92,Lexus,LS,2012,Czech Republic,283177.27
+65947bee-1b5a-43a5-a815-3d876cee2a6d,Volkswagen,Rabbit,2010,Venezuela,331280.92
+5ab53c14-bf20-4b29-b855-68308357b319,Mitsubishi,Mirage,1997,France,491363.94
+870eddbb-55c4-4d50-b3cd-37de291c5736,BMW,X3,2010,Sweden,908566.38
+d75068fc-3b2d-45bb-b6ca-7a6cd77e499c,Chevrolet,Tahoe,1998,Russia,533479
+bd8e4778-a82e-4d3d-b8eb-656eaef695ec,BMW,X5 M,2011,Sweden,750312.49
+0878a93a-a99e-4b48-aaf9-76f1ccaece64,Ford,Explorer,2013,China,616894.18
+7bf3f9b7-64fb-40fe-985a-d3309532d70c,Mercedes-Benz,Sprinter 2500,2012,Indonesia,960003.32
+e0a7aeb3-3636-410f-bbc3-3ce6f0970b0e,Dodge,Viper,2001,China,626755.8
+2fad3803-c055-43fb-b597-88247dc64f83,Mercedes-Benz,R-Class,2006,France,749077.03
+fcfc90b1-511b-4b9c-88de-ff152854d026,Pontiac,6000,1985,Thailand,130011.07
+93fd9ed4-de51-4792-894b-044be51f933f,Ford,Explorer,2002,Philippines,718424.46
+28d4f75c-18a2-4d9a-8fbc-49723a02c4a8,Jaguar,XJ Series,1997,Canada,968519.89
+21486829-7a9d-4d10-abae-319c2c702dad,Pontiac,Trans Sport,1990,China,181718.82
+8c952b6f-5e12-47ef-83ed-a82c4ab9e76e,Buick,Regal,1998,Russia,43808
+3b4ced6d-7295-40d2-8dad-56edc44948dc,Nissan,300ZX,1994,China,508764.26
+bfc69372-7ba3-479a-9004-bef2d31dd7c8,Toyota,Sequoia,2011,Brazil,828014.7
+6f1e07db-2904-46d0-b1cb-d3277961e4f6,Pontiac,Monterey,2005,Argentina,5130.82
+114d4cdb-6282-480c-83da-78fe9c113ed2,Toyota,Sienna,2006,Poland,970742.25
+5b3c2836-60b7-41ec-b960-079ec3144387,Bentley,Continental GT,2008,Peru,371044.57
+abcad52f-592d-4e3e-abc4-befe74e647e5,Volkswagen,Eurovan,1997,Indonesia,36395.07
+f27ff473-eb43-447a-be9e-bee82a8b52bf,Pontiac,Fiero,1987,Portugal,122203.46
+d255b363-041f-4cb9-bbfe-ea8ec5af77ee,Plymouth,Prowler,1997,China,846313.65
+e1aa6006-cb1e-4523-a428-b3dbbb5be8d2,Suzuki,Grand Vitara,1999,Ivory Coast,123949.4
+3dcf6a62-c010-4aa8-a525-63336a7c8572,Mitsubishi,Lancer,2001,Brazil,585876.2
+e99330a3-0c05-4938-9769-ff5325df69e0,Audi,A4,1998,Mayotte,52316.59
+dab99355-4a90-4115-828e-a0aae4c080ee,BMW,7 Series,2003,Cameroon,155858.39
+b922d7d8-a411-448e-a927-d82df710e698,Volvo,C70,2009,Indonesia,502166.09
+43d0a1ec-b96e-4bce-b66f-0d5813669f70,Chevrolet,Bel Air,1967,Madagascar,254630.6
+8f2bb6b2-3c45-4e5d-b470-ac496776af3c,Lamborghini,Gallardo,2005,Poland,828574.48
+fd8962e1-88f4-45e2-9d88-f1391b994a93,Honda,Accord,1985,Croatia,327918
+cf76ae87-2b65-4116-86d6-085563a775fd,Dodge,Ram 3500,1998,Indonesia,926778.05
+e7a79749-cbdb-43b6-8c94-03fee19d4179,Buick,Skyhawk,1986,Poland,106372.62
+6bd6e0bd-7421-4fdb-bcfd-85823c5bcaf4,Ford,Freestar,2003,Russia,376565.11
+f81fca14-46a7-4a5d-a06d-50914f0ac683,Pontiac,Grand Prix,1991,Portugal,889693.36
+1a78d20b-1158-44a5-85cb-0f13520bb58e,Buick,Riviera,1986,Argentina,813973.81
+117e0d30-f12e-40fa-8529-75e925c876aa,Mitsubishi,Mirage,1984,Ukraine,83995
+ab930b3e-b8a2-40ec-919d-7a9600d032a5,Suzuki,Vitara,2001,Czech Republic,933981.01
+bd9eca62-a955-4f1c-b195-9e4e946df8dc,Pontiac,Grand Prix,1990,China,994496.81
+aedd3a8d-db48-4ef9-986e-033a44739d51,Chevrolet,Corvette,1959,Indonesia,506341.17
+1522d45d-043d-4621-8625-34a235ec2e91,Suzuki,Swift,1993,China,204637.45
+bbe6a4bc-27a7-4d53-a587-d4a34ddc7de0,Volvo,S40,2011,Ukraine,824418.28
+1f555486-8df2-492e-b1a0-8b909ede5a2f,Toyota,4Runner,2003,Russia,298422.83
+f662352e-5d35-467e-93ee-4ad58f4b8867,GMC,Savana 1500,2008,China,50601.5
+e417b99f-2add-4664-9780-af2e22249c02,Chevrolet,Camaro,1967,Brazil,91542.65
+25a574b4-7e6a-4e31-a4e1-f395a9787b18,Ram,Dakota,2011,China,125471.64
+afae4301-565b-4f80-87ce-6faa4c6de1a6,Toyota,Land Cruiser,1994,Brazil,668875.88
+9300f8fb-11ab-469c-a9a4-e11ec571996f,Mitsubishi,Lancer,2009,Nigeria,764951.98
+246fce6d-c954-43ba-b73c-967fa0e45cd6,Toyota,TundraMax,2007,Brazil,445666.01
+41ca8304-e51b-4ae5-b10a-d810b279521e,Dodge,Nitro,2010,Mexico,371476.55
+3d9c7bf8-739f-4f72-bc88-e1fc43debea6,Porsche,911,2003,Italy,454041.62
+503fe959-5614-46aa-8a0b-d2e6c90826fa,Chevrolet,Suburban 2500,2005,Iran,211418.32
+63df5704-e662-4e37-be50-cdde7d09a9af,Saab,9-5,2010,Russia,961048.39
+dac6221f-a65a-45bf-a151-df7e5acc1acf,GMC,Rally Wagon 2500,1994,Indonesia,422632.55
+4f174eed-574a-4a06-a86f-69a733927531,Mercury,Cougar,2001,Japan,187484.45
+5552666e-3795-4394-957e-b7e9766a511f,Acura,RL,2006,Thailand,877721.85
+29e97774-d0d1-4f3a-8396-6256771416d2,Volvo,XC70,2012,Russia,415241.88
+8e8af6ac-5f66-4270-832f-4fa9ddafca27,BMW,X5,2005,Indonesia,236435.2
+f4a98c78-8b81-42a8-b8ed-cf1d8065ab10,GMC,3500,1992,Philippines,180955.52
+b3ec6780-a0ce-458b-84ea-fa4021a4dc01,MINI,Cooper,2003,Russia,523473.73
+50b9eb3b-52ee-46d1-9d21-c1bc873f216f,Plymouth,Colt Vista,1993,Ukraine,628138.9
+b9a5160b-6a9c-44a2-b0a8-23cdbb48c970,Chevrolet,Silverado 1500,1999,Ukraine,871132.32
+448d2f17-d817-4159-a35a-e5ef5a944020,Lexus,GS,2009,Ukraine,806381.59
+05635879-82fd-452c-9fa9-875f6112441f,Oldsmobile,Bravada,1992,Poland,586140.4
+b7a3b466-daa3-483f-bb6f-81577d42f20f,Dodge,Viper,2005,Sierra Leone,139755.98
+81ac5fd0-f8f3-467b-b927-0f9daddc8dda,Toyota,Corolla,2008,Philippines,880738.99
+7f44dd34-3e2f-43db-861f-b2d2878ef21b,Volvo,V50,2011,Czech Republic,284608.07
+263bf387-a947-412f-ac21-24d48464a05b,Volkswagen,Fox,1990,American Samoa,257850.92
+ef474c58-5eb4-4d45-9313-7326d20327eb,Dodge,Journey,2009,Czech Republic,939801.12
+5660fa5f-d617-4c96-9e3f-cfb5f7860d6b,Mazda,Familia,1992,Poland,753877.44
+9fb41fbf-3385-46aa-ac60-88905f9d1183,Oldsmobile,Cutlass Cruiser,1994,China,261423.64
+bd2218d3-2f37-44b4-af93-568e31fef3f4,Lexus,ES,2004,China,49986.18
+a44f8b63-533c-4f59-a205-74d6bba02f59,Mercedes-Benz,C-Class,1993,Philippines,274524.06
+0f3c776c-c05a-4f6b-a19d-547743ddd7ad,Mazda,MX-3,1992,United Kingdom,542751.42
+cc8d5075-b04a-412a-aaca-671a294f7caf,BMW,5 Series,1999,Indonesia,289345.36
+68380e06-e424-41b6-b787-19be33b6a2a7,Pontiac,Firebird,1988,Ukraine,329002.55
+f930204e-64e5-4a12-ab43-0577ed73205c,Ford,LTD,1985,China,353298.93
+05deaf1e-6c22-4c6d-a138-ed370eec06b3,BMW,M5,2006,Japan,988566.45
+7297772a-5ac5-4a3e-a739-9ee4efb23fcb,Chevrolet,Prizm,1999,Russia,128409.44
+d3b84a9b-bb0e-4e1d-b891-4af261599a93,Plymouth,Voyager,1993,Indonesia,388421.54
+34f087c4-a96a-4959-bca0-b542872a0213,Ford,Expedition,2001,Philippines,267912.11
+7ffa21f9-b77a-4817-a8ad-fb0a52ec8fc7,Suzuki,Swift,2005,Indonesia,399194.46
+25a97eed-d9c3-4ed2-b74b-c81521e8962d,Ford,Expedition,2003,Peru,577903.25
+9fd901a9-6188-4e0b-8a1b-790a71ceb0c3,Maserati,Quattroporte,1985,China,269575.51
+e82cd285-ef3d-4dbf-a920-ff8f03b61e84,Mercury,Villager,1993,Honduras,63540.76
+9ff936d8-2577-4f98-abbe-a5e54c35c3fd,Ford,Club Wagon,1996,Indonesia,89095.72
+dcddd39a-8365-431f-8a32-ec554bb7258b,Isuzu,Space,1992,China,803986.03
+c8e8ed8d-89a6-442e-a139-e5d31cfcf6f2,Cadillac,Catera,1998,China,874441.91
+2484feb3-4fe2-4e8b-879d-6da8866a2ce8,Saab,9-5,2006,China,87035.8
+a6db91f3-5c6c-4adf-83e1-85eeffb4a8e8,Nissan,Pathfinder,1999,Madagascar,681030.04
+64dc52de-4a9b-4e2f-9be4-61a9d5ef0227,Volkswagen,New Beetle,1999,Mayotte,727761.39
+ef5a0c10-25c5-4ac2-8727-73959c4e9e86,BMW,330,2006,China,689984.27
+ed4f9e15-3d0f-4295-84a3-0eb2f5cb9dfc,Chevrolet,Uplander,2005,France,74081.14
+e69bd436-99e0-44ee-9035-2dd6459344de,Volkswagen,Touareg,2011,Greece,807678.05
+742109e6-8f1c-4290-b099-d16e3fec2b83,Volkswagen,Touareg 2,2008,Indonesia,612583.26
+ea376f12-6e5f-4e46-b4cc-36400d8a4850,Chevrolet,Express 1500,1996,China,631449.18
+4538cd72-52a6-484d-bd8f-805dfccc9477,Lincoln,Mark LT,2007,Indonesia,725370.3
+5d99ceed-721c-4de7-bb8a-f80c4edbe475,Bentley,Continental Super,2012,Serbia,194625.55
+b2571434-d571-4204-8a44-b283e784bc18,Buick,Coachbuilder,1990,Sweden,320849.26
+488f100d-e997-472f-ba8e-4f7efebd84bc,Jaguar,S-Type,2008,France,650619
+d3acab45-310c-4148-beb6-94900ccc1aed,Ford,Thunderbird,1986,Armenia,300858.69
+eb501f5c-b2f8-46ed-8052-424e3906527b,Bentley,Mulsanne,2011,Brazil,56762.29
+146452d1-111b-4f58-93af-d0e8ade7a096,Audi,Cabriolet,1995,Brazil,944549
+df797f37-5eae-471c-b115-68699b03b4d5,Lincoln,Continental,1994,Finland,457504.86
+f9246390-5f8a-4504-b6b8-8913ec26ffe3,Mazda,MPV,2006,China,645186.67
+74db6218-cf44-47d5-92c4-f2a6fa2fba78,Mercury,Mountaineer,2000,Philippines,674105.57
+e7ba54c4-2472-41a7-b54a-a7256892f2b6,Pontiac,Firefly,1986,Syria,743508.06
+20955ca3-d0bd-47fb-a066-a56344d66d28,Nissan,Maxima,1998,Bolivia,182069.39
+73721e47-22f5-4257-a3da-4a89e5aac046,Chrysler,PT Cruiser,2007,United States,823105.2
+20102234-b0b1-4d38-99ca-bfec0564634c,Volvo,S80,2010,Serbia,965215.88
+40b35f2f-a637-4398-9fe6-f9eb8e055ee5,Jaguar,XK,2007,Sweden,590890.47
+d3b7c93e-464f-45ba-8066-b6a85d8d6f0b,Dodge,Dakota,2001,China,936012.51
+4c016b2c-baff-4f72-b86c-d3253308e4be,Chevrolet,Camaro,1981,Nigeria,87480.35
+8c20a84c-bcbd-4973-a0eb-b1c1488c96e0,Cadillac,Seville,2001,France,754697.97
+8a3416e3-d154-43f9-8ae6-c8ab8ff2ccae,Chevrolet,Silverado 3500,2011,South Korea,167374.47
+b035ecdc-4d64-402c-9b82-90e80f14730d,Scion,xD,2010,Japan,209786.36
+bf42c948-3f64-4d10-a68f-d41fd856ef2e,BMW,M3,1998,China,652454.09
+3e8bf465-9381-403b-ac88-77c5f11756a6,Chrysler,Town & Country,2000,Norway,812273.58
+270d0641-1455-48a8-b008-ae7e7536c395,Jeep,Grand Cherokee,1999,Russia,997728.65
+01aa5732-5161-4f1e-a063-81f1e2b90080,Daewoo,Lanos,1999,Bangladesh,762768.6
+88f88aef-830d-4991-b553-f22ad73b222c,Mazda,Mazdaspeed 3,2009,Colombia,55977.78
+785f4737-4329-479d-b235-ba4345d662fe,Mercedes-Benz,SL-Class,1998,Malta,17662.8
+4eb9cf20-dec3-46ed-a0f4-aab57287a9c0,Suzuki,Reno,2007,Indonesia,751987.82
+c8ec0b5d-4279-429d-afa5-03f17a70a561,BMW,X5,2007,Finland,583342.04
+dd3b3a0e-84d6-4a28-a0c7-ddf620bd817e,Suzuki,Samurai,1994,Albania,347965.17
+f4ddfe94-31bf-40d3-a174-3e2d9dfe5737,Ford,E-Series,2007,Syria,635882.08
+1a0861e5-7baa-47e9-8a42-e31d62301da7,Lamborghini,Murciélago LP640,2008,Portugal,972622.9
+d4b8cd18-0adb-4ed1-8d4c-de23188993eb,Chevrolet,Cavalier,2001,Thailand,416741.46
+475a68b9-cb3c-4044-8de6-0aa5c81088a1,GMC,Yukon XL 1500,2003,Slovenia,722581.45
+b6013cc3-3fa7-4a4d-8c91-24cef697b226,BMW,M3,2009,France,288480.72
+20041db1-68a5-498a-8471-e94d777601d5,Toyota,Tundra,2010,United States,255070.74
+e79af1d6-f6da-42c5-b40e-b70382384573,Buick,Park Avenue,2005,Indonesia,875230.07
+edfe0138-83b7-48c4-ac12-addf8c5e1428,Lincoln,Navigator,1998,South Africa,454435.81
+367578da-b1d8-4183-8b2b-e54c1122e6fd,Lotus,Elise,2010,Portugal,457916.92
+7ef26241-3c62-479e-b61b-c7ff9104919f,Dodge,D350 Club,1993,Panama,734530.36
+2c3d3d8f-3c26-42fd-8a23-b4479ae5c86a,Mitsubishi,Mighty Max,1993,China,806039.44
+db20be39-ddf5-4b67-bc9b-21a1f6c3aed1,Audi,S4,2006,Argentina,36171.79
+ba36108b-f456-43fd-b742-8b8e5e6648c9,Honda,del Sol,1997,Greece,12200.21
+3cd5ee98-d1fe-4c6c-8263-5ab73a8dd760,Mitsubishi,Galant,1997,Czech Republic,678037.02
+f05e7055-a59a-4d47-a207-23f63541d076,Porsche,928,1987,Indonesia,587441
+7251e4e4-e640-4cd3-a345-df31d6665d77,Chevrolet,Corvette,1956,Uganda,820896.85
+d845cf19-709a-479d-986d-8ff685aa25e1,Scion,xB,2009,Philippines,352273.03
+cdb57e14-3f7e-4e26-916f-01acf7400d72,Porsche,911,1995,Russia,20526.98
+87dffad6-091c-44fd-906b-cc10d296c565,Lexus,IS-F,2009,China,811802.75
+49551e93-47bb-49f4-ac1e-a5d8fc33d3e0,GMC,2500,1993,China,126638.33
+dde516a0-89bc-4f5f-8d7b-7fc00981d6ba,Mitsubishi,GTO,1995,China,726788.59
+65446e5c-38da-43ba-836e-78455a4d80fe,Mercedes-Benz,C-Class,2007,United States,632711.02
+842fde5c-ebcd-4985-950b-749b93aba3bc,Mercury,Marquis,1986,Denmark,360831.77
+26130c7a-780c-426d-843a-dd58b3ce497f,Lexus,SC,2000,Indonesia,722497.07
+d4b3ec60-1c8b-4f21-a520-0e029a479d60,BMW,530,2001,Canada,131394.52
+e5071d18-09dd-4000-a98f-965751e3b0b1,Dodge,Charger,2010,Indonesia,835476.44
+06a3e590-98d1-4b0d-bda1-4bfea6b97f4f,Chevrolet,Venture,2004,Egypt,829086.42
+898ae816-047a-4632-b10a-9333a124bd36,Mitsubishi,Montero,1999,Kyrgyzstan,942851.13
+d2ca7752-65a2-446a-b1cd-effd810ed851,Chevrolet,G-Series 1500,1997,Indonesia,951059.9
+82f8a9ae-7c59-4467-8279-c84d9718d866,Ferrari,599 GTB Fiorano,2008,Philippines,12180.41
+72737fd5-c8b2-4b0e-b534-0ff3b3e3267a,Chevrolet,Silverado 1500,2006,Russia,396623.32
+1541d633-96f0-47a8-b6be-de588e56aa83,Mercedes-Benz,Sprinter,2011,Poland,558100.37
+e2aacbc5-07d1-43d6-9866-617172de522a,Plymouth,Roadrunner,1969,South Africa,738433.15
+7c88809e-9520-41cd-8032-f3e1886ba3a7,Dodge,Aspen,1976,United States,818123
+23f2ccb0-bd66-4550-bcae-cbc3c02c809c,Infiniti,I,2004,China,998264.52
+b38c4df8-2c0e-4fed-ba90-1841169b66d7,Dodge,D150,1993,China,528439.52
+9c98ea15-e602-484a-be02-51360cc57fe2,Chevrolet,Express 2500,2011,Sweden,988860.29
+fb1b98d8-2eea-4f7a-9173-d49099577dc1,Acura,MDX,2005,China,382677.87
+4827c8b1-6ba0-4b94-aade-fa04a013ea10,Chevrolet,Silverado 1500,2004,Bulgaria,900479.98
+c0216715-2325-4edd-ac9b-cf13cc7beec7,GMC,Savana 2500,2010,Portugal,128475.33
+ac91d05f-6f86-40c0-b65d-49ae287a31db,Toyota,T100,1993,Argentina,415970.61
+10bdd853-926e-431c-82ab-b9c597a4485f,Nissan,Quest,1995,Brazil,719824.97
+1c439a2e-b5f3-462a-a549-0b210d4688b3,Mercedes-Benz,SLK-Class,2004,Finland,464752.44
+fd32e38d-dfbc-4850-886f-120cc94b6c98,Volkswagen,GLI,2008,Indonesia,997163.74
+0f8d83af-b4b3-4808-9d6f-bd5dea5aff20,Chevrolet,S10,1999,Thailand,186873.12
+73779185-8920-4dcf-af56-98aa797f12ce,Acura,Integra,2000,Thailand,402837.39
+d93565c5-794e-46f9-b1a8-4428a6dfd3f0,Chevrolet,2500,1995,Japan,340393.99
+dedc460c-b18c-4aa5-a90d-d8fa0203a74d,Hyundai,Scoupe,1994,China,514805.62
+3b9661d8-d308-4352-9db4-17adb9b428bf,Daewoo,Lanos,1999,China,345202.04
+738944f9-90f3-45b4-917d-3efb2a43bf27,Infiniti,QX,2005,Indonesia,835949.42
+9bc9104e-57ce-4b8c-8b91-17e8501f5bc5,Chevrolet,Equinox,2006,Russia,298824.71
+d1c8591b-036b-4ce5-9bf1-431b363280ed,Buick,Coachbuilder,1990,China,87695.97
+ce9c3939-c8d0-42f5-b90e-396ced0fa09f,Lexus,LS,2003,Colombia,450381.63
+4fa45b66-dd1a-4a35-8417-6af0215a4930,Toyota,Tacoma,1996,Canada,331752.45
+15c651be-4ea9-4b4f-813a-261536e6acb4,Mazda,Miata MX-5,1999,Indonesia,530568.58
+156798e7-472a-48f3-b368-d4a54d493c6d,GMC,1500 Club Coupe,1992,Indonesia,584750.8
+8580533a-7586-485e-bad4-4eecbab5963e,Cadillac,Escalade EXT,2002,Costa Rica,348892.18
+8e0d4336-699b-4a2e-823d-8a3ee8a10b15,Dodge,Ram 3500,1995,Indonesia,468184.21
+7f7ef9bb-b12c-48ba-a610-fe5a83a695c4,Hyundai,Accent,2011,Lithuania,519067.67
+5648cc4f-a1ec-4766-a383-0b20bf1ea05b,Saturn,Ion,2006,Peru,89732.66
+a06b9bab-2357-4efc-9722-6cf2026cd7cf,Toyota,Land Cruiser,2008,China,311351.18
+06d2125b-e657-4ae2-a0cc-d34f4632df1c,GMC,Savana 3500,1999,United States,531914.75
+81532095-cc3f-4469-a9e9-a886e7f03661,Chevrolet,Silverado,2003,Spain,575211.9
+33e45c67-640b-47f0-aec9-68dca62e243f,Mitsubishi,Expo,1992,Moldova,225107.02
+202f35d9-bf98-4243-8cb2-563855231839,Toyota,Yaris,2009,Indonesia,526279.16
+963b303f-694f-4165-9db1-1d3ff4cd118f,Audi,Allroad,2002,Thailand,76098.82
+e1d799f2-a366-4ee2-a83c-bb4eb51e410e,Toyota,Yaris,2006,France,485489.1
+be7f83c1-c88e-4128-8c31-6836f1b4564a,Mercedes-Benz,R-Class,2010,Colombia,782286.68
+8f09c50c-3bb2-434b-9472-5a643ab9dc5e,Toyota,Tercel,1992,China,66394.82
+63656928-60f1-41ed-aa4b-9e9dfe552e42,Buick,LeSabre,2005,Indonesia,783244.67
+6dc1770d-6121-4a06-a14b-70f649e8ac9d,Mitsubishi,Cordia,1988,Indonesia,225364.25
+f177dcd0-e4d5-465c-9af8-bd5ee844b762,GMC,Sierra 3500,2002,Canada,166530.13
+c3b016aa-3d2b-4750-aa7b-4c961945742b,Ford,E-Series,1986,Poland,210340.28
+cdae9197-1e77-4d21-b710-b5246d7169f0,Dodge,Spirit,1992,France,470089.16
+bd67423d-6dbb-44a3-951f-df1cf3beda97,Cadillac,Escalade,2006,China,136646.96
+38b4b52b-e1a1-46e8-a790-4898bf9b8ed2,Dodge,Charger,2008,Sweden,988283.18
+87b3a4c8-71b0-486e-968a-41a2bf906020,Dodge,Ram 2500,1998,China,52477
+6229090e-c0e3-441f-9c46-92acc5baf13b,Chevrolet,Cobalt,2006,China,170883.86
+c381a5f7-1751-4de1-abdd-a85cb0de7d94,Mazda,MPV,1991,China,326591.75
+c345ec77-87d1-4b09-a444-c885a737f131,Toyota,Avalon,2009,China,994451.57
+9dc04d26-e835-43fa-9fc7-61710a7ffa01,Mercedes-Benz,C-Class,1999,Greece,974068.05
+daa44ea6-43df-47b1-a9cf-6fc580bb8972,Mazda,RX-7,1989,China,258209.72
+5b8698b0-6b7b-4b75-a1ef-5653cdec744c,Dodge,Stratus,2006,France,899085.94
+84caf5eb-fc50-4259-aef4-7c00c348cc23,Ford,Freestar,2005,Japan,233424.45
+b72aa180-7065-4e46-9fea-63e802aab295,Studebaker,Avanti,1964,Russia,634242.62
+448e4e50-ea97-435a-b4e4-25415f602958,GMC,Savana,2008,Poland,998370.84
+7ed62aa6-c456-42fc-b93d-a6614861e822,Dodge,Viper,1995,France,500850.56
+9e86645e-530d-44fe-8aa9-cedb54ae2a23,Lamborghini,Diablo,1997,Serbia,550114.84
+84e62fb9-f044-4060-935d-097376aedd92,Toyota,Tacoma,1995,Brazil,289257.94
+e0f9d43f-1d79-4233-9ebb-cafcbc2c29a9,Toyota,Land Cruiser,2004,China,315454.38
+ca33a13f-fe05-481e-ba1e-d26a44c5756b,Infiniti,G,2012,Sweden,859452.14
+99f19a73-73bf-4d1d-b165-5ed06ee5b674,Mercedes-Benz,E-Class,1991,China,984804.97
+fcd7ae76-fff7-4ae5-9488-9cc5114e56fc,Ford,Taurus,1988,Ukraine,742222.52
+edf01b47-e9eb-4134-b6d5-63e05820fc67,Dodge,Caravan,1998,Central African Republic,218486.92
+d65a55f0-2838-4dc5-80f9-2cc21f65e55f,Porsche,944,1989,Burkina Faso,196751.29
+2250b849-e0b1-492e-88dc-725efa2d487e,Pontiac,Grand Am,1994,Brazil,82000.96
+aaf37ec9-f847-4330-b6ba-879ac6802171,Mitsubishi,Montero,2002,China,117561.75
+fbc673bf-b58b-42c6-88c1-2ce189507a70,Hyundai,Tiburon,1999,Russia,895904.18
+fda2ea77-a26d-490f-b0c6-669f27671e1f,Kia,Spectra,2005,Russia,987238.57
+7e12f46b-613f-4dcb-bfa8-738e2f4f0a6f,Chrysler,Concorde,2000,Philippines,732828.33
+b5e3d923-4873-442b-b151-e5517ad7ff66,Mercedes-Benz,E-Class,2007,Indonesia,248912.79
+cfbc7c3c-fc41-4405-9298-4586720b6b92,GMC,Vandura 3500,1993,Portugal,56790.4
+cfc3ca2c-7dea-495d-82f6-d3619bac508b,Dodge,Neon,2000,China,139487.9
+88c313f4-d340-4361-8ed3-f29619b7a02f,Porsche,911,1995,Russia,393009.68
+50ef6d47-d8db-4fdb-be3e-98d95265f179,Mercury,Grand Marquis,2004,Russia,693386.71
+4ae32542-1fe4-47f3-81e1-9268c9d8769a,Toyota,4Runner,2007,France,829253.43
+1f64b08d-0bba-4af5-9d2d-fed1e4bd79d5,Chevrolet,Corsica,1993,China,429990.37
+0997ba7d-05bd-4e21-8153-4513d2d3a3ec,GMC,Sierra 1500,2004,Egypt,885515.31
+e1e6b709-a906-4762-bb5b-db4bcb3b87d9,Hyundai,Accent,2011,Honduras,299588.76
+f07146aa-7dcf-44ef-92a6-261654a595fd,Nissan,Versa,2011,China,300764.25
+e42827df-a02a-4b35-a9e7-f051a17ab8c8,Cadillac,Escalade ESV,2005,France,763279.88
+ca158c2a-d25e-45c1-8173-da0647bac684,GMC,1500 Club Coupe,1998,Madagascar,49157.36
+c1195003-c168-4f0b-bc03-edbe7b41c090,Nissan,NV3500,2012,Russia,767628.67
+de456a5f-c184-4c19-b08f-313ee9a4d811,Ford,Escort,2002,Liechtenstein,593910.73
+39284c79-0e52-44de-8008-a66d04a278ca,Volkswagen,Golf,1992,Thailand,105458.77
+afd49c13-63b3-480b-986b-ae431045850c,Hummer,H2,2007,Armenia,88851.69
+966fcc32-3be8-42ff-9010-ee8d594cbe46,Toyota,Avalon,2010,Philippines,6568.04
+c5e09593-b264-4b0a-ad83-19f84b3e770c,Toyota,Sienna,2009,Poland,434298.73
+c4bdb689-7e7f-4c0c-b44e-772cc42830a8,Mitsubishi,Galant,2002,China,766500.83
+cf848113-3acf-4124-9031-f551bfb2fccc,Hyundai,Veracruz,2008,Tunisia,530126.69
+d1b850b5-bc10-49a0-a838-8741bfa232dd,Oldsmobile,Bravada,1998,Portugal,922800.93
+0761c332-1cd2-4caa-b773-792493f72349,Mercedes-Benz,S-Class,1987,Indonesia,568771.8
+8b1871ac-f4b1-4874-b852-d8d508b6ac7d,Ford,F350,2010,France,714851.96
+ebd032cf-6344-4364-9b07-a65bb6513be4,GMC,Sierra,2011,Philippines,464059.66
+df8689e0-9faf-4718-a5fb-130068772ff9,Ford,F-Series,2001,Indonesia,505488.16
+62fad404-5b96-4232-8719-f0371d7df23e,BMW,530,2004,Morocco,410827.67
+5c9f4596-60eb-4b38-a0cf-4ae812e94b95,Mitsubishi,Diamante,1995,Indonesia,739100.1
+fb96567a-95f8-4979-bfcb-2394bbe192c0,Lincoln,Continental,2002,Uzbekistan,818405.42
+cf82ce85-3873-4889-9499-97eafec425ca,Chevrolet,Monte Carlo,2002,Netherlands,146739.02
+15bb4e08-e521-4483-9121-2f435ebb6a16,Pontiac,Vibe,2010,Ukraine,447995.64
+b233c0de-33f5-4b11-b559-0add004efe23,Ford,E-Series,2006,China,752361.45
+3fbfbd90-93de-4f6c-bd5c-1c1851b4522d,Buick,LeSabre,1985,China,367728.02
+0c351ac2-f586-46a0-9e8f-ebc6c9e49c21,Dodge,Ram 1500,2006,Bulgaria,48297.47
+a8c4b288-1d0a-47bd-9b10-7345aa65a06b,Volkswagen,Vanagon,1984,Gambia,718310.14
+d15ea8f8-f18a-4ce4-9b4e-93390f6b1c53,Pontiac,Bonneville,1987,Mexico,405716.71
+d1494edb-d411-416e-8ce6-03af6a7685de,Cadillac,STS-V,2006,Russia,133240.38
+346b73e4-217f-4f08-8c85-0dccbdbe4bbf,Ferrari,F430,2008,Indonesia,933621.01
+c6183715-0f40-4eaf-a2b0-e14681962f09,Buick,Riviera,1999,Poland,315382.92
+35ffb474-f155-484c-8114-4e141a2f7e53,GMC,Rally Wagon 2500,1994,Uganda,144677.7
+5e3d5725-dbb3-4616-8334-12fa215e9781,Saab,900,1993,Philippines,813523.46
+934ad690-b62d-4499-89e7-3f2380a3e274,Toyota,Echo,2001,Poland,222899.99
+e437407a-16a3-46f5-ae20-e4233ed15291,Mercedes-Benz,G-Class,2010,Colombia,441690.05
+6a621191-e4d7-447a-bcfb-c136de816daf,Kia,Mentor,1997,United States,54570.55
+224ad1dd-a5c0-4938-afa6-8b81fdc37121,Suzuki,SJ,1992,China,407539.87
+367d130c-b75a-4fd8-81fc-70f605dfb41c,Mazda,RX-7,1993,Guatemala,373782.35
+6edd49dc-8f07-4525-9a66-922903d277db,Toyota,Avalon,1997,Indonesia,987596.02
+590e1fc7-fda7-4c83-aafe-766506894342,Jeep,Grand Cherokee,2000,Vietnam,479757.56
+32f9a119-a61a-4d7d-8a19-44bf394aeb1d,Subaru,Legacy,2000,Philippines,387726.36
+31840f8e-00d5-4c66-855b-d01e7be766cf,Saturn,S-Series,1996,Indonesia,890468.07
+6a2f63d5-8e1f-4fa6-adc1-bd6c9a8502a7,Chevrolet,Astro,1997,Mongolia,807671.16
+a53d727a-89e5-46d5-8b77-23cbd8daeeec,Infiniti,J,1994,Libya,350385.41
+7c52983a-06ba-41f2-88a6-36c89ce36dc4,Lincoln,MKZ,2010,China,969263.37
+aefde37b-e9d5-4977-be41-45b4316902b6,Buick,Skylark,1998,Dominican Republic,255849.91
+6cdd3ea0-24a7-4d83-9d72-0ca07f839a81,Chevrolet,Express 3500,2002,Sweden,596554.9
+99526057-0a43-4635-a22e-d95980028581,Mitsubishi,Mirage,1989,China,170942.15
+ae288775-69d5-4077-b657-4e961f7e7d4b,Isuzu,Trooper,2002,Portugal,173673.48
+ca5a4238-dea7-4c38-9199-e8c9ed41451e,Dodge,Charger,1968,Sweden,98037.33
+22a44c0e-e427-4afd-991e-d61f31c60026,Saturn,S-Series,1996,Afghanistan,266883.71
+f1ca7488-c8db-4fde-a03c-ce72844d4882,Ford,Econoline E250,1993,Panama,699977.3
+1a1314e3-760a-4568-a70e-95e90fd42fb8,Toyota,Tacoma,2004,China,855664.84
+a634bdfc-7be7-4b33-8ec3-92b625a6a259,Chrysler,Sebring,2010,Indonesia,403562.73
+d9c22778-e204-4d3c-8f44-b537c2333438,Toyota,Matrix,2007,Afghanistan,354599.1
+26824c69-fcb7-4c70-ad1c-5b9da6d68afb,Lexus,GS,2005,Poland,80575.91
+4f242a4d-e14e-430b-8a5e-ee16d420e39c,Ford,Aspire,1997,Indonesia,288758.83
+a0ce2adf-a16d-4ae7-a457-4d98c48ae640,Cadillac,STS,2005,China,864901.83
+c2fa1423-8354-4e83-9604-0b02764a3fc6,GMC,2500,1998,China,176022.16
+8f07cf12-4639-48ec-a7a2-7058e2ed2d21,BMW,Z8,2001,Brazil,624145.99
+507e4f7e-9401-4e4f-9063-fa1eea61298f,Pontiac,6000,1991,Tanzania,504440.37
+28d38b2a-d2ee-47e2-a302-16bc51e27fdb,Mitsubishi,Mighty Max,1996,Oman,625724.75
+80232b1d-2406-4464-b1b1-c900ccaf012a,Suzuki,SJ,1992,Indonesia,568916.63
+7e51567e-f14e-456c-907a-8e94900c911e,GMC,Envoy XUV,2005,China,634301.31
+127a3ce5-15fa-435b-9c20-c1fa86379bdb,Ford,E250,2010,Indonesia,800783.59
+15a3cadc-e356-42e7-95b5-5a4c4f14b31b,Chrysler,Town & Country,2010,China,713907.19
+9f96ce45-f4d5-4a23-a70a-3cab8222ea01,Honda,Accord,2004,Bolivia,807871.08
+82edd6fc-05c7-47f7-ad60-707e076667c9,Mercedes-Benz,R-Class,2012,China,432684.9
+cf6776ff-3e47-4214-b594-5457c779b2c2,Nissan,Frontier,2005,Vietnam,287859.82
+c883453c-a42a-4abe-b7dd-513d5b8f984c,Mercury,Tracer,1995,United States,437762.01
+76c61cd0-f3fa-4d45-aefc-5dc4d96cfff6,Kia,Carens,2008,Sweden,888141.9
+3dbe175b-ade8-4351-b8bb-d43b3ebd2112,Ford,E-Series,1993,Ukraine,202725.66
+41bf3174-746b-4436-b627-6ac452d32a06,Ford,Explorer,2003,Czech Republic,614983.26
+37ab03c6-63b5-4e80-83dc-04112562b22e,Toyota,4Runner,1992,Sweden,566767.49
+949bd70c-10a6-4ed4-8221-3532ea83120f,Ford,GT500,2008,France,625704.68
+2742e6cf-6d53-4617-a973-0d4879fb1ae2,Mazda,626,1994,Thailand,278515.9
+2132d2fd-9423-4cec-8528-0bd2ab27bbfd,Nissan,Titan,2005,Czech Republic,267902.83
+c4c16f17-4bac-4e59-89ef-8f09c5aebbb0,Mitsubishi,Galant,2001,Indonesia,209561
+20ae5535-65ea-44d8-ada4-59eaf71ba9e4,Ford,Explorer,2000,China,172969.28
+57d85127-fb3b-4c25-b561-bfe5a619f7a8,Toyota,Corolla,2012,France,296744.67
+9ea89932-9621-4274-aeb2-5b0dbc33bb2c,Chrysler,Crossfire,2004,France,598493.44
+5e43d160-2b76-4875-a2f1-bf5c92260fa6,Mitsubishi,L300,1990,Russia,61272.54
+af677445-7477-4405-ad86-afba63c6ff14,GMC,2500,1993,Russia,141058.89
+6c98aa41-ea4b-4aed-b690-a04abbcd39e3,Oldsmobile,Silhouette,1999,Honduras,50112.43
+c351d4c0-d9b2-4dc7-8447-c8990f704364,Toyota,Tacoma,2000,Philippines,135821.08
+0bafdd66-4462-4ec7-824f-86a37bfac88a,Pontiac,Torrent,2007,China,47274.14
+9657b7d7-6f0c-4dd3-962e-fe829943177d,Volkswagen,GTI,1990,Indonesia,21945.87
+f555ad50-c9a6-428c-a2ad-0ec820ca5856,Mitsubishi,Mighty Max Macro,1992,Peru,936334.8
+c9db9894-a064-495f-aeb8-b661073a7198,Dodge,Avenger,1997,France,267625.71
+32340a8a-9ed1-47cd-8d15-1ac2c48e29a9,Toyota,Sequoia,2005,Russia,153395.24
+1b308122-58a0-4429-9fc3-fe1c1f182ff3,Lincoln,Continental,1989,Poland,866050.34
+92cee4d2-bd13-45ea-89c6-8a1cec73694f,GMC,Sierra 3500,2008,Indonesia,875902.46
+05650bee-4e8f-4f48-901e-0ca62b49a8dc,Mercedes-Benz,E-Class,1998,Russia,947637.76
+8debdd20-68f9-47e1-815c-ed9a1d310253,Mercury,Mountaineer,2004,Peru,626746.01
+2e478681-b5da-4831-ade4-61b950247b76,Chevrolet,Silverado 2500,2007,China,45698.15
+7c277593-f01b-4be5-9fab-239a53c1e807,Jeep,Grand Cherokee,1999,Nigeria,730080.8
+c5dd5af7-25eb-4aa4-b74b-a0e4ff71ebdc,Kia,Spectra,2000,Venezuela,193532.17
+4c5ed27c-d1d7-40cc-8ac5-b715db8d9641,Ford,Mustang,1990,Ivory Coast,552648.76
+3fbeb3ca-2d7f-4442-90a9-2f53630740ad,Saab,9-3,1999,China,2508.05
+641060b1-4614-4f3d-b52d-2eecb48b478b,Buick,Regal,2011,Indonesia,278892
+04a7acd3-1391-4f2e-8509-82306a017247,Ford,E250,2006,Portugal,286450.77
+8e43f775-ee4b-403a-815b-614ce6626595,BMW,Z8,2001,Poland,101246.14
+516a8898-c624-45ca-b318-2faa9c907b96,Mercedes-Benz,500E,1992,Poland,218146.02
+4afc6c6e-3678-4d0a-9f89-687bbccafc46,Buick,Century,1996,Indonesia,611007.46
+7345460e-3892-4fa9-86b8-288fb28aa62b,Buick,Regal,1997,Czech Republic,14133.51
+c761872e-2f95-4d37-85a9-7eeace37c5bc,Austin,Mini,1963,Russia,204968.22
+0bad71d1-d0a5-4d18-a7a7-53c76b658609,Ford,F-Series Super Duty,2010,Indonesia,99837.46
+1926d59f-3ef3-4796-aa99-5427165c5b5d,Chevrolet,Avalanche 1500,2002,Russia,399057.11
+9a381664-96de-407c-a13d-ab71cb136daf,BMW,X6,2012,Czech Republic,331239.65
+f1ef34ba-0272-4bac-9f86-8aea562fb6e9,Suzuki,Vitara,2002,Ukraine,995956.65
+c67f312d-58e8-447b-a492-5ccc7f5e4eac,Acura,RL,2008,Poland,257054.07
+82a63c21-d7d0-4ba3-a858-4310476d2be3,Toyota,4Runner,2003,China,724451.13
+45e4189d-75a1-47f9-83bc-cad1eb4e95da,BMW,5 Series,1993,Pakistan,443102.79
+676e0f19-b8eb-4b14-a6fe-9c47177eac68,Nissan,Altima,2009,Sweden,960361.59
+9e2bd436-8651-40f4-9981-212afdc77b8d,Land Rover,Defender,1992,Latvia,950220.99
+ee1cb329-cff9-4633-9d92-7ab4e5a96f0d,Toyota,Sienna,2006,Sri Lanka,717461.11
+779873ba-5ff7-4a1d-b3d2-e933527c7993,Ford,EXP,1987,Indonesia,466903.07
+4d3f8a90-9094-4e6b-a27d-1d90db55e757,Cadillac,SRX,2009,Poland,99680.86
+2b27fb40-8dde-4ce7-9e73-e6f0c8cf7d25,Mercury,Cougar,1999,El Salvador,983164.31
+9bbde6e0-bcf2-45ac-bfb1-40bb89773216,Chevrolet,Astro,2003,Thailand,857051.34
+e2a998ea-d5df-4560-9080-91693e4ea984,Acura,TL,1997,Spain,61595.79
+09eaedc0-f210-4e1f-8e7a-4c37cfae92c3,Chevrolet,Beretta,1993,Indonesia,492647.79
+3e901807-f311-49ec-a8ba-e34101bd16fa,Hyundai,Elantra,2010,Philippines,951677.93
+0c51043d-949a-40fb-8d05-19b4fae44c96,Cadillac,CTS-V,2012,Philippines,191759.25
+7d79ec47-aa69-4fcd-a41b-92f4c43b88c3,Cadillac,STS,2007,China,778259.56
+7f5d0654-70ff-437f-bebd-1fd6d92017cf,Mercury,Topaz,1988,Indonesia,890813.14
+ba6e7bd4-a36b-4c7e-9a89-9d6b18fe93db,Chevrolet,Express 2500,1996,Philippines,280858.83
+71ce46d9-faa9-42e5-a979-7775533646ae,Chevrolet,Cavalier,1995,Ukraine,600921.76
+455f920b-e387-4b61-a62a-b97f8a3c4769,Saab,9-7X,2005,China,758937.76
+bbf3175f-a37d-4418-95ef-c59cc27b702d,Mercury,Cougar,1968,Serbia,378427.56
+12d377bd-8fbd-4284-92a6-3f93e5fedb3b,Chevrolet,Aveo,2009,Philippines,14587.22
+f043ba93-5252-4203-b4ae-07545add7428,Audi,R8,2009,Panama,534077.89
+589f8c1f-a2c9-4ea0-b0e0-25305abb1fdb,GMC,Savana 3500,2007,South Africa,618996.82
+2003334f-e3dc-4d60-a006-62a1ce9506f8,Ford,F350,2007,China,989216.3
+835e13d5-6d6f-499f-b712-575fc368799e,Chevrolet,Express 2500,2001,China,996724.44
+ee9f8f12-2dc8-4363-99fd-2ea456007a9a,Ford,Mustang,1969,Belarus,981344.26
+ed82bd22-f641-43db-b8f9-6a9c5cd9005f,Pontiac,6000,1984,Japan,396768.34
+e97f7f80-fbf6-4e80-b228-148d6d10463e,Suzuki,Aerio,2003,Macedonia,532384.85
+c449a172-e42c-4c6d-9d90-aaca33e0a537,Mazda,Miata MX-5,2009,China,658222.73
+e2417689-9eb4-4913-9910-c7bc665f0420,Buick,Skylark,1989,France,849884.25
+a7f9e665-7210-4541-acb0-4f3e6a8f9aa6,Mercedes-Benz,G-Class,2005,Argentina,4864.17
+cfaa49a2-12b7-4f45-a1b2-70928a1f2900,Lexus,LS,2000,Paraguay,730669.18
+88e31b1f-4b70-462f-877d-baf1f1f1e13d,Volkswagen,Beetle,1967,Senegal,412332.96
+9f4ae97c-b45c-47a1-8b84-2753e4e12aa3,Ford,Escort,1997,Sweden,827036.38
+aa7c5868-b4f1-490a-b8ef-90ce63a93431,Kia,Sorento,2004,China,416173.65
+1ce8163e-cd54-4f28-8415-9766df3ad8ff,Mazda,B-Series,1991,Czech Republic,613196.03
+554cb6cf-a5ce-4af2-a566-ba33d687227a,Buick,LeSabre,1999,Philippines,220115.33
+6d110ea3-063e-4479-8c01-8de334882f04,Saturn,S-Series,1998,Latvia,36631.54
+d5c92739-3b24-44cf-b4a4-e5bf8b8b63bf,Jaguar,X-Type,2003,Philippines,159533.8
+38e70433-e03d-4431-8df8-20eabb0435e9,Chevrolet,Caprice Classic,1996,Colombia,358489.58
+71fb7aec-7a3a-4103-bc52-eaa98de5accd,GMC,Suburban 1500,1993,China,163617.99
+4be09b99-bdb3-479d-9148-24fde69e0a6e,Jaguar,XF,2009,China,161708.58
+10806436-2476-45f5-ba20-fce525adbc5f,Mitsubishi,Galant,2004,Pakistan,487432.85
+c61aafe0-8d4c-433d-a8e4-08b7b8b10abb,Saturn,S-Series,2001,United States,933313.13
+c9f8bff0-196a-47bf-87eb-d5225706abc0,Peugeot,207,2007,Peru,515136.08
+967933cd-1ce9-4db4-ac95-33368f6a8159,Nissan,240SX,1994,Indonesia,343812.75
+6823a0f4-65e6-410b-977c-86b42eaf7f60,Chevrolet,Corvette,1975,Canada,676703.07
+28f445f3-3fe8-4054-b7e1-42c9a2d96439,Chevrolet,Camaro,1975,Russia,912172.69
+1d1b6209-9dd6-4e5a-832d-2994e0c2c72c,Mercedes-Benz,C-Class,2011,Reunion,724556.48
+8b98218d-876f-466f-964f-bdbe6e8037fb,Volkswagen,Passat,2005,China,432835.39
+b0bc9b5a-1ee7-4062-ba3a-d09faa2baf5e,Honda,CR-X,1988,Indonesia,137242.19
+e1de41bd-46b6-4331-9b5d-277c03ef4101,Honda,CR-Z,2011,Serbia,158708.98
+570cebf5-0455-4293-a3b9-f316e0806023,Suzuki,Sidekick,1993,Portugal,643532.67
+73b50cdf-cb93-4ad4-8712-777473f54d32,Ford,Escort,1991,Indonesia,783932.75
+34f19f16-348c-4874-92b2-dbdeb9ce83f8,Mitsubishi,3000GT,1999,Ukraine,845088.27
+f64fb9ae-a482-4c3c-9670-b3b2fa22dd57,Saab,9-5,2009,Brazil,401360.61
+21f98998-c913-46e5-a67a-30355a1fe4d9,Ford,Mustang,2006,Philippines,647113.64
+73f82ebe-2397-42c5-81b9-3e6a51c58a3d,Ford,F350,2005,Russia,764188.51
+0cc303da-9366-42b2-8325-3366a91b4d81,Isuzu,Rodeo,2001,France,790903.08
+797e4f20-6d1c-490e-bb4a-f064e8e0ead2,Buick,Century,1996,Sweden,218478.66
+5c0de2fa-e72c-4f09-8060-fd726ba3a2e8,Chevrolet,Tahoe,2010,Mexico,782263.17
+502040a5-827a-4be5-9071-b4f7282a8b4d,Lincoln,Blackwood,2003,Mozambique,170935.83
+2c595135-a1be-4620-9f62-f13060bff54e,Chevrolet,Corvette,1958,Indonesia,364695.68
+8dfcf10c-2d74-49fc-8459-31d1779e7808,GMC,Sierra,2008,China,48998.74
+2919737a-0c0d-45db-bffa-8ddf7ad5d63c,Chevrolet,Corvette,2009,Philippines,680310.66
+bcf74498-2272-41c7-8031-d5c1b39d6595,Toyota,Highlander,2004,Germany,675832.49
+1d7b9be0-a4c0-4bd5-a8ed-04a89b7fe7bc,Ford,Crown Victoria,1994,Philippines,447309.62
+92d15a95-d29e-40b5-be52-a01d1553c5b1,Audi,S6,2003,Canada,526674.77
+53816029-527b-4365-b6a2-a9aafd41354a,Saturn,Outlook,2010,Thailand,395089.97
+ae43bcfd-ffee-442d-a4a5-8f35565de283,Ford,Bronco,1995,Argentina,684790.04
+3af828fd-a495-47e2-851b-b89182d71d3f,Dodge,Charger,2012,Haiti,18820.61
+31fea336-73de-4c93-86bd-6ade379651f9,Cadillac,Fleetwood,1996,Poland,665943.49
+5d829632-ef7d-40b5-8337-5f91cd546ece,Mercedes-Benz,W201,1984,China,648860.76
+86be78ee-a396-42b2-983c-f89e21652006,Chevrolet,Corvette,2004,Portugal,312127.6
+42491855-025a-4689-a772-46db5e070fa9,Chevrolet,Silverado 2500,2007,China,515101.95
+c067b69b-9ff3-459b-a1dd-d0be96cc5ba4,Geo,Prizm,1995,Costa Rica,54309.49
+896c5565-3b6d-4d4b-b5e9-f46e94387159,Lincoln,MKX,2010,Canada,446882.41
+9738f82c-415b-4944-81af-bf9ea802d72d,MINI,Clubman,2012,France,397897.64
+2970fd5e-a86d-417c-bb0c-d65be0e54c52,Pontiac,Bonneville,2005,Mongolia,253664.11
+e64b234c-fde7-4683-924e-464ea5adc95e,Hyundai,Elantra,1994,Oman,165019.45
+f0effd46-8663-4f7d-b38d-93f2b2630869,Aston Martin,Vantage,2010,Iraq,178351.85
+c4ef1973-cc3b-4d73-9028-f7e373cc4955,Buick,Regal,2012,Portugal,166073.32
+6bdbe2dc-160f-454b-92b5-53b7b7c2b804,Lexus,GX,2004,China,476180.86
+6417a6c0-181f-4692-9610-754f21c0724c,Audi,90,1990,Vietnam,93560.58
+ebb65cec-f13f-4cbb-b901-44c421802baa,Dodge,Viper,1997,Portugal,882063.86
+211aa672-090e-4586-bac9-d10128ec9ea7,Hyundai,Elantra,2010,Indonesia,495818.69
+85185a22-0d92-4392-a482-9b22a94ca695,Oldsmobile,Bravada,2004,Belgium,274033.02
+b06dcca5-bd02-4af3-88b6-fd8243c02196,GMC,Savana 2500,1998,United States,391654.9
+41757172-1ac9-46eb-99e8-9f73b678deb5,Mercury,Lynx,1987,Peru,579624.52
+959fc714-59c0-43c1-816f-1a38fed4cc3a,Mazda,MX-5,1991,Nicaragua,257697
+7f66b57a-cea1-4b62-9e40-c4c6966608fd,Ford,Econoline E250,2001,Mexico,462441.85
+713402ce-0d1d-4161-b041-c0386f0e2c86,Saab,900,1997,Poland,9289.76
+7c295d5c-a686-4259-892f-19c0b80ec8ad,Mazda,Mazda3,2010,Indonesia,635174.73
+a24edf00-75cb-4749-aa16-be4642ca2fcf,Audi,A6,1997,Indonesia,881557.53
+a952461c-90bc-4598-a55f-dc515d8ad0b1,Lamborghini,Diablo,2000,China,732574.63
+a259507b-99a3-478d-9cd7-bd308d422bba,Chevrolet,Caprice,1983,United States,741924.55
+c4dce15e-3eb3-486f-9e41-bc37fa96f3f4,Mitsubishi,Montero,1992,Iran,458580.24
+bdcf8c88-0efc-40f7-bf62-eb5b552d78d9,Jeep,Liberty,2003,Russia,926790.01
+b3a6d344-d13b-4f98-9593-cb1579d99f3a,Mercury,Villager,1995,Portugal,806829.25
+cc4a58a1-151d-4d37-ba9d-c193e5d00c08,Chevrolet,TrailBlazer,2009,South Africa,687361.7
+0c69cd62-70e4-4484-b214-3a0d806b8e8c,Infiniti,I,2002,Ukraine,930190.59
+17778b3b-a95b-48a9-908a-3c43ca384f0d,Toyota,T100,1996,Poland,889625.88
+029f529a-2bdc-4d83-b905-290f5f2169e7,Acura,Integra,1995,Russia,902303.66
+74c74430-a601-4d77-aa0c-4b8974d8d071,Porsche,911,1994,Bolivia,641154.08
+f30e6054-07fe-4467-aacb-e00d690caa84,Audi,A3,2008,Democratic Republic of the Congo,857815.22
+c16dd940-3996-44c9-828a-4edcc2e69208,Chevrolet,Tahoe,2012,Poland,451752.76
+4f529fc7-85df-441d-9666-f6a283f099b6,Maserati,Quattroporte,2011,Trinidad and Tobago,278605.64
+6c7fe8a3-ec8b-4e7b-b966-52a8dbb2a841,Mercedes-Benz,300D,1993,Philippines,295461.34
+acf94bf9-c9b9-4f10-b235-9c6b8db7d740,Mazda,929,1991,Colombia,507784.06
+c8bf3fb3-cb68-41d7-a4e2-16b8e6d93e8c,Maybach,57,2011,China,23542.44
+888b7610-a519-474e-810d-1c81f5ae52c0,Hyundai,Genesis,2010,Brazil,379701.21
+70f5ddc1-7cdd-4ec0-8b80-f8193ada5976,Mercedes-Benz,E-Class,2012,Honduras,375266.68
+14616001-4c00-43b1-8647-a58d0c48971e,Volvo,V70,2003,Nigeria,561591.45
+177a3f00-5132-479d-b044-960cb56e8e3a,Ford,F150,1992,United States,192468.32
+dd1346b3-acab-4376-a345-e8eca84bc16f,Chevrolet,Avalanche 2500,2006,China,355950.69
+16ce173d-d545-4b80-ac5b-e7ff086f5c74,Mazda,Mazda5,2006,Russia,145609.71
+d12f5b7a-d52d-4eea-b354-0fa0c51b7374,Dodge,Ram Van 1500,1996,Nigeria,757223.43
+0699a4ca-2c65-4222-b9cb-a8ede284506a,Mitsubishi,GTO,1990,China,314399.22
+e4c7839f-68d2-4ad7-849e-39162e38e3b0,Mercedes-Benz,R-Class,2011,Sweden,430787.1
+dea1cc76-61af-4697-8fd5-662656064a64,Mercury,Grand Marquis,2008,Serbia,173866.65
+59a2250c-b12a-4d55-9cbc-6a3bae5fd060,Isuzu,Rodeo Sport,2003,China,402398.16
+edb4d8ec-3c7b-4e11-b1fe-00bd25b18ba3,Lexus,RX,2002,Russia,780788.93
+3f76e0bc-45d4-496b-9d6d-943bac3cc5a3,Foose,Hemisfear,2007,Brazil,740718.13
+ae77b663-dbe9-4172-9489-980859992bda,Audi,Allroad,2001,Philippines,477474.9
+92c8aab1-ed30-48fc-8944-30cf2dde9119,Cadillac,Seville,1998,Philippines,529182.16
+5bcdf6c9-1a32-4276-ae08-3c75274174fb,Pontiac,Gemini,1989,Ukraine,350768.87
+5b77cd26-7a6d-417e-9ac8-90c706444ff0,Infiniti,EX,2010,China,692691.31
+38ec5e0b-789a-4f85-841e-09417bae30a2,Oldsmobile,Cutlass Supreme,1995,Sweden,157194.85
+cfddd659-c07a-4901-8f33-dde5358a055c,Scion,xA,2006,Indonesia,653722.78
+3ee5b388-168e-43e8-9866-51113561150e,Suzuki,Daewoo Lacetti,2006,Indonesia,357053.33
+83815032-71bf-450e-bb54-096aa8307563,Toyota,Camry Hybrid,2007,Philippines,326686.1
+78776aa1-ab9a-4564-98fc-042aac4d1e19,Bentley,Continental GTC,2008,Russia,107543.42
+7d3209bf-5685-4255-ab1a-262fefbf9933,Suzuki,Vitara,2002,New Zealand,352382.64
+0812cc18-631b-4c71-9ff9-e7c72bbdc4be,Buick,LeSabre,2000,Philippines,292980.14
+fb8c3b81-6118-4dc3-8e41-aceb34da245a,Mitsubishi,Tredia,1988,Colombia,926545.97
+a067a7ca-3c17-4661-a1f2-c99cfb705da2,Chevrolet,Caprice Classic,1994,Syria,490526.69
+e9969f70-e57f-4be3-8dc5-34540ef8a33c,Plymouth,Acclaim,1992,China,806936.58
+43cc0ed6-8eb2-4400-9759-60a811fc07d9,Suzuki,XL-7,2006,Japan,468601.04
+647733c3-d9ae-4a8b-8f1c-726735e664b1,Mitsubishi,Challenger,2000,Indonesia,900184.42
+9329c462-f22a-4d7f-8f97-24ca1d44a2d8,Pontiac,Firebird,1984,China,871055.13
+22a8429a-f646-4dca-80a0-27202cbee873,Chevrolet,Corvette,1962,Thailand,344854.95
+97c60651-1491-4833-8144-a58ab970d835,Isuzu,Hombre,2000,Malaysia,611925.57
+18059354-8e9f-481a-87cf-0dcb0df72c43,Mercedes-Benz,SL-Class,1998,Poland,885488.54
+fe593ec6-3dc6-43e2-844b-19acd62f2508,GMC,Sonoma,1994,Mexico,831522.83
+d35f7b9d-4430-4fdd-a576-0a29d790b8d5,Lincoln,Continental,1994,Indonesia,372215.43
+f53e1d6e-f890-41a8-ac5e-239595debd73,Kia,Spectra,2005,Bosnia and Herzegovina,500538.97
+06351a6d-d9d2-4e8e-889f-cd00eb9434b8,Mitsubishi,Outlander Sport,2011,Mali,375519.99
+4cdf17ae-d3c0-4afe-b932-c51fd939ce95,Isuzu,Oasis,1999,Philippines,847129.8
+54eb344c-1874-4b2b-aa9f-4fca98d5c8b0,Pontiac,LeMans,1991,China,471946.25
+b7d8a5ea-62af-4270-85c1-10304a48ff72,Buick,Enclave,2009,Iran,223639.45
+d49618f4-df2e-4308-969d-cbb3e5096de7,Ferrari,458 Italia,2011,Argentina,543439.88
+be3b995c-4ecc-4e3a-b134-b5c5807bf925,Plymouth,Grand Voyager,1993,Sweden,501043.21
+60b226ae-af93-4d1e-a449-45d9e189e0cd,Ford,F-Series,1985,New Caledonia,170452.84
+bbcb04f1-71e4-48db-bd05-faa316ac0424,Chevrolet,Suburban 2500,1993,Indonesia,46136.97
+9b9bb833-f698-499e-96e1-cde3f53be9c8,Audi,5000S,1987,Poland,34160.55
+b95fb201-d2bb-4dba-876e-68f3e4416d3f,Lincoln,Town Car,1989,Argentina,946737.21
+9f75052b-bb4a-45b5-ab23-583c5db1ec1b,Ford,Escort,1994,Philippines,986398.11
+f0713975-47f6-4cd5-be03-58fb6be6b76c,Dodge,Grand Caravan,2011,Iran,137428.16
+f05b99ee-2b8d-4e2a-85c8-8a455df5db0d,Jaguar,S-Type,2006,China,853040.7
+72b78489-f0e0-4988-84e9-a837cf315734,Oldsmobile,Silhouette,2003,France,501507.05
+e2c176a4-77a5-4f9f-b4b5-40fe899e5571,Mitsubishi,Pajero,2001,Russia,294615.08
+3d8bc4e5-f46c-405a-8094-da92f77f406b,Isuzu,Trooper,2002,Czech Republic,854312.42
+9fa15e5d-753b-415d-ac6b-ac7ba36fd084,Isuzu,Rodeo,2002,China,590164.48
+7d7ba72c-849c-4c36-ba69-975453f8e12f,Mitsubishi,Lancer,2009,Greece,418889.3
+f679b360-90b1-4973-add7-4df5b41cf1fb,BMW,6 Series,1989,Philippines,214236.54
+da645033-36f4-4694-ab43-337040a350cf,Pontiac,6000,1984,Indonesia,503996.77
+2416a537-140f-44c1-adac-0ff5afac9a77,Maybach,Landaulet,2011,Guatemala,409816.92
+4650ddcd-c58c-4105-ba2f-949e635d1713,Dodge,Grand Caravan,2010,China,871613.2
+fc34956b-4f51-4931-bdb7-82ef45cbd248,Lexus,IS,2004,Mongolia,323364.8
+e2d1b9b2-7b4b-4c15-8c52-e64ec0b162d4,Audi,Q5,2010,China,300719.68
+d8ca5f25-bea6-4715-918e-a4e8f77a1efc,Lexus,GS,1995,Greece,446097.41
+78e8809f-fbe4-4d5e-8da0-04ff336f8158,Jaguar,S-Type,2005,Brazil,702190.51
+9cbb5ab5-545a-4b8a-a57e-a269112e2c4f,Mitsubishi,Eclipse,2000,Sweden,897223.43
+f067caed-4a80-4823-974f-ffa44d2bca5e,Toyota,T100 Xtra,1995,Iran,895474.68
+a789c241-5ec8-470b-bf1b-0844a2ac33b5,Pontiac,Grand Prix,1983,Brazil,957816.71
+400106e0-bee0-4ffe-a838-6d3c566e1a5c,Volkswagen,Golf,1997,Paraguay,311662.31
+f3fc558e-66bd-4c68-88ba-1c16dd41b4a9,Isuzu,VehiCROSS,1999,Lithuania,623884.16
+1b829219-929f-4622-a042-7de35f312c9b,Cadillac,Escalade EXT,2007,Canada,663476.8
+4ab4bf2f-f8be-4e32-9c9f-9116d385c761,Mazda,RX-7,1995,Thailand,318307.71
+94e2e1fb-097b-491d-bc23-0ae382847cbc,Ford,Explorer,2000,China,839176.7
+b919c649-dd68-4a9a-bc43-5014f51d751e,Pontiac,Firebird,2001,China,183464.63
+9112a353-a878-46dd-98f4-002be2693e47,Ford,Aspire,1997,Nepal,930698.86
+f463c1aa-d318-4cbc-a253-39430ad03198,Chevrolet,TrailBlazer,2005,China,764763.3
+e5b44aac-6d09-4073-a00b-085c66f74afe,Pontiac,Grand Prix,1993,China,657848.4
+3805b325-549e-4e04-bb02-df29a94fd18d,Nissan,Quest,2002,Finland,3489.26
+101238b3-6057-4fbb-8fe5-2256175ae1af,GMC,Acadia,2011,Indonesia,362463.2
+677d3eab-7457-46a8-97b4-32393c0c5725,Chevrolet,Express 2500,1996,China,481625.34
+1a91682c-a59b-4f33-afa3-e72cebeecf4e,Toyota,Sienna,2000,Philippines,819961.13
+95cff1ce-11aa-49c3-8fd9-8eb9fc4b38d6,Nissan,Maxima,2000,Portugal,878457.98
+66693ec6-a042-4ca4-af66-6e433042217c,Dodge,Grand Caravan,1999,Poland,287391.91
+de9b0b4a-aa1c-49a4-bdd1-16be09211091,Mercedes-Benz,500E,1993,China,270249.09
+9e34ca51-62de-4a2b-a729-aa3255505d4e,Toyota,4Runner,2011,China,325598.64
+f3e2cb28-b4b2-4c4b-90c2-4ad2f79c6d46,Mazda,CX-7,2011,Moldova,849514.11
+c9135320-8d05-4a7f-a276-761dca5a4e78,Kia,Amanti,2004,Palestinian Territory,723865.89
+7d18d53b-0666-4fdc-8dd4-bd09fb7e13d7,Hyundai,Sonata,2011,Indonesia,675082.06
+e8a11939-6883-4466-a10a-3cc33cdee7b7,Mercury,Capri,1993,China,257807.94
+0b3c395c-7e3b-4b81-aa5b-c34b1784c157,Jeep,Wrangler,2010,United Kingdom,385650.47
+88f0af05-083b-4321-91f4-b294b61dc460,Chevrolet,Sportvan G30,1992,China,526008.05
+88bb8163-3ffc-4e37-b25e-07158a3955a7,Mitsubishi,3000GT,1993,Poland,850677.65
+8e1a8b70-7203-4252-851c-88afd26ce1cf,Mercedes-Benz,Sprinter,2010,China,296664.18
+9544a0a3-8a1a-4149-8f2b-de776fc065fc,Saab,900,1997,Venezuela,311675.49
+3cf1dd87-0b92-4bbd-9101-6630a720ae95,Ford,Excursion,2001,Czech Republic,346342.16
+109a40e4-b8c1-4b9c-ae39-2e574df477f4,Subaru,Impreza,2002,Tunisia,383670.28
+fc5b69e5-86c3-433a-acfe-e3211b7678a0,Audi,S4,2001,Ukraine,653270.01
+765fe190-157a-413c-8e0a-e55415dab0f5,Jeep,Wrangler,2011,China,882917.3
+8be8421a-bb34-43a5-8bba-6a8f9562a2ff,Volvo,S60,2004,Sweden,761866.83
+48c388a3-9ccc-41a1-bf7c-63049b2b2aa1,Toyota,Camry,2003,Indonesia,969225.99
+3e157efd-1e2a-41a0-8569-a1bee6253ba2,Aston Martin,Vantage,2009,Indonesia,895957.38
+7d695bbf-3da8-4845-934f-0cb6ecc3b8fc,Mazda,B2600,1989,China,671100.74
+636324da-c27c-421b-92f6-4d58713e8910,Mazda,MX-6,1993,France,606467.26
+9ac17179-0080-4856-a388-f722186741f0,Mitsubishi,Endeavor,2006,Poland,499499.38
+4ef9eda6-3d85-4f47-872b-582438129174,Hummer,H2,2009,Russia,772493.35
+19489cb1-2fd0-4530-b291-baac23cf445c,Bentley,Arnage,2006,China,733159.44
+0f233fb8-0879-4da5-84e4-c6d6b004211f,Mitsubishi,GTO,1997,Russia,50081.97
+78e7c177-9cbb-414e-8c0e-911cc2193bf1,Pontiac,Bonneville,1988,Indonesia,332530.29
+11d26557-d6ef-4c31-8d1c-077bd9f23dd1,Ford,F250,2012,Chile,398616.02
+dd8d942e-dffb-4dae-9b96-fda4fd07fbbb,Lincoln,Navigator,2001,Poland,965444.67
+00f200bf-f901-4de3-97cf-55ca9d051849,Mercedes-Benz,SL-Class,1991,Indonesia,515565.53
+59a1cf79-a2ae-43c8-ae11-48f14754d21e,Suzuki,Forenza,2007,Ecuador,10441.11
+e3389d74-9c9b-4bef-8dd8-1450f9717219,Toyota,4Runner,1999,Canada,294105.68
+a9c5ead8-7ef1-4256-83b5-d289ebd356a3,Lincoln,Town Car,1990,Russia,466442.71
+af5c293c-1eb7-4eaf-a9a6-dbb38c566f8e,Lamborghini,Aventador,2012,Poland,194101.88
+d4c011d2-eb61-4758-8560-d101c808d396,Honda,Accord,2000,Argentina,689490.62
+6fd9cc70-655a-48c5-917b-c37ceef1092c,Mazda,Protege,1994,China,185782.98
+74b2c0a7-3b13-4c0d-8a9d-c31ea9624ff3,Mazda,Miata MX-5,2010,Tunisia,534092.01
+cd711c27-592d-4592-9b1f-340be72458b0,Cadillac,Seville,1995,Estonia,918789.66
+f56bf6bc-2827-4d4d-aee1-2deea98472e5,Lamborghini,Diablo,1990,China,292877.54
+de497e2d-2464-46f1-99d3-06225eee65d1,Chrysler,LHS,2001,Russia,947728.47
+22a01eec-c70e-4252-84d9-1f0b64ce75dc,Mercury,Grand Marquis,1984,Iran,3213.43
+f6a3e479-e177-4df8-aacb-3dd033916d54,Eagle,Talon,1991,China,490416.43
+3741efd5-91c6-4cc5-8228-92a3be793744,BMW,M3,2005,Indonesia,810043.52
+d8857098-e5dc-4c79-b635-b8d38d7498e4,Jeep,Grand Cherokee,2004,Poland,299808.12
+07124534-d0a6-4d57-82db-1be31965493a,Pontiac,LeMans,1989,France,54406.52
+3a395cfe-0f4e-4e7b-b0ed-17004ebc5d00,Lexus,IS,2008,China,846934.89
+547fb97d-56ac-4492-9e69-bfa4528c5185,Nissan,JUKE,2012,Hungary,671229.56
+18936e6d-4efe-4c91-b49a-3e5ad8aaa44f,Chevrolet,Colorado,2004,Denmark,462868.61
+cfb33f7e-e13c-43e1-928f-f647656ed432,Honda,Civic,1997,Russia,614889.23
+5f537596-19a2-4f6d-920d-dc1e0836614a,Chevrolet,Caprice Classic,1996,Russia,979957.9
+be07c9a3-36fd-4f30-a57d-bdbb477230e2,Volkswagen,Cabriolet,1986,Portugal,788248.06
+eb5d308d-4f64-4256-8946-ed98c369bf26,Cadillac,STS,2006,Portugal,127542.96
+32112e87-639e-49df-bef7-20b143736628,Toyota,Yaris,2008,Sweden,377474.29
+3dc98f19-55dc-4364-a06a-20b6092a8d2c,Dodge,Grand Caravan,2012,Ukraine,962485.62
+0dad6c8d-2c34-4a67-865c-58d18ce7fd91,Lincoln,LS,2003,China,571344.76
+50f7c9f3-4ae5-4f1e-929f-4500d25c9f98,GMC,Canyon,2010,Portugal,845654.58
+cfe32fe7-2d61-4a67-a193-74f7d07a32f2,Lexus,RX,2005,Portugal,122142.13
+c6af623c-759e-4c28-a86b-e9c5e2a435d2,Honda,Accord,2009,Finland,921436.15
+c89bd006-f7a7-4735-bf7b-57e059352f0c,Mitsubishi,Cordia,1988,Argentina,34255.15
+30d0c8ac-8899-4ef6-b154-0f30a812e134,Porsche,Cayman,2008,China,792262.66
+0df2cdcd-fccb-490d-9df6-677c6e9519bf,Chevrolet,HHR Panel,2006,China,762770
+2cf32b95-ff87-4a0c-881e-4ad81a361769,Jeep,Grand Cherokee,2002,Poland,66140.01
+cb90db4a-4207-4f81-ac6a-c28a05a7fb75,Cadillac,Allante,1993,Peru,497292.16
+56dcd387-029e-4490-a51b-5dd704a1dd34,Audi,S4,2001,Indonesia,160685.57
+81612a44-b684-49f5-b483-1aab12c95f33,Plymouth,Colt Vista,1992,Ukraine,247097.82
+41c46661-ffe8-4763-baa6-40ad0aa08fd4,Saab,900,1994,Sweden,712284.15
+f73a1cc1-ede4-449f-913a-5286149abbec,Dodge,Ram 3500,2007,China,630219.11
+bde6c6a6-fd4c-4da6-9a49-354604409928,Pontiac,Grand Am,2005,Brazil,101488.8
+773f81d2-007e-4c36-84cd-098c45613362,Subaru,Forester,2006,Poland,300232.31
+44f142e6-8d7a-47a3-89d0-468d410049e9,GMC,Yukon,2000,Sweden,456253.24
+6ee78142-8dbf-4ead-82f2-86194f5ffbec,Mercury,Grand Marquis,2003,Panama,974942.88
+f3e25f8b-e39a-4607-8e01-5a1844fa6f6c,Mitsubishi,Galant,1997,China,758822.15
+5c88d487-8cb3-4753-80a2-a92f5f9bc56f,Volkswagen,Jetta,1999,Brazil,320780.59
+86ef1926-f0e7-4214-9619-aca197f399ca,Buick,LaCrosse,2005,Sweden,742138.45
+af4b146b-2ea3-4dfa-a56e-0edb54f22f6d,GMC,Savana 1500,2008,Kazakhstan,595906.87
+bfbe00cd-0e29-469e-bafb-825c42473b79,Ford,Aerostar,1990,Russia,263084.85
+08069a90-1581-4433-b156-9e0c0265c2ac,Ford,E-Series,1963,Philippines,297614.88
+e63a0675-6aa6-4b68-be37-2173c784830a,Ford,Expedition EL,2012,United States,979777.28
+89cfec8b-9afb-4798-bd52-29a3d5ca8458,Lexus,GS,2013,Senegal,677566.3
+c15418d9-0831-4841-af3a-caf1dc24c6f7,Buick,LaCrosse,2011,China,24008.88
+97f7b476-d1c7-4abe-b08e-59d1dd117ace,Eagle,Vision,1996,Barbados,517448.86
+63f77c63-4be0-4e8d-b963-dc758c88a9f7,Mitsubishi,Pajero,2004,Peru,220945.11
+b0ff2734-6e60-428b-91bf-1e3a73f70729,Volkswagen,Fox,1990,Greece,175649.18
+b197076e-aca3-4234-9a24-59aa70241794,Mercedes-Benz,SL-Class,1994,Ukraine,953020.99
+6bddb076-55e5-4133-8565-3f0b5bef7f9c,Mercedes-Benz,S-Class,2010,Iran,65441.9
+9c4f85bb-56d8-4484-bde3-e28922b0abcb,Dodge,Caravan,1996,China,953867.09
+6f372626-1cef-496e-bdcd-2dc6f3cd77c8,Suzuki,Swift,2005,Mexico,90232.62
+e96baf15-9372-47d0-9448-46a69543c6c9,Infiniti,G35,2003,United States,895944.16
+d68a62a9-8476-4f39-bcce-0b9169cf6305,Buick,LeSabre,2005,Philippines,532008.66
+f33b9d8c-5fef-4858-a5c3-5f063586611e,Toyota,RAV4,2000,South Africa,403485.08
+df063f9a-dffc-4602-ac7c-1084c97a7cf4,Chevrolet,HHR,2007,Russia,449407.6
+78e751d3-89d0-4ea7-94f2-9a1c212fe1c8,Land Rover,Freelander,2011,Tunisia,864832.24
+9b21cc17-b0bd-4c9a-ace5-90c6c1ae34be,Jaguar,S-Type,2004,Russia,909101.02
+74d0de51-73c8-47f9-870b-54a61d6c5773,Isuzu,Ascender,2006,China,301127.06
+45b8b64d-60a9-4799-a3de-85503cb4bb8f,Aston Martin,DB9,2006,China,571612.52
+04121dc1-4c75-4c1f-b37c-658f5e9c2e6f,Jeep,Cherokee,1997,China,407954.99
+42a7cd35-8391-4f2e-a87f-6dabeaeb8586,Ford,Ranger,2005,China,393783.48
+f888ae5f-660f-40ed-9eb8-3b61ef2d616f,Volkswagen,Cabriolet,1987,China,76920.87
+c2775d3b-f2fc-4162-86b0-afa02d3fb0ed,Infiniti,Q,2005,Mexico,739164.05
+66164e23-d3af-4ed3-b5ff-0888968ac9e5,Chevrolet,Colorado,2011,Ukraine,367997.14
+78370e3d-8f87-4309-b255-ad9e3868709b,Mercury,Mountaineer,2009,Philippines,646496.49
+ec38c8bf-9475-4ad9-b843-1e53867e7556,Saturn,L-Series,2005,Brazil,220363.05
+31954f16-dffa-4a21-aa53-07988ba98adc,Chevrolet,1500,1999,United States,130745.85
+a7fc035f-e2a3-4f8b-bfea-dbb67ff338c7,Volkswagen,Jetta,1992,Brazil,225934.11
+49c91ad8-050e-4a50-a1d7-7b1ff02889f5,Suzuki,Sidekick,1989,Tanzania,482048.8
+ec65c588-ec6c-470c-a327-a661f7131353,Oldsmobile,98,1994,Bulgaria,935421.49
+b01f1465-85b3-41fe-a26f-03a45d095c74,Toyota,Paseo,1995,Sweden,901750.98
+3ac19a43-450d-4e85-824c-094626cd92a0,Ford,E-350 Super Duty Van,2006,China,540003.46
+fa287b93-9add-4f90-bfbc-2290ea229988,Volvo,940,1994,China,164800.71
+2b101e62-eeaa-4159-a8df-c36a62ddbc06,Ford,F-Series Super Duty,2012,Netherlands,645668.23
+d4704797-e88a-4ef6-94a0-568e90577789,Lincoln,Town Car,2003,Poland,730877.64
+de723698-3423-4c3c-a105-94ef186f0a7d,GMC,Sierra 2500,2005,Poland,406566.44
+7a79cfb0-affd-4ea7-b6db-b83c8e50b6d2,Pontiac,Grand Prix,1999,Armenia,322713.19
+09d40ca0-9e37-4734-84b1-4ec9ba4d083c,Maybach,Landaulet,2009,China,360689.88
+a4b3cff3-1613-4fbf-8c2d-a67075dd8790,Chevrolet,Corvette,1985,United States,257448.64
+4e263521-6543-414f-8aac-164f55ff6607,Mazda,MX-5,1990,Russia,764445.02
+8b17dcb2-9ff7-4e5c-8fe9-a0e4460aafe0,Plymouth,Sundance,1994,Kazakhstan,806138.04
+44a6cc54-ff96-4230-9398-99d40eca3c6b,Toyota,Highlander,2012,China,488934.22
+633f4bef-c747-480d-b591-ad54fd873811,Audi,Q5,2012,Canada,719418.12
+2c4c397f-2f01-43be-9d74-db59f845e213,Chrysler,Fifth Ave,1992,Indonesia,886460.29
+30bb2360-f2d6-41ae-ad60-816061bf6abc,Dodge,Charger,2009,United States,448391.44
+49d8174d-42eb-440d-9626-47aaeb80755e,Hyundai,Elantra,2001,Costa Rica,467396.1
+244d2669-c08e-460c-ad25-3898482621ed,Ford,F250,1999,Cambodia,831850.47
+96f7a556-cfa8-44ce-8491-c9d3f23bf186,Volkswagen,Touareg,2008,Philippines,63608.54
+b0789209-5f54-4596-a04e-d9d27d32bed5,BMW,X5,2007,China,709145.18
+25b10cd4-9072-415a-9cdc-46d6cd0fb833,Hyundai,Azera,2012,New Zealand,357664.3
+08ad6a81-02db-4517-90b1-fb49b0d9e338,Porsche,944,1989,United States,961946.88
+1971a06e-23e7-4e7c-8621-b13c8688c00c,Audi,TT,2005,Indonesia,350449
+a0fde2c2-4ddd-45bc-8463-4c6d509a9cee,Isuzu,Rodeo,2001,China,442093.42
+6059bacf-5d35-4ca3-89c6-89276acf43ec,Lotus,Exige,2010,Sierra Leone,60135.56
+660ab4a9-62cb-4eef-87a9-ec3c9f3dc36c,Nissan,Altima,1994,Morocco,510601.53
+15cb64f2-8e9d-491e-aaf6-e961cce883fe,Porsche,Boxster,2012,Belarus,620572.29
+6de61934-8729-4176-a76b-a0ccdbf0fff8,Ford,Taurus,2004,Uzbekistan,182469.06
+831a01ec-47ef-40f9-8f2a-4ec556f73729,Audi,A6,2009,China,442845.5
+63fcc927-19cf-40a3-ac7c-dfd1b92ef929,Lexus,GS,2004,China,324333.75
+74b7f9a6-155d-4fef-b465-e8d4b0c9e417,Lexus,GS,2004,China,357358.27
+9f5dae29-cf8b-4c82-a4ec-abac4d7e3ace,Lincoln,Town Car,1999,Guatemala,217112.3
+1db56421-f70f-4897-98fb-eb2e254eee8d,Mitsubishi,Chariot,1990,Latvia,319447.27
+66f4635f-f365-4730-8807-f88a8750195a,Suzuki,SJ,1990,Philippines,407558.2
+5674caaa-be8b-43c7-84ee-ab642adfc3e6,Mercedes-Benz,SL-Class,1995,China,385226.57
+a6f8f79f-3750-4286-9297-6c83a8b3ce7e,Ford,Bronco II,1987,Portugal,521016.32
+0bf6c834-a677-43aa-acd6-bab0378fe629,Honda,Passport,2002,Honduras,390598.11
+e060bbcd-dafb-49e9-b26e-2fe99dfd60a9,GMC,2500,1996,Vietnam,846914.42
+5d49a3a4-7f1c-40cb-b064-552cb650af21,Lincoln,Continental,1991,Indonesia,634151.74
+b66eb3ad-fd4b-4b96-a4f6-f3dcb6b21035,BMW,525,2006,China,132115.13
+0a165d08-a7cd-4e04-9857-64abc5f75a65,Mercedes-Benz,CLK-Class,2001,Indonesia,558305.65
+03475fb0-fa63-4b9a-94ff-73f753bea42b,Honda,Civic,1993,China,831471.37
+22d9a2a6-ff7e-4e03-a6d8-aa268a8490bb,Volkswagen,Golf,2006,Canada,529935.65
+9d4a3b68-3f64-4d77-98dd-546e46ac0959,Chevrolet,Monte Carlo,1973,Kosovo,851069.94
+9e0be5a9-8179-4a0c-957a-526a7a669938,Land Rover,LR4,2010,Tanzania,853350.71
+f0f8502c-2313-4113-9351-de0449861792,GMC,Sierra 2500,2010,China,154459.88
+c96d5f51-2359-4c4a-936e-29bcf0addb2e,Mazda,B-Series,2007,Portugal,805583.95
+2c75ba1e-154d-4bc6-a445-328a49b0ae10,Bentley,Azure,2010,Vietnam,432498.11
+e1964538-4ca6-4903-a72d-41c7b9c807b3,Audi,100,1993,Belarus,155306.97
+112e1f55-d844-4e70-bfba-1c8ff01cb6b9,Ford,Taurus,1996,China,703390
+7b9d53f0-2b2d-43d5-8617-e32cb2750670,Lotus,Esprit,1991,United States,538042.74
+1a556012-224b-4b84-b573-3e619f27ccad,Chevrolet,Silverado 2500,2011,China,859968.07
+dafc680f-a599-4cbb-9a87-f44eebfc6c36,Mercury,Monterey,2004,Mexico,663300.48
+bf90d6ba-6ebe-4aa3-ac22-07c6aa419d89,Buick,Coachbuilder,1991,China,24066.57
+2a846d1a-3c61-46b1-856c-6857ea527eb1,Pontiac,Grand Prix,1968,Argentina,809392.15
+8c7bc3c2-3b23-4ae6-b945-41a4a38c625f,BMW,530,2002,Maldives,401234.62
+1699039a-cffe-4f60-bc2f-56e6a8975b30,Chevrolet,Cavalier,1996,China,271209.27
+0bc874a7-2061-4ae6-9622-cb4b325206ff,Cadillac,SRX,2011,Iran,516161.52
+be7eca4c-bc8f-4907-9372-16e2174e123a,Ford,Courier,1987,Sweden,282417.97
+2897cabb-a449-4d5d-9a82-2bacb79ea58c,Nissan,Leaf,2012,Jordan,796359.19
+8a5f8a3f-9196-48cd-909a-9283e0da0603,Volvo,S60,2008,Russia,541144.9
+2f6977ab-168f-4f0f-aa7c-98a897c14261,Saturn,S-Series,2002,China,409318.61
+e900b4c2-1f42-4263-8ed9-5a1951bd5222,Mercedes-Benz,SLK-Class,2008,Palestinian Territory,163567.27
+a36e34b8-a892-483a-9177-158b08cfb242,Buick,LaCrosse,2010,Ukraine,653633.11
+cc0aeb0a-e0dd-4945-a271-3d1aadd3fb89,Toyota,MR2,2004,Philippines,303750.59
+b56c5090-7874-4a51-934c-8713d61b633a,Cadillac,DTS,2011,Canada,809729.84
+7fc8a798-15fa-4bc6-be25-ab00b8254b6b,MINI,Cooper,2009,Indonesia,470235.96
+025d0fc3-7715-4479-a83f-df005fb56940,Jeep,Compass,2010,Albania,385283.21
+b6d0560f-3116-4f95-8994-b0c7a04b172a,Pontiac,Sunbird,1988,Armenia,361796.51
+5f135aff-e550-44f9-b472-52dc386046e2,Bentley,Azure T,2010,Indonesia,680060.12
+c2703cef-6467-4d6a-89de-a8239b1e7ffd,Buick,Reatta,1989,Georgia,268171.13
+ccbe6cb9-7b7e-4a53-93b5-4b0c9fc94e8e,Mercury,Tracer,1991,Portugal,661663.85
+23a42be1-54b8-44ed-bfe5-154e87d367bb,Land Rover,Freelander,2009,Brazil,191052.28
+e52cc3b1-5a10-4ce7-98d2-e87d1371a323,Hyundai,Accent,2007,Netherlands,70985.83
+b7ad1ee7-b842-4811-8854-d12e0b38f645,Buick,Coachbuilder,1993,South Africa,235086.66
+5221a1ad-ae37-4036-b636-deeb45ce0cc2,Chevrolet,Blazer,1995,Argentina,39290.41
+1b818e54-6d35-4b48-be70-a5e6c530266e,Mitsubishi,Precis,1986,Japan,806116.34
+09331a0b-8397-48f3-99ae-9b6682c689ef,Toyota,4Runner,1997,China,311246.56
+bea21d1a-99e7-4836-884b-2e7138645cfd,Buick,Rainier,2006,Colombia,319846.69
+0ce910d6-d338-4284-a4b4-0c906b22dd6a,Ford,E250,2011,Philippines,174041.45
+bb4eb513-7606-4fb7-8cdb-854e08ab45ce,Dodge,Dakota,2007,Mexico,585922.29
+9a620d00-bcdd-4cbf-b94b-16c9662ef1cc,Acura,NSX,1994,China,78321.82
+d8057e70-5d58-45af-b8db-d736acb349e6,Chrysler,Sebring,1997,China,672798.85
+f0a243e1-be9c-4173-87a2-343b0446407c,Chevrolet,Corvette,1972,Philippines,406477.14
+478a3852-bae4-4ae1-b7a0-16d76baa3186,BMW,M3,2003,Poland,875174.23
+2a848ab5-7f30-45b2-9ab9-71560c2aa45e,Ford,Tempo,1984,China,619916.29
+955ebeb8-cb6e-4047-9b03-e2c94112c613,Audi,S6,2010,Germany,13168.7
+8c6dfc8e-932f-48be-8b33-1bd6bfbc48aa,Chevrolet,Corvette,1973,Mexico,907348.14
+b8624e9a-1da9-4987-a174-b103cf1cb116,Isuzu,Trooper,2002,China,495111.09
+53fad672-f7bd-4c4e-9119-8d59e2bb5071,Hyundai,Accent,1995,China,616096.14
+0c854aec-7912-4257-8aa7-793b0c19d655,GMC,Yukon,2008,Indonesia,357187.14
+4fec6609-474f-494a-9a19-817d1ecad600,Mitsubishi,Raider,2009,Colombia,427191.11
+cb63a094-4953-4382-a84b-953704c4884b,Lincoln,Navigator L,2007,Poland,84991.86
+8d3e965c-7ab7-4f1a-a477-f6de0fe2582f,Honda,Fit,2011,France,879284.47
+f22f2035-8065-4e11-99d0-de70edcfcf15,Hyundai,Santa Fe,2006,Philippines,485912.63
+d0d22ae0-774a-4160-86e2-3aea393623eb,Volvo,V40,2004,Indonesia,926532.3
+6068b6a2-8113-4e35-99a3-e1a4e84a3c7c,Chevrolet,Impala,2012,China,475594.48
+0bef1ba8-8676-4af2-b781-c416ca5fddb6,Volkswagen,Passat,2002,Indonesia,262637.07
+6882b123-2f1b-4a7c-9bbf-91ab64bdb3f3,Volkswagen,rio,2001,China,247415.61
+15f85fc2-cea1-4963-9347-7a0ef1e2bbb0,Mitsubishi,Truck,1993,Belarus,217060.37
+05491361-2af5-4b2c-986a-71486d8826b7,Ford,Fusion,2012,Macedonia,425469.99
+0be414a7-8689-4922-87d1-ae20723037d6,Pontiac,Grand Am,2001,Peru,737185.31
+970de303-2153-40ff-86fa-f13cc191f136,Bentley,Continental GTC,2008,Indonesia,48176.49
+b153f9f6-906c-4bf6-96d1-b30f6072569f,Mercedes-Benz,300SE,1992,Kenya,523396.5
+3ea1caeb-b214-4552-9b27-2c6f409511e0,Ford,Freestar,2006,Russia,953597.97
+479cf5b0-abd2-444e-ae83-461002f288e2,Nissan,Armada,2010,Kyrgyzstan,435846.8
+e15e7ffb-309f-4ca7-ae8f-522ffb4b7441,Mercedes-Benz,300SL,1992,Peru,658760.29
+046cc511-0318-4ea9-a300-ec46b01d358e,Mitsubishi,Outlander,2010,Indonesia,920023.74
+d8912141-c4e2-440f-aa97-88effa9cd8f3,Mitsubishi,Mirage,1985,China,742324.88
+35664ec2-adae-44a9-83ea-c29723f7bcba,Infiniti,M,2006,China,912960.88
+56255478-9a11-491c-bd79-72549be23f3d,Mercury,Marauder,2004,Canada,329103.75
+a919dd39-3553-4e3e-a549-a06b23480b29,Isuzu,Rodeo,1999,China,255328.31
+26883fe4-3d5f-4508-964d-84e0d2b40c1d,Mazda,Mazdaspeed 3,2007,Slovenia,540496.16
+1a737de2-9b0f-4ae6-ad89-1517b1180b67,Chevrolet,Silverado 1500,2007,Indonesia,763161.89
+98f58507-00fa-4513-adb1-c9e360754a05,Hyundai,Sonata,2006,Sweden,854052.63
+44b9f7bd-2911-4456-b97a-c1d97a418572,Jeep,Grand Cherokee,2007,Armenia,498159.56
+8da2f565-321d-4c6a-8f5d-2003c550d04c,Chevrolet,Avalanche 1500,2006,Spain,799698.21
+81b59b4e-59e6-4ed0-af45-73b0cf9ac229,Isuzu,Rodeo,1995,Portugal,221207.06
+07a9fcc9-4e0e-4a59-a359-be01a6f57299,Suzuki,Grand Vitara,1999,Zambia,23629.2
+f4da4d63-4f94-430c-96e6-bf4dfbb904b5,Cadillac,SRX,2004,Chile,391322.43
+b61b793d-73ff-4497-a30e-d2ffceee3c49,Dodge,D150,1992,Philippines,191347.44
+8de43fea-0118-421b-92c3-f2dbd5f74a38,Audi,80/90,1988,France,388511.21
+4a48a3b0-6e0e-4345-a785-2cdd529a93e9,Chevrolet,Malibu,2006,Colombia,798078.23
+2df2b962-2c82-4250-8825-cb779509f63d,Isuzu,Trooper,1998,Russia,435748.53
+2810b269-18b3-4944-9ae5-702a15f2c3c4,Ford,Edge,2012,China,809993
+c93ea8d9-fc1f-44de-9f39-e6972274ff7f,Lexus,RX,2001,Indonesia,70230.88
+9d8dcf1e-ae2a-4945-ae2d-687b7eafd88f,Lexus,RX,2001,Kenya,218899.56
+13b3206e-8401-40d4-8989-64169099ab13,Infiniti,I,2003,Belarus,656441.07
+1219a033-a1ec-47fb-aad8-2153d5bef141,Ford,Crown Victoria,2006,Finland,907419.26
+d93899aa-9745-42ae-b95c-a09d137ca606,Jeep,Cherokee,1993,Bolivia,692885.44
+e11831f2-50ab-4217-9a4d-c536da74575c,Isuzu,Ascender,2006,Brazil,235702.4
+bf34629e-0674-43b5-8795-302e4adbee51,Porsche,Panamera,2012,Indonesia,664456.42
+7e2d920f-9638-412f-918a-2180a7811cf5,Toyota,Yaris,2010,Turkmenistan,912030.42
+4384ef6c-51a8-4df6-953a-52df6faca0ff,Aston Martin,Vantage,2006,Sri Lanka,203318.04
+04d99de9-2680-48d6-ad46-32635f029bdf,Dodge,D250 Club,1992,Brazil,227132.43
+af60e205-7023-402a-95e8-8420fd462590,Hyundai,Excel,1992,Brazil,328000.66
+56296fbf-97dc-40d7-a268-1f84d6089c89,Pontiac,GTO,1970,Hungary,803358.28
+42193079-3472-4180-bd42-e75189b0520f,Toyota,Tacoma Xtra,2003,Russia,431876.53
+fd87add1-1f18-4d77-a3a2-1ee0ab7a143c,Mazda,Miata MX-5,2008,Philippines,619190.1
+6ce7a9cd-532e-4590-a782-5bb8f54c733e,Pontiac,Grand Prix,1965,Brazil,711391.46
+98abe97a-8dd6-4ec5-b3e2-8605a3bcb20f,Hyundai,Tucson,2008,Czech Republic,5385.63
+43970eb0-6c2a-4e13-b67d-8c8169db6dba,Volkswagen,Eurovan,1995,China,868647.45
+1e1ceb2e-716d-4df1-8539-1e89e9c83d72,Pontiac,Bonneville,1985,China,256426.4
+8ceb7445-7d7a-4d18-adcb-73777b8ba9e4,Chevrolet,Silverado 3500,2010,Venezuela,430689.89
+1f353527-8af4-4317-9971-53e88ae7a3d1,Chevrolet,Corvette,1993,China,463059.08
+cbce440d-c2a2-4339-9982-17b4881cf869,Mazda,MX-5,1993,Philippines,961424.55
+8a0527d7-8857-4fd6-a6e6-900ff2b67b34,Acura,CL,2001,Indonesia,658487.22
+c70042d4-923c-4e12-9da2-0b1044b403c2,Infiniti,QX56,2011,Russia,788260.43
+ebeb212f-8490-435d-8102-19cf6518052f,Land Rover,Range Rover Classic,1993,Cameroon,583899.09
+53a537ad-f0fd-4cea-b565-018729916927,Lexus,GS,2011,Indonesia,751721.55
+3d5551aa-3895-43f8-b53f-b5a200441409,Daewoo,Lanos,2002,Indonesia,999323.46
+2a6124ae-dfd6-4438-844f-0c4bee0f8122,Saab,900,1989,Colombia,436432.04
+b4d3b9c3-0564-479e-83ea-ba73678e2b30,Oldsmobile,Silhouette,2003,Peru,477152.22
+e35d081b-1092-4e0a-a3b4-139c87db3d2f,Pontiac,Solstice,2008,Jamaica,452737.19
+d486bbd2-a3ac-443d-aafd-af74e23d17a7,Audi,A7,2012,Portugal,712985.71
+d613a405-d53d-47b2-89e6-569d64a0eec8,Audi,R8,2010,Poland,8090.2
+114f9258-d3dc-4f73-85e3-cb2ee9cb8142,Hyundai,Accent,2007,Brazil,324201
+47738733-7de3-4a24-b45d-ce59cb30ddb2,Chevrolet,3500,1996,Kenya,616331.01
+08f56957-92b3-4a6d-99da-8d95cdf9aab7,Pontiac,Solstice,2008,Panama,616443.44
+7b155864-3943-4fda-9b46-ed1c3d3a7d5f,Jeep,Wrangler,2010,Libya,848183.86
+edcb860b-9861-45a0-8075-52f3d09d5e4a,Land Rover,Freelander,2004,China,213444.27
+b290290c-6961-4d8e-9652-21e1b2701d43,BMW,3 Series,2000,Kazakhstan,390780.5
+f0978ae6-a1f6-408d-ab61-82810b66b0ce,Ford,F-Series Super Duty,2008,Poland,207473.87
+890dcff0-f6f6-4282-9f3b-2e4f7cf6eee1,Mazda,Protege,1996,Namibia,476184.55
+ad9de28d-d623-4d02-a47a-6b8a0da3b510,Ford,Tempo,1991,Iraq,926251.67
+cd794ad4-9f4b-435b-a6fc-f2691d23af4f,GMC,Jimmy,1993,Mayotte,819888.18
+2afc6537-90f7-4261-900c-0bf578d1c10f,Porsche,944,1984,Indonesia,332414.51
+f99a955b-db7c-4e47-a3bf-f8907fe282c7,Chevrolet,Suburban 1500,2012,France,934906.24
+1e5bbcd9-7e72-41bb-9bb5-55f5340c6349,Mitsubishi,Sigma,1989,Mali,227619.62
+606b92dd-2d8f-4ff9-a029-162ccdfee10a,Buick,Skylark,1993,Philippines,666925.93
+f792ba96-c21f-413a-93bf-57b7c2ba0443,GMC,Jimmy,2001,Colombia,46810.05
+8eb035b0-b453-4aea-b972-ce9999216c59,Mercury,Topaz,1993,Czech Republic,772074.3
+187d6f58-24e8-492b-9db1-6a1e91f10fc9,Ford,E250,2010,Greece,837858.65
+ca9abb5a-17b2-48f0-83f0-706f72dd0da7,Nissan,JUKE,2012,France,56756.87
+6cc10ca1-ad78-4a5d-b98f-ec316705c5b8,Lotus,Elise,2010,China,623679.36
+a40e7114-e075-445a-b83d-5d2f45b7684b,Cadillac,Escalade EXT,2003,France,403495.34
+7c15148f-3d6e-4276-a6b5-7105acfeda0d,Chevrolet,Equinox,2008,China,861889.68
+c6760a4e-e847-4736-8174-9acf9a7239d7,Dodge,Caliber,2008,Bangladesh,984775.73
+44c315fd-e57a-4988-ad63-ff8b21a9a512,Buick,Riviera,1998,Japan,499198.83
+0ed0c528-adbc-4fda-8a53-594b750eb2af,Mercedes-Benz,M-Class,2002,Honduras,84386.87
+5d91b676-8701-4745-acf3-c6cbc2cbbb28,Mitsubishi,Outlander,2008,Czech Republic,816055.34
+3fd93084-07a2-45a3-81f4-fa9ac1581543,GMC,Yukon XL 2500,2004,United States,586495
+023b29e5-d1c6-41be-91c6-71e19f98b6c9,Toyota,Sequoia,2011,Argentina,995813.91
+d8cab521-20db-4014-a082-61fb4b6361f4,Mitsubishi,Tredia,1985,China,710151.76
+38ff6eee-7d23-4960-96fb-191b6d771674,Saab,9000,1999,Portugal,457571.53
+90e2c9fe-58d6-4925-8304-9c495e16924d,Audi,90,1995,Nepal,444957.14
+839c6e92-7c88-401b-ac54-d381e8bf69ea,Ford,Festiva,1992,Brazil,555399.47
+3a786962-aada-4e23-873f-c7930960d6a3,Eagle,Talon,1991,Ecuador,522332.65
+c7cccebe-2c56-47ae-80e4-9ac5cc3c3157,Lincoln,Continental,1993,South Korea,6475.57
+320f21cf-1f07-4398-94c7-54e8f0d55202,Cadillac,Escalade,1999,Ukraine,434226.67
+03695302-1349-4c3d-9a03-1aec1081e73d,Mazda,MPV,1991,Yemen,497092.3
+c8007c81-6523-471f-84f2-0e4141750141,Mazda,Protege,2000,Bangladesh,144576.21
+35b3de2a-80db-4147-a092-7c362cbaf43b,Volkswagen,GLI,2008,Russia,961336.91
+775d66e2-4b23-4a54-8cc5-b43386f1d601,BMW,6 Series,2006,Nigeria,438478.02
+6f19a0c4-468b-4a99-bdec-5622c11f932e,Oldsmobile,88,1999,Kenya,513804.16
+4bc106b9-f941-45d8-9a15-21e6acb3dce0,Mazda,Familia,1992,Ukraine,613302.72
+fb644c0b-cce6-4d97-9bf3-c6572a4cb83b,Hyundai,Sonata,2002,Brazil,273997.79
+8e5468e8-de70-4bca-9504-262235824916,Cadillac,Seville,1992,Indonesia,345982.88
+1bb2adb9-1541-4360-b91f-54e20a6c2a17,Nissan,240SX,1993,Brazil,345001.64
+86065156-3760-4ff4-9afa-da7e965e7032,Pontiac,Sunbird,1985,Brazil,703971.08
+ddc39af3-9286-4c0b-a8f5-051ba0c23c98,Pontiac,Vibe,2009,Poland,992809
+726fc92d-4756-41fe-9d2e-8937bad8c1ea,Mercury,Cougar,1991,Armenia,949303.9
+0a314885-2e37-4991-9f1e-ec9d74627383,Dodge,Caravan,2000,Poland,892260.05
+0ae3dc0d-05ef-4b8d-bcd3-77f244b3ad62,Jeep,Wrangler,2010,China,92822.58
+41b6d08c-fd1c-47ed-a316-80bd61724937,Toyota,Celica,1982,Russia,815197.56
+1b3403a7-79b8-4129-b213-3ec6b4b4caf8,Hyundai,Entourage,2007,United States,42264.5
+2a912153-af4c-49b8-a681-d5680d48e3cf,Audi,4000CS Quattro,1986,China,646440.99
+4eb6e803-be0e-48bc-a9b5-145b51fd660a,Honda,CR-V,2002,Indonesia,937818.32
+a967efba-22b1-4e5a-b313-c64037e1366d,Toyota,MR2,2001,Japan,128192.54
+78199a26-ca88-45a2-a9a3-2cbd9db4e9d9,Dodge,Ram Van B250,1993,China,775790.13
+8e6eb315-ece9-449a-a59d-c5706bd53813,Pontiac,Bonneville,1995,Japan,324807.5
+005491d8-654c-4689-9a04-00a13b5e4591,Cadillac,Seville,1997,Philippines,614775.45
+7f1620bf-9586-44d5-9db9-e2d57598a1b1,Aston Martin,DB9,2005,China,388706.39
+3108ee4b-f2df-472a-8d36-a60b1f407f4e,Toyota,Tundra,2007,Afghanistan,745303.2
+fa9c86d0-f98a-4f1b-a45b-6d49fe1f9127,Audi,V8,1990,Lesotho,785113.78
+291946a0-9913-49a5-a91e-3838ef61d332,Ford,E150,2012,Sweden,843607.62
+ce02180a-8c83-47d7-ab22-05d135f526ed,Mazda,626,1991,France,46739.76
+846545be-2454-4e36-b0e2-ae80dccc10ca,Holden,VS Commodore,1997,Indonesia,13470.44
+7d230d8b-0e22-4023-9404-5cd5a8fd3006,Maserati,Gran Sport,2006,Portugal,749851.21
+e78ca50f-939f-41e1-8ed1-219d471a4ec8,Chevrolet,Suburban,2007,Indonesia,118185.11
+7198efac-d63c-4261-b75b-ff570a30a9e1,Pontiac,Aztek,2003,Philippines,23536.17
+47a0053b-5343-461a-bb19-f6e625c45035,Chevrolet,HHR,2009,Colombia,196302.5
+4cf49997-5cf4-45aa-a295-2e8711d1334a,Volkswagen,rio,1997,Canada,564830.91
+efa2cb7d-4af4-43fd-9afd-28f0001b1cb9,Honda,Civic,1997,Greece,53464.26
+bfc346e6-094b-4f62-9932-a4cf3f3b887c,Mazda,B-Series,2004,Tunisia,755545.13
+4280e897-c6b0-4e63-a83e-4ad2cd0888b8,Ford,Explorer,2008,Brazil,173537.87
+ceda318e-586d-4196-b42f-8dbc91c71856,Oldsmobile,Silhouette,1997,Bosnia and Herzegovina,380332.66
+9a937fff-2f5e-492f-b630-ed4a3108b111,Ford,Crown Victoria,1995,Mexico,806865.02
+e7d1ed43-8892-48c0-9925-46c413c91547,Toyota,Celica,2002,Peru,49517.55
+2043590d-7532-4915-9f00-8e18d43240a0,Chevrolet,Suburban 2500,2006,Norway,282676.16
+e9faa0b2-9e27-4de4-b338-e90268c4f5ff,Dodge,Dakota,2011,Ghana,361756.54
+9f004d09-e910-47bc-a69a-ab51bb692cb1,Mercury,Sable,1992,Brazil,685151.71
+dc34ee89-73d4-4b88-8c1c-d309407f10a4,Maserati,Karif,1989,China,420384.43
+92fd0331-d0b1-41fc-9ed8-666ee0e39aa8,Ford,Thunderbird,1985,Indonesia,441900.85
+094b51fb-b155-4769-a997-4174f447cd03,Mazda,Millenia,2000,Portugal,807121.32
+2514b201-06f1-402a-aaeb-8587722b8fbf,Pontiac,LeMans,1968,Indonesia,527231.79
+d959c927-ad24-448b-8458-408437650d9d,Chevrolet,Express 2500,2012,Ukraine,268466.41
+babdf048-35dc-46ba-98c0-b9b3a03e7211,Ferrari,430 Scuderia,2009,Russia,749956.93
+25add121-678c-4519-abed-199ccb5e0393,Pontiac,Torrent,2009,China,707082.82
+e5b73607-793c-49f4-9c63-52ae50a00753,Plymouth,Prowler,2000,Brazil,166957.98
+55df6d5e-96f3-470f-8780-54ec0bb19bb8,Audi,Quattro,1993,France,419616.14
+81627131-928a-49ed-8f6a-481a9bccf2c2,Isuzu,Trooper,2002,Ukraine,454706.66
+b1dd8f16-cc24-420d-ac6a-70e3650a9d46,Mazda,MX-6,1991,South Africa,823224.27
+e49015bf-c705-498f-862a-351f258a4064,Saab,9-7X,2007,Russia,794166.08
+96ea2c24-df95-487a-9821-ac40acabee54,Lincoln,MKZ,2008,China,24024.09
+4f66ff98-2fa8-4b32-acd8-36220d78ad9e,GMC,Yukon XL 2500,2012,China,24925.57
+1d073f04-84e9-4b63-8c57-c142677e9d53,Ford,Bronco,1994,Bangladesh,7912.01
+871f58bb-c082-4135-af2d-db52b77f91e0,Porsche,944,1989,Venezuela,752180.68
+51c1e2cc-c228-42e7-9305-ff9f6f875281,Cadillac,Escalade,2000,Poland,890004.73
+c9a9ec29-d44a-4e0f-a1cc-7fa0ce7f53f0,Mazda,RX-7,1990,Indonesia,609119.42
+22741014-92ae-42c6-995b-b548de6c81f9,Pontiac,Gemini,1986,Portugal,19883.95
+4be16c3a-580e-48d1-9be0-74965028e4df,Chevrolet,Corvette,1978,China,474603.11
+5027ba77-1aca-48bc-b2b9-acc409047c37,Lamborghini,Murciélago,2007,Albania,318358.81
+c87a24ba-5236-4af5-9c5b-4225fe20a79e,Infiniti,QX56,2010,Canada,350447.69
+ea2a740f-c9af-4351-ab8c-860aa9da47d8,Ford,F350,1997,China,355038.48
+ca2a4c35-4fbb-4d3c-99da-9c6f20191803,Honda,Prelude,1998,Brazil,521059.22
+918dc106-bc3e-44c0-b8cd-16fce563edd7,Cadillac,SRX,2012,Indonesia,12240.48
+5412c2ec-5391-4281-97ae-c556820f0dc4,BMW,6 Series,2007,China,779968.38
+dc621dc1-ae0e-4e0c-abab-f3fb0ea068ed,Mitsubishi,Precis,1990,Portugal,378268.89
+1e70f8e0-1841-4b9b-9995-bd2e8b361501,Oldsmobile,Intrigue,1999,China,598056.31
+bcec440c-3f51-442d-af26-634aac8f03ee,Toyota,Sienna,2001,China,427197.28
+438fd29e-29f9-46f5-8b1d-cf1aad7ceab3,Porsche,928,1994,Czech Republic,954260.74
+4312a937-f998-4553-b321-a55facd97aea,Hyundai,Accent,2002,United States,431807.74
+1bdb2bcc-56dc-4aa2-b293-0525c3776831,Suzuki,Swift,1998,China,571532.82
+ed62bc42-f004-4c24-bec5-9e56336da5ab,Hyundai,Tiburon,2008,Zimbabwe,738518.37
+666c7a8a-c627-4fdd-a1ca-945749f9ff64,Mercedes-Benz,SLS AMG,2011,France,159626.42
+cd37a2ea-c730-460b-8695-28e4e2687880,Chevrolet,Suburban 2500,1997,United States,70621.2
+efd48e52-450c-4a43-bc89-7a4ff6aa0e0b,Chevrolet,G-Series 2500,1998,Colombia,598153.83
+53dd26a0-d641-4be0-87f4-8a04b12e86ef,Mercedes-Benz,GL-Class,2012,Philippines,438838.21
+409386f4-efd4-4478-9af9-0596074f17e4,BMW,645,2005,United States,844306.4
+76524065-bb6e-4d0c-b8b0-e6f30557d310,Lexus,LS,2008,Uganda,612259.86
+f5de66c3-826f-499e-9ed5-b835868e54ad,Mitsubishi,Lancer,2010,Sierra Leone,395708.58
+7108c04f-aefc-4603-bf5e-5d583969b6ef,Maserati,Biturbo,1986,New Zealand,602290.06
+cc0326d9-7c05-481c-a5b1-55b490f6c700,Chevrolet,Corvette,1966,Indonesia,435199.46
+d06a5196-127d-4177-a721-c087c7c5d664,Mitsubishi,Challenger,1997,Philippines,880300.04
+2438dc97-c24e-4220-b3a9-329d4977b49d,Dodge,Dakota,1992,Philippines,101481.4
+731f8f47-220f-4e4a-a587-8c6e4d6e31ac,Oldsmobile,LSS,1997,Indonesia,201798.13
+6111f797-c432-495a-acfd-269b3f78243c,Chevrolet,Volt,2012,China,160469.35
+ab0e4cd4-48ac-4097-9f3c-348881b7d731,Mercedes-Benz,E-Class,2001,Portugal,270081.87
+1c6ee01a-0fe9-4697-b9ba-ab00ceb4370e,Ford,Thunderbird,1980,Brazil,242086.56
+ff1e79e1-4a8d-41ec-b85d-7ea224d02e6f,Chrysler,PT Cruiser,2004,China,112374.68
+42a0e59c-e791-4239-9532-9f408b18aec8,Chevrolet,Metro,2000,Brazil,73778.68
+ae2a6c94-511d-4346-92ea-a06fff3a6b25,Mercedes-Benz,W201,1988,Brazil,940984.92
+8a8f7842-ef46-4237-a7f1-ab0d922347c2,Ford,Galaxie,1964,China,643580.35
+bb280744-e257-4292-9782-8d9855cb8342,Hyundai,Azera,2007,Albania,714366.09
+a0ba69e0-28aa-4c69-a10a-5e71c18c3f86,Kia,Spectra,2006,Belgium,281519.92
+bad3eca5-cbe4-436f-bced-2c845dc98f7b,Hyundai,Excel,1994,Poland,844936.97
+7c95b99d-23c5-40cb-8323-5de6b2c6240c,Chrysler,Aspen,2007,Poland,653880.85
+231e2678-79b6-4e39-8b66-789bfd553758,Bentley,Azure,2009,Vietnam,951025.87
+1b03222d-3138-4770-b558-541e7d0b1db8,GMC,1500,1998,Russia,405758.74
+9b423836-bb7e-4944-8f7c-50f69331e989,Acura,TSX,2011,Greece,594625.67
+0cca3c34-bb54-45aa-a86a-4142efb445b2,Infiniti,Q,2004,Poland,645395.11
+79b28556-897f-435b-bcf1-9a5ba498ec72,Mercury,Milan,2010,France,532868.57
+cb675cfd-6698-44da-a07b-25bb09109591,Volkswagen,Passat,2007,Philippines,123891.26
+b0c2004e-988c-4527-9855-841c7bc548ce,Saturn,L-Series,2001,Indonesia,580728.77
+2775e30a-bb73-4c5e-8987-0f4ce1d59606,Mercury,Villager,1994,Mexico,445403.32
+0afba4a4-94f2-4ed1-ad55-8216f8512656,Honda,Prelude,1986,China,469005.6
+348ef4f8-a24a-42b7-93b4-3320284b771b,Jaguar,S-Type,2008,China,75933.03
+6edefe16-da4e-48cf-b83c-0ec3a2ddcda0,Mazda,B-Series,1998,Brazil,623396.32
+1969a45e-f956-42d2-ab46-f6ede3bf33c2,Ford,Lightning,1994,Russia,261410.63
+16aef506-5316-4605-b39d-9dd602718f8c,Honda,Civic,2002,Albania,481219.65
+19463d6b-1de7-436b-a311-2518b892c55e,Mitsubishi,Galant,1997,Indonesia,303916.28
+240170c4-ec69-46d6-9f66-c8ced05838bd,Plymouth,Colt Vista,1994,Japan,828119.76
+f243bb1c-1663-4b18-8bc3-b4e6ae251188,Chevrolet,S10 Blazer,1992,China,800990.74
+6d76191f-eb8d-4fa9-bcd7-237a87cd0129,Mercedes-Benz,300D,1992,Poland,974636.29
+1eda8df4-93d6-467e-beaf-d61884ca66ee,Dodge,Avenger,2012,Brazil,604591.61
+79ae0249-117d-4cd4-ab9b-3fd430e66035,Shelby,GT350,1969,Indonesia,762501.54
+d2458af1-835d-44c3-944c-9093766c6ba1,Mercury,Capri,1986,New Zealand,956180.49
+bc946399-43ea-4012-97cc-d1035c2169dc,Saab,900,1999,Poland,936432.36
+9825ab25-316f-4e89-bad0-1c0a232d6b70,Chevrolet,Impala,2007,Malaysia,504177.99
+95b4031c-eec4-4e2a-9162-ba3d49287333,Cadillac,CTS,2005,Venezuela,711247.3
+dbee9248-9c45-4e72-bb8c-727e781d3af3,Plymouth,Voyager,1992,Indonesia,325906.55
+5ef981c1-e467-4f13-aaa1-fb6812b78e94,Volkswagen,GTI,1985,Portugal,998703.04
+96d76c42-2c0d-447c-be2d-785cb198b96c,Mitsubishi,Sigma,1989,Russia,156261.97
+882c2c20-4dae-41bc-b85e-16cf7c7a8bcd,Lexus,ES,1997,Syria,895146.48
+57f7d2fc-6e9f-4a02-8321-16cb7abfcdce,Mercedes-Benz,600SEL,1993,Canada,627327.78
+90e1f409-f1e2-4941-bae1-7ce6baef2908,Oldsmobile,Silhouette,1992,Portugal,469933
+6a489bc0-a6a6-411d-8a43-e60c7f781958,Saturn,Aura,2009,Japan,458379.2
+91d38d50-0497-4130-8d7f-e62c30ef6a76,Chevrolet,1500,1995,China,302505.91
+30df1ea0-389a-4e4c-9da8-043c1004bab3,Mitsubishi,Mirage,1985,Poland,974235.9
+47987403-5ec9-4882-b1b9-8430cb88ef27,Isuzu,Amigo,1999,France,172466.69
+3c0417f9-e876-48b6-82dc-4756bc51a6d8,Pontiac,Sunbird,1991,Brazil,74978.71
+c0c2cfb4-d5b3-4194-beec-346c8eeb8b6b,Mitsubishi,Diamante,1995,Argentina,231084.22
+7d0c25e6-0882-47cb-8b5e-2400577e5f13,Eagle,Summit,1995,Costa Rica,874613.59
+6de7c0a7-d88d-4d1a-a7e2-a34ce03c439d,Volkswagen,Routan,2011,Kenya,793298.45
+22e5fc4a-63be-4547-b866-7c43777cbfb0,Ford,Escort,1998,Colombia,729565.89
+4e60859f-562a-41b5-80ea-e626f9ba9e23,Mercedes-Benz,C-Class,1998,Indonesia,756953.88
+6380816b-ca3f-4814-a054-3fb04c7879d2,BMW,M3,2012,Argentina,145967.29
+a9e2731f-e472-4ea9-882e-548ba6ea0165,Dodge,Viper,2002,Russia,895552.14
+41633310-cc7b-4af5-a35f-ad0ce502a6de,Porsche,911,2005,Philippines,856052.2
+bf04e837-291d-4435-9501-c8cb57d678ca,Honda,Fit,2008,Vietnam,568733.37
+21e414a7-d317-43e2-b3ba-7cce64eed0ff,Hyundai,Santa Fe,2007,Canada,795505.7
+6562d337-a202-40cd-84ac-d461d9da0092,Pontiac,Bonneville,1966,France,196977.98
+7f881ae9-3d1f-4fa1-a6d4-1f098fd7a862,Buick,Reatta,1991,Sweden,463254.77
+440803e1-5dda-4bb9-8aea-558a7671cb70,Mitsubishi,Mighty Max,1986,Indonesia,347000.54
+35a5f1f5-6bad-44c9-80b3-a2b7904eee73,Acura,CL,1998,Indonesia,117730.88
+e52d442a-815e-490b-8577-b70fffdd727e,Isuzu,Trooper,2000,Poland,869213.39
+c7778394-eed6-4f73-8c4e-76946032284a,GMC,Yukon,2007,Somalia,265147.46
+43259552-07b6-49e0-ad1f-5ec097558f62,Dodge,Ram 1500,2008,Thailand,301866.07
+38239cfa-9de2-44c9-bc26-187fcd8469b6,GMC,Sierra 3500,2004,Russia,99638.86
+d4f0605b-7679-483d-9ae3-2b33a880add8,Ford,E350,2009,China,530465.89
+7f5d8323-fb4d-4904-82e6-66257f3f77f4,Acura,Integra,1994,Colombia,77029.79
+e2c91ba9-bc99-42e5-a2d7-f8d51a04f893,GMC,Sierra 1500,2002,Argentina,315308.89
+423458e5-9a04-4267-bf2d-5df2c67620ba,Volkswagen,Routan,2012,Poland,531503.29
+9206d986-cb10-4c88-8f21-bbb74d1bb316,Hummer,H3,2006,Palestinian Territory,725933.57
+7b7691ac-6fbe-4195-b3f2-94b03c50c4ca,Toyota,Paseo,1994,Thailand,717383.87
+a117f9be-8838-47b2-9953-a7fda3a6544b,Kia,Sorento,2007,Indonesia,787322.35
+bdeea325-e18b-46cb-8238-19e858926e12,Ford,Aerostar,1986,Peru,703368.05
+80cbff89-087b-47a1-b568-6c0e717191dd,Chevrolet,Equinox,2006,Indonesia,670170.42
+42284910-9467-4deb-bc5b-d4879891571d,Lincoln,Town Car,2005,Philippines,643906.67
+f5755956-da94-44e1-bf87-4e003e5b6b59,Buick,Regal,1988,Czech Republic,468930.56
+7adcdf11-e0dd-4172-ae5e-44bb0640d567,Nissan,370Z,2009,Turkey,546153.1
+eee2ea6d-8e48-41ad-a834-2d3800518820,Toyota,4Runner,2011,Poland,163960.1
+55390cb5-9e0c-4315-be4e-ec24fb6694e0,Chevrolet,Impala,1994,China,806227.71
+c5c4fa02-7f0e-4f59-8fa6-6e7d4bd7baf2,GMC,Yukon XL 2500,2008,China,443633.5
+915905f2-b772-45e9-a77a-26a2b8f6f167,Chevrolet,Caprice Classic,1995,Mongolia,107157.42
+e969a2ea-ad45-4c32-bfd8-d89b1f6e8d57,Aston Martin,Vanquish S,2006,China,98602.73
+4daf5e79-1190-4bf9-a166-43b7829034a4,Toyota,Tacoma,2004,United States,505318.24
+58f7c0a7-cbb8-4c7c-8cd5-7a315ac6e9d3,Mitsubishi,Sigma,1990,Maldives,854124.65
+856d6686-efe0-4381-a562-8e67b63da0eb,Volkswagen,GTI,1988,Saint Kitts and Nevis,864994.5
+a0d3e79b-de5f-4ea9-a7a6-626ed82c44b1,Ford,Bronco,1995,China,403692.29
+21a70fba-b473-4a87-b476-71e6e2cf1c17,Chrysler,300M,1999,Philippines,832545.27
+33483fc6-f977-44ab-bdc8-cd9760b9d499,Lexus,IS F,2011,Philippines,91352.14
+57765bf8-3337-4c22-9d45-05a988aa4b30,Ford,Thunderbird,1987,Vietnam,196128.8
+d948ff74-ce61-4ce7-92a6-8a9ea5c50380,Mitsubishi,Excel,1989,France,907476.82
+54322acf-e14a-4e4f-a093-19fc9db5c68a,Pontiac,GTO,1967,Colombia,24835.53
+8a78aae4-8c7d-4e4c-b605-dfd9d643d9c5,BMW,Z3,1998,China,416782.44
+a90ca413-2550-415a-8572-da24abff735d,Pontiac,Bonneville,2004,France,489270.95
+65ec9209-a201-4bc7-afa7-d9b32b3e86bc,Chrysler,Town & Country,2006,Sweden,474257.13
+a5befff0-69dd-498c-8081-94b39e3d6362,Chevrolet,Silverado 1500,2002,China,397278.32
+f9984c9c-01d8-437f-b409-27d322f1d042,Chevrolet,Impala,1994,Poland,690642.58
+8631963e-0cd3-406f-aa1d-2ed35d9d58ff,Subaru,Legacy,2004,Kazakhstan,810410.62
+711c3d92-b478-47b2-a21a-3958719676a2,Mazda,B-Series,1999,Portugal,561122.96
+658d474a-ccfe-482d-8af6-d7a9e79e04f3,Lincoln,Navigator,2011,Ecuador,682239.06
