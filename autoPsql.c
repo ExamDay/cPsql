@@ -1,11 +1,11 @@
 #define _GNU_SOURCE
-#include <stdio.h>
+#include <ctype.h>
 #include <getopt.h>
+#include <libpq-fe.h>
+#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <libpq-fe.h>
 #include <unistd.h>
-#include <ctype.h>
 
 // globals //
 PGconn *CONN;
@@ -26,7 +26,7 @@ void main(int argc, char *argv[]) {
     char table[64];
     char file[64];
     char password[1024] = "";
-    if (argc >= 2 ) {  // get connection information from command line arguments:
+    if (argc >= 2) { // get connection information from command line arguments:
         int inputs = 0;
         int option;
         while ((option = getopt(argc, argv, ":h:p:r:d:a:t:f:")) != -1) {
@@ -56,11 +56,12 @@ void main(int argc, char *argv[]) {
         }
         // need all parameters or none of them
         if (inputs < 7) {
-            printf("\n\nhost, port, role, database, table, filename, and password required.\n(-h -p -r -d -t -f and -a respectively)\n");
+            printf("\n\nhost, port, role, database, table, filename, and password required.\n(-h "
+                   "-p -r -d -t -f and -a respectively)\n");
             graceful_exit();
         }
-        if (inputs > 7 ) {
-            printf("\n\ntoo many arguments\n(only -h -p -r -d -t -f and -a permitted)\n");
+        if (inputs > 7) {
+            printf("\n\nToo many arguments\n(only -h -p -r -d -t -f and -a implimented).\n");
             graceful_exit();
         }
     } else {
@@ -89,7 +90,8 @@ void main(int argc, char *argv[]) {
         sprintf(passArg, " password=%s", password);
         strcat(pgArg, passArg);
     }
-    CONN = PQconnectdb(pgArg);  // connect to database with arg-string like: (host=XXX port=XXX user=XXX database=XXX [password=XXX])
+    CONN = PQconnectdb(pgArg); // connect to database with arg-string like: (host=XXX port=XXX
+                               // user=XXX database=XXX [password=XXX])
     if (PQstatus(CONN) == CONNECTION_BAD) {
         printf("Connection to database failed: %s\n", PQerrorMessage(CONN));
         graceful_exit();
@@ -127,14 +129,15 @@ void sql(char SQLcommand[]) {
 }
 
 int psql_send_chunk(char copyCommandStr[], char buffer[]) {
-    RESULT = PQexec(CONN, copyCommandStr); // open copy stream to postgres
+    RESULT = PQexec(CONN, copyCommandStr);         // open copy stream to postgres
     if (PQresultStatus(RESULT) == PGRES_COPY_IN) { // check to make sure it's open
         PQclear(RESULT);
     } else {
         printf("\nERROR: could not open copy stream\n");
         return 0;
     }
-    if (PQputCopyData(CONN, buffer, strlen(buffer)) == 0) { // send buffer to postgres to be copied and check it worked
+    if (PQputCopyData(CONN, buffer, strlen(buffer)) ==
+        0) { // send buffer to postgres to be copied and check it worked
         printf("\nERROR: could not putCopyData\n");
         return 0;
     }
@@ -160,7 +163,8 @@ int psql_copy(char tableName[], char fileName[], int chunkSize) {
     int file_size = ftell(fpointer);
     fseek(fpointer, 0L, SEEK_SET); // reset cursor to beginning of file
     // construct command for opening  copy stream like: "COPY table_name FROM STDIN DELIMITER "," ;"
-    int command_str_length = 32 + strlen(tableName); // 32 for characters of command string wihout table_name.
+    int command_str_length =
+        32 + strlen(tableName); // 32 for characters of command string wihout table_name.
     char copy_command_str[command_str_length];
     sprintf(copy_command_str, "COPY %s FROM STDIN DELIMITER ',' CSV HEADER;", tableName);
     // set up for getting header
@@ -192,7 +196,8 @@ int psql_copy(char tableName[], char fileName[], int chunkSize) {
     strcpy(temp_buffer, "");
     temp_buffer = realloc(temp_buffer, capacity);
     // -- get and send chunks -- //
-    sprintf(copy_command_str, "COPY %s FROM STDIN DELIMITER ',';", tableName); // remove CSV HEADER from copy comand
+    sprintf(copy_command_str, "COPY %s FROM STDIN DELIMITER ',';",
+            tableName); // remove CSV HEADER from copy comand
     while (ftell(fpointer) < file_size) {
         while ((characters_read = getline(&line, &len, fpointer)) != -1) {
             lines++;
