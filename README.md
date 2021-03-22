@@ -37,7 +37,7 @@ sudo bash setup.sh
 #### Mac
 - Coming Soon.
 ## Testing:
-It's a good idea to check your installation by running the code in `cPsqlDemo.c`.
+It's a good idea to check your installation by running`cPsqlDemo.bin` (compiled in the step above).
 This is a C script that attempts to connect to a ProstgreSQL
 server and perform some operations on whatever database you point it at.
 
