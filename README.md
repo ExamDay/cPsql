@@ -9,7 +9,7 @@ and the databases served by them.
 There are many closed-source database management programs available for PostgreSQL that do almost
 everything for you. If you, dear reader, are anything like myself, then standalone
 proprietary software that "Does Almost Everything!"&trade; smells of bloat and engineered
-dependance. The vast majority of use-cases for such programs can and should be 
+dependance. The vast majority of use-cases for such programs can and should be
 handled by a single C function, especially whenever a particular operation needs to be
 integrated into another piece of software, or to run with maximum time/space efficiency for
 deployment at scale. This software demonstrates how such a thing can be done, and will soon include
@@ -84,7 +84,7 @@ requiring each user have a unique email address, and a unique car_id, or none at
 
 All this is done with a ton of error checking along the way to ensure everything goes as intended
 and any errors are reported if they exist.
-## 
+##
 
 ## Contributing
 For contributors to the project; do this before making your first commit:
@@ -113,7 +113,7 @@ grip README.md --export README.html
 
 * **Gabe M. LaFond** - *Initial work* - [ExamDay](https://github.com/ExamDay)
 
-See also the list of [contributors](https://github.com/ExamDay/bitwise/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/ExamDay/cPsql/contributors) who participated in this project.
 
 ## License
 
