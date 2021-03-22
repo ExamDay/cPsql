@@ -2,7 +2,7 @@
 
 This is a set of programs that use C to interact with a PostgreSQL database. While useful in it's
 unmodified state for automating table updates, this also serves as an example of how to use the
-otherwise opaque Postgres C libraries for controlling postgres servers
+otherwise opaque Postgres C libraries for controlling PostgreSQL servers
 and the databases served by them.
 
 ## Why cPsql?
