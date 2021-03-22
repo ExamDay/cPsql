@@ -82,9 +82,9 @@ void main(int argc, char *argv[]) {
     // get and return connection information
     int ver = PQserverVersion(CONN);
     printf("\nserver version: %d\n", ver);
-    sql("DROP TABLE IF EXISTS gabe_demo_users;");
-    sql("DROP TABLE IF EXISTS gabe_demo_cars;");
-    sql("CREATE TABLE gabe_demo_cars("
+    sql("DROP TABLE IF EXISTS cPsql_demo_users;");
+    sql("DROP TABLE IF EXISTS cPsql_demo_cars;");
+    sql("CREATE TABLE cPsql_demo_cars("
         "id UUID NOT NULL PRIMARY KEY,"
         "make VARCHAR(50) NOT NULL,"
         "model VARCHAR(50) NOT NULL,"
@@ -92,7 +92,7 @@ void main(int argc, char *argv[]) {
         "country_of_manufacture VARCHAR(50),"
         "price VARCHAR(50) NOT NULL"
         ");");
-    sql("CREATE TABLE gabe_demo_users ("
+    sql("CREATE TABLE cPsql_demo_users ("
         "id UUID NOT NULL PRIMARY KEY,"
         "first_name VARCHAR(50) NOT NULL,"
         "last_name VARCHAR(50) NOT NULL,"
@@ -102,23 +102,23 @@ void main(int argc, char *argv[]) {
         "country_of_origin VARCHAR(50) NOT NULL,"
         "car_id UUID REFERENCES cars(id)"
         ");");
-    if (psql_copy("gabe_demo_cars", "csv/cars.csv", 100) != 1) {
+    if (psql_copy("cPsql_demo_cars", "csv/cars.csv", 100) != 1) {
         printf("%s\n", "psql_copy failed");
         graceful_exit();
     }
-    printf("\nSENT %s TO TABLE %s\n", "cars.csv", "gabe_demo_cars");
+    printf("\nSENT %s TO TABLE %s\n", "cars.csv", "cPsql_demo_cars");
 
-    if (psql_copy("gabe_demo_users", "csv/users.csv", 100) != 1) {
+    if (psql_copy("cPsql_demo_users", "csv/users.csv", 100) != 1) {
         printf("%s\n", "psql_copy failed");
         graceful_exit();
     }
-    printf("\nSENT %s TO TABLE %s\n", "users.csv", "gabe_demo_users");
+    printf("\nSENT %s TO TABLE %s\n", "users.csv", "cPsql_demo_users");
 
-    sql("ALTER TABLE gabe_demo_users ADD CONSTRAINT unique_emails UNIQUE(email);");
-    sql("ALTER TABLE gabe_demo_users ADD CONSTRAINT unique_cars UNIQUE(car_id);");
-    sql("UPDATE gabe_demo_users SET car_id = '921577ef-22ee-4db8-9dbb-9656b8be1621' WHERE id = 'c9b5c30e-bbeb-480c-9ed0-81a612012e4a'");
-    sql("UPDATE gabe_demo_users SET car_id = '8a85c592-ee25-4315-b60c-4faa0b410f20' WHERE first_name = 'Gustavo' AND last_name = 'Antoniottii' AND email = 'gantoniottiir@stumbleupon.com';");
-    sql("UPDATE gabe_demo_users SET car_id = '1312448e-9550-4118-929a-c3d58e3e7161' WHERE id = '80e1e7ce-86a3-4a81-841a-5e1a6a2da191';");
+    sql("ALTER TABLE cPsql_demo_users ADD CONSTRAINT unique_emails UNIQUE(email);");
+    sql("ALTER TABLE cPsql_demo_users ADD CONSTRAINT unique_cars UNIQUE(car_id);");
+    sql("UPDATE cPsql_demo_users SET car_id = '921577ef-22ee-4db8-9dbb-9656b8be1621' WHERE id = 'c9b5c30e-bbeb-480c-9ed0-81a612012e4a'");
+    sql("UPDATE cPsql_demo_users SET car_id = '8a85c592-ee25-4315-b60c-4faa0b410f20' WHERE first_name = 'Gustavo' AND last_name = 'Antoniottii' AND email = 'gantoniottiir@stumbleupon.com';");
+    sql("UPDATE cPsql_demo_users SET car_id = '1312448e-9550-4118-929a-c3d58e3e7161' WHERE id = '80e1e7ce-86a3-4a81-841a-5e1a6a2da191';");
     graceful_exit();
 };
 
