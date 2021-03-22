@@ -46,10 +46,10 @@ Specifically, it does this list of things, in order:
 1. Prompts the user for a host IP address, port number, role/username, database name,
 and password with which to forge a connection to a running PostgreSQL server.
 (To get past this step, you will need to provide connection info to an actual database,
-but I trust you can manage that on your own, if you don't have one laying
+but I trust you can manage that on your own if you don't have one laying
 around already.)
 
-2. Attempts to forge a connection with the provided credentials and prints out the server version as a proof of life. Otherwise prints an error message.
+2. Attempts to forge a connection with the provided credentials and prints out the server version as a proof-of-life. Otherwise prints an error message and exits.
 
 3. Drops any tables in the database named "cPsql_demo_users" or "cPsql_demo_cars" and
 recreates them with certain constraints on their columns.
