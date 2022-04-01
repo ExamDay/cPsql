@@ -17,11 +17,7 @@ a set of convenient C/C++ headers for the minimalist developer.
 ## How To Compile
 #### PSA
 The provided installation script `setup.sh` should run fine on any Debian or RedHat Linux
-system. I <strong>strongly</strong> recommend you read it before you run it! This script does
-require sudo privileges and confident as I am in my own code, you will know your computer
-better than I do.
-<br><br>
-Only YOU can prevent wildfires.
+system. Read it before you run it!
 #### Debian and RedHat Linux
 - Clone this repository.
 - Read `setup.sh`.
